@@ -1,0 +1,1114 @@
+;Unnamed: 0;Unnamed: 0.1;title;short_description;latitude;longitude;address;zip_code;icons;geometry
+0;0;0;WC U-Bahnhof Stiglmaierplatz;Die behindertengerechte Toilette ist geschlossen. (Mai 2021);48.1475;11.5586;Johann-Fichte-Str. 12;80805;"{""0"":""21""}";48.1475, 11.5586
+1;1;1;WC Bad Georgenschwaige Damen ;Bedingt Ã¶ffentliche Toilette in einem Freibad.;48.1756;11.5717;Belgradstr.;80804;"{""0"":""4"",""1"":""11""}";48.1756, 11.5717
+2;2;2;WC Bad Georgenschwaige Herren;Bedingt Ã¶ffentliche Toilette in einem Freibad.;48.1756;11.5717;Belgradstr.;80804;"{""0"":""6"",""1"":""20""}";48.1756, 11.5717
+3;3;3;WC Freibad Unterhaching;Bedingt Ã¶ffentliche Toilette mit Dusche in einem Freibad, mit Euroschloss.;48.0619;11.6208;Schrenkstr.;82008;"{""0"":""4"",""1"":""8"",""2"":""11""}";48.0619, 11.6208
+4;4;4;WC U-Bahnhof MÃ¼nchner Freiheit;"Ã–ffentliche Toilette im U-Bahnhof, zugÃ¤nglich mit EuroschlÃ¼ssel.
+";48.1622;11.587;MÃ¼nchner Freiheit;80802;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1622, 11.587
+5;5;5;WC Dynasty Unterhaching;HalbÃ¶ffentliche Toilette in einem Lokal.;48.0556;11.6076;Inselkammerstr.;82008;"{""0"":""4"",""1"":""17""}";48.0556, 11.6076
+6;6;6;WC Riemer See;Ã–ffentliche Toilette mit Pflegeliege am Badesee, zugÃ¤nglich mit EuroschlÃ¼ssel.;48.1271;11.7078;Riemer See;81829;"{""0"":""4"",""1"":""11""}";48.1271, 11.7078
+7;7;7;WC Ostbahnhof MÃ¼nchen;Ã–ffentliche Toilette im Bahnhof, zugÃ¤nglich mit EuroschlÃ¼ssel.;48.1284;11.6026;Orleansplatz;81667;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""12"",""4"":""20""}";48.1284, 11.6026
+8;8;8;WC Riem Arcaden;Ã–ffentliche Toilette im Einkaufszentrum.;48.1322;11.6909;Willy-Brandt-Platz;81829;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1322, 11.6909
+9;9;9;WC Alte Linde, Feldafing;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.9539;11.2682;Wieling;82340;"{""0"":""4"",""1"":""7"",""2"":""17""}";47.9539, 11.2682
+10;10;10;WC Alter Hof;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.13800000000001;11.5779;Alter Hof;80331;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.13800000000001, 11.5779
+11;11;11;WC Alter Wirt GrÃ¼nwald;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte. ;48.0399;11.5229;Marktplatz;82031;"{""0"":""4"",""1"":""11"",""2"":""13""}";48.0399, 11.5229
+12;12;12;WC Alter Wirt Forstenried;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0843;11.4949;Forstenrieder Allee;81476;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.0843, 11.4949
+13;13;13;WC Steinsee - Restaurant, Niederseeon;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0242;11.8592;Niederseeon;85665;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.0242, 11.8592
+14;14;14;WC Wirtshaus am Hart Herren;HalbÃ¶ffentliche Toilette in einer TheatergaststÃ¤tte.;48.1964;11.5765;Sudetendeutsche Str.;80937;"{""0"":""6"",""1"":""17""}";48.1964, 11.5765
+15;15;15;WC Bellevue;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;48.1603;11.5639;SchleiÃŸheimer Str.;80797;"{""0"":""4"",""1"":""7"",""2"":""20""}";48.1603, 11.5639
+16;16;16;WC Fasanerie;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.173;11.4936;Hartmannshoferstr.;80997;"{""0"":""1"",""1"":""4"",""2"":""17""}";48.173, 11.4936
+17;17;17;WC VereinsgaststÃ¤tte am Sportpark Grasbrunn;HalbÃ¶ffentliche Toilette in einer SportgaststÃ¤tte.;48.0877;11.7508;Am Sportpark;85630;"{""0"":""4"",""1"":""11""}";48.0877, 11.7508
+18;18;18;WC Gasthaus Waldpark, Putzbrunn Waldkolonie;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0712;11.6932;Parkstr.;85640;"{""0"":""4"",""1"":""7"",""2"":""20""}";48.0712, 11.6932
+19;19;19;WC Asam-SchlÃ¶ssl;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0952;11.5426;Maria-Einsiedel-Str.;81379;"{""0"":""4"",""1"":""17""}";48.0952, 11.5426
+20;20;20;WC Berghotel Aschbach, Feldkirchen-Westerham;HalbÃ¶ffentliche Toilette in einem Hotel.;0.0479;0.1185;Aschbachstr.;83620;"{""0"":""4"",""1"":""20""}";0.0479, 0.1185
+21;21;21;WC ASV Dachau;HalbÃ¶ffentliche Toilette in einer Sportanlage.;48.245;11.4357;GrÃ¶benrieder Str.;85221;"{""0"":""4"",""1"":""20""}";48.245, 11.4357
+22;22;22;WC Augustiner GroÃŸgaststÃ¤tte;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1384;11.5689;Neuhauserstr.;80331;"{""0"":""4"",""1"":""7"",""2"":""12"",""3"":""20""}";48.1384, 11.5689
+23;23;23;WC Augustinerkeller;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1434;11.552;Arnulfstr.;80335;"{""0"":""4"",""1"":""11""}";48.1434, 11.552
+24;24;24;WC Botanischer Garten;Bedingt Ã¶ffentliche Toilette in einer Gartenanlage.;48.1626;11.5004;Menzinger Str.;80638;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1626, 11.5004
+25;25;25;WC BrÃ¤ustÃ¼berl Schloss Seefeld;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0309;11.2035;Schlosshof;82229;"{""0"":""4"",""1"":""7"",""2"":""17""}";48.0309, 11.2035
+26;26;26;WC BÃ¼rgerzentrum OberschleiÃŸheim;Ã–ffentliche Toilette in einem BÃ¼rgerhaus.;48.2549;11.5546;Theodor-Heusstr.;85764;"{""0"":""4"",""1"":""12"",""2"":""20""}";48.2549, 11.5546
+27;27;27;WC Chinesischer Turm Herren;HalbÃ¶ffentliche Toilette in einem Biergarten mit EuroschlieÃŸung.;48.1524;11.5923;Englischer Garten;80538;"{""0"":""6"",""1"":""20""}";48.1524, 11.5923
+28;28;28;WC Gasteig;Ã–ffentliche Toiletten in einem Kulturzentrum EG - 4. OG.;48.131;11.5908;Rosenheimerstr.;81667;"{""0"":""4"",""1"":""12"",""2"":""20""}";48.131, 11.5908
+29;29;29;WC MÃ¼nchner Kammerspiele Werkraum, 1.OG;HalbÃ¶ffentliches WC in einem Veranstaltungsort.;48.1378;11.5813;Hildegardstr.;80539;"{""0"":""2"",""1"":""4"",""2"":""11"",""3"":""13""}";48.1378, 11.5813
+30;30;30;WC XXXLutz, Wolfratshausen;HalbÃ¶ffentliche Toilette  in einem Kaufhaus.;47.9015;11.4296;Hans-Urmiller-Ring;82515;"{""0"":""4"",""1"":""7"",""2"":""11""}";47.9015, 11.4296
+31;31;31;WC Das Schloss;HalbÃ¶ffentliche Toilette in einem Veranstaltungsort.;48.1615;11.5564;Schwere-Reiterstr.;80797;"{""0"":""4"",""1"":""20""}";48.1615, 11.5564
+32;32;32;WC Seibels Parkhotel;HalbÃ¶ffentliche Toilette im Hotel.;48.1416;11.4487;Maria-Eich-Str.;81243;"{""0"":""4"",""1"":""20""}";48.1416, 11.4487
+33;33;33;WC Der Pschorr;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1345;11.5748;Viktualienmarkt;80331;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""13""}";48.1345, 11.5748
+34;34;34;WC Wirtshaus Fasangarten;HalbÃ¶fffentliche Toilette in einer GaststÃ¤tte.;48.0977;11.6104;GÃ¶rzerstr.;81549;"{""0"":""4"",""1"":""20""}";48.0977, 11.6104
+35;35;35;WC Feldmochinger Hof;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;48.2144;11.5283;Feldmochinger Str.;80995;"{""0"":""4""}";48.2144, 11.5283
+36;36;36;WC Flemings Schwabing;HalbÃ¶ffentliche Toilette in einem Hotel.;48.1676;11.5868;Leopoldstr.;80804;;48.1676, 11.5868
+37;37;37;WC Flemings MÃ¼nchen City;HalbÃ¶ffentliche Toilette in einem Hotel.;48.138999999999996;11.5572;Bayerstr.;80335;{};48.138999999999996, 11.5572
+38;38;38;WC Forsthaus am See, PÃ¶cking;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.9499;11.3076;Am See;82343;{};47.9499, 11.3076
+39;39;39;WC Forsthaus Kasten;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0752;11.4168;Forsthaus Kasten;82061;"{""0"":""1"",""1"":""4"",""2"":""17""}";48.0752, 11.4168
+40;40;40;WC Franziskaner Wirtshaus;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1093;11.6708;Friedenspromenade;81827;"{""0"":""2"",""1"":""4"",""2"":""17""}";48.1093, 11.6708
+41;41;41;WC FÃ¼rstenfelder, FÃ¼rstenfeldbruck;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1705;11.2478;FÃ¼rstenfeld;82256;{};48.1705, 11.2478
+42;42;42;WC Garmischer Hof;WC in einer GaststÃ¤tte;48.1209;11.5274;HinterbÃ¤renbadstr.;81373;{};48.1209, 11.5274
+43;43;43;WC GartlerstÃ¼berl, Dachau;WC in einer GaststÃ¤tte;48.2562;11.4623;Kufsteiner Str.;85221;{};48.2562, 11.4623
+44;44;44;WC Gast im Gasteig;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.131;11.5908;Rosenheimer Str.;80667;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.131, 11.5908
+45;45;45;WC Marriott Schwabing;HalbÃ¶ffentliche Toilette in einem Hotel.;48.1745;11.5926;Berliner Str.;80805;"{""0"":""12"",""1"":""20""}";48.1745, 11.5926
+46;46;46;WC Theater Gut Nederling;WC bei einem Theater.;48.168;11.5163;Nederlinger Str.;81827;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.168, 11.5163
+47;47;47;WC AltmÃ¼nchner Gesellenhaus Herren;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1379;11.5637;Adolf-Kolping-Str.;80336;"{""0"":""2"",""1"":""6"",""2"":""17""}";48.1379, 11.5637
+48;48;48;WC Hard Rock Munich CafÃ©;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1376;11.5795;Platzl;80331;"{""0"":""1"",""1"":""4"",""2"":""17""}";48.1376, 11.5795
+49;49;49;WC Heide-Volm Biergarten, Planegg ;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1045;11.4144;Bahnhofstr.;82152;"{""0"":""4"",""1"":""11""}";48.1045, 11.4144
+50;50;50;WC Gasthaus HinterbrÃ¼hl;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;48.08600000000001;11.5402;HinterbrÃ¼hl;81479;"{""0"":""20""}";48.08600000000001, 11.5402
+51;51;51;WC Hirschau;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1618;11.6025;GyÃŸlingstr.;80805;{};48.1618, 11.6025
+52;52;52;WC HofbrÃ¤uhaus im EG;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1375;11.5799;Platzl;80331;"{""0"":""4"",""1"":""11""}";48.1375, 11.5799
+53;53;53;WC HofbrÃ¤ukeller;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1345;11.5949;Innere-Wiener-Str.;81667;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.1345, 11.5949
+54;54;54;WC Kuffler Restaurant Bar Grill;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1387;11.5785;Hofgraben;80539;{};48.1387, 11.5785
+55;55;55;WC im Hugendubel am Stachus;HalbÃ¶ffentliche Toilette in einem Kaufhaus.;48.1388;11.5659;Karlsplatz;80335;"{""0"":""4"",""1"":""12"",""2"":""20""}";48.1388, 11.5659
+56;56;56;WC Hotel Bayerpost;HalbÃ¶ffentliche Toilette in einem Hotel.;48.1395;11.5568;Bayerstr.;80335;"{""0"":""11"",""1"":""12""}";48.1395, 11.5568
+57;57;57;WC Karstadt Oberpollinger;HalbÃ¶ffentliche Toilette in einem Kaufhaus.;48.138999999999996;11.5676;Neuhauserstr.;80331;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.138999999999996, 11.5676
+58;58;58;WC Karstadt im OEZ;Ã–ffentliche Toilette in einem Kaufhaus.;48.1818;11.5383;Riesstr.;80994;;48.1818, 11.5383
+59;59;59;WC Klostergasthof Andechs;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.9735;11.1834;Bergstr.;82346;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11""}";47.9735, 11.1834
+60;60;60;WC KlosterstÃ¼berl FÃ¼rstenfeldbruck;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1701;11.2484;Kloster FÃ¼rstenfeld;82256;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1701, 11.2484
+61;61;61;WC Kulturzentrum Giesing;HalbÃ¶ffentliche Toilette in einem Kulturzentrum.;48.1103;11.5962;Giesinger Bahnhofplatz;81539;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11""}";48.1103, 11.5962
+62;62;62;WC Kugler Alm, Oberhaching;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0358;11.5751;Linienstr.;82041;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.0358, 11.5751
+63;63;63;WC Kunsthalle MÃ¼nchen;Bedingt Ã¶ffentliche Toilette in einem Museum.;48.1398;11.5759;Theatinerstr.;80333;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.1398, 11.5759
+64;64;64;WC Restaurant Langwieder See;HalbÃ¶ffentliche Toilette  in einer GaststÃ¤tte;48.1976;11.4143;Kreuzkapellenstr.;81249;;48.1976, 11.4143
+65;65;65;WC Rilano No. 6 im Lenpach Palais;WC in einer GaststÃ¤tte;48.1416;11.5681;Ottostr.;80333;{};48.1416, 11.5681
+66;66;66;WC Le Meridian Hotel;HalbÃ¶ffentliche Toilette in einem Hotel.;48.1386;11.5577;Bayerstr.;80539;;48.1386, 11.5577
+67;67;67;WC CafÃ© Ludwig;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;48.1774;11.5793;Kloppstockstr.;80804;"{""0"":""4"",""1"":""11"",""2"":""13""}";48.1774, 11.5793
+68;68;68;WC Luitpold am See;HalbÃ¶ffentliche Toilette in einem Hotel.;47.861000000000004;12.3653;Seestr.;83209;"{""0"":""4"",""1"":""7"",""2"":""13"",""3"":""17""}";47.861000000000004, 12.3653
+69;69;69;WC Maredo am Rindermarkt;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1359;11.5746;Rindermarkt;80331;{};48.1359, 11.5746
+70;70;70;WC Michaeligarten Biergarten;HalbÃ¶ffentliche Toilette vor einem Biergarten mit Euroschloss.;48.1154;11.6382;Feichtstr.;81735;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1154, 11.6382
+71;71;71;WC TSV Milbertshofen;HalbÃ¶ffentliche Toilette im Sportheim.;48.1803;11.5762;Hans-Denzinger-Str.;80807;{};48.1803, 11.5762
+72;72;72;WC Gasthaus MÃ¶sl, Germerswang;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;48.2171;11.2601;Hauptstr.;82216;{};48.2171, 11.2601
+73;73;73;WC Neuwirt Ismaning;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.2288;11.672;SchloÃŸstr.;85737;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.2288, 11.672
+74;74;74;WC Olympia Einkaufszentrum ;Ã–ffentliche Toilette im Einkaufszentrum mit Euroschloss.;48.1835;11.534;Hanauer Str.;80993;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1835, 11.534
+75;75;75;WC Olympiaturm;HalbÃ¶ffentliche Toilette im Olympiaturm mit Euroschloss.;48.1744;11.5537;Spiridon-Louis-Ring;80809;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""20""}";48.1744, 11.5537
+76;76;76;WC Mykonos;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1092;11.5382;SchÃ¶ttlstr.;81369;"{""0"":""1"",""1"":""4"",""2"":""20""}";48.1092, 11.5382
+77;77;77;WC Schuhbeck's am Platzl;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1383;11.5801;am Platzl;80331;{};48.1383, 11.5801
+78;78;78;WC PUC, Puchheim;Ã–ffentliche Toilette im Kulturzentrum.;48.1699;11.3462;Oskar-Maria-Graf-Str.;82178;{};48.1699, 11.3462
+79;79;79;WC Pasinger Fabrik;HalbÃ¶ffentliche Toilette im Kulturzentrum.;48.151;11.4612;August-Exter-Str.;81245;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""20""}";48.151, 11.4612
+80;80;80;WC Paulaner am Nockherberg - Biergarten;HalbÃ¶ffentliche Toilette in einem Biergarten.;48.1217;11.5825;Hochstr.;81541;"{""0"":""4"",""1"":""11""}";48.1217, 11.5825
+81;81;81;WC Paulaner im Tal;Insolvenz- Mai 2020;48.1359;11.5786;Tal;80331;{};48.1359, 11.5786
+82;82;82;WC Pizza Hut Milbertshofen;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1756;11.5594;Lerchenauerstr.;80809;"{""0"":""2"",""1"":""20""}";48.1756, 11.5594
+83;83;83;WC Prinzregent an der Messe;HalbÃ¶ffentliche Toilette in einem Hotel.;48.1405;11.681;Riemer Str.;81829;"{""0"":""4"",""1"":""17""}";48.1405, 11.681
+84;84;84;WC Prinzregent Garten;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1407;11.469000000000001;Benedikterstr.;81241;"{""0"":""4"",""1"":""17""}";48.1407, 11.469000000000001
+85;85;85;WC Puchheimer SportgaststÃ¤tte;HalbÃ¶ffentliche Toilette in einer Sportanlage.;48.1799;11.3543;BÃ¼rgermeister-Ertl-Str.;82178;{};48.1799, 11.3543
+86;86;86;WC Ratskeller;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1377;11.5759;Marienplatz;80331;{};48.1377, 11.5759
+87;87;87;WC Rigoletto;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;48.1648;11.5585;Rosa-Aschenbrenner-Bogen;80797;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.1648, 11.5585
+88;88;88;WC Hauptbahnhof MÃ¼nchen Imbissbereich;Ã–ffentliche Bahnhofstoilette ohne Euroschloss.;48.1409;11.561;MÃ¼nchen Hauptbahnhof;80335;"{""0"":""4""}";48.1409, 11.561
+89;89;89;WC Schlachthof  BÃ¼hne und Wirtshaus;HalbÃ¶ffentliche Toilette in einer TheatergaststÃ¤tte.;48.1234;11.5574;Zenetti;80337;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1234, 11.5574
+90;90;90;WC Schloss Dachau;HalbÃ¶ffentliche Toilette in einem Museum.;48.2582;11.4332;Schlosssstr.;85221;{};48.2582, 11.4332
+91;91;91;WC Schlosswirtschaft  OberschleiÃŸheim;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.24800000000001;11.559000000000001;Maximilianshof;85764;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.24800000000001, 11.559000000000001
+92;92;92;WC Schrannenhalle;Ã–ffentliche Toilette in einer Markthalle.;48.1353;11.575999999999999;Viktualienmarkt;80331;"{""0"":""6"",""1"":""11"",""2"":""12""}";48.1353, 11.575999999999999
+93;93;93;WC Waldgasthof SchusterhÃ¤usl, Germering;WC in einer GaststÃ¤tte;48.1281;11.3258;SchusterhÃ¤usl;82110;{};48.1281, 11.3258
+94;94;94;WC Seehaus im Englischen Garten;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1605;11.5983;Kleinhesselohe;80803;"{""0"":""4"",""1"":""7"",""2"":""17""}";48.1605, 11.5983
+95;95;95;WC Haus Am SEE, Seeshaupt;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.8203;11.3208;St. Heinricher Str.;82402;"{""0"":""2"",""1"":""4"",""2"":""17""}";47.8203, 11.3208
+96;96;96;WC Seestubn Percha;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;47.9956;11.3595;Schiffbauerweg;82319;"{""0"":""4"",""1"":""20""}";47.9956, 11.3595
+97;97;97;WC Gasthaus Siebenbrunn;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0997;11.5606;Siebenbrunner Str.;82543;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11""}";48.0997, 11.5606
+98;98;98;WC CafÃ© Sonnenschein, Taufkirchen;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0461;11.6124;KÃ¶glweg;82024;{};48.0461, 11.6124
+99;99;99;WC Sportpark Ismaning;HalbÃ¶ffentiche Toilette in einer Sportanlage.;48.2418;11.6858;GrÃ¼nfleckstr.;85737;"{""0"":""4"",""1"":""20""}";48.2418, 11.6858
+100;100;100;WC Stadtmuseum - Filmmuseum CafÃ© Saal;Ã–ffentliche Toilette mit Euro-SchlieÃŸung in einem Kino bzw. Museum.;48.1351;11.5726;St.-Jakobs-Platz;80331;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.1351, 11.5726
+101;101;101;WC Starbucks  Coffee ResidenzstraÃŸe;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1391;11.5772;Residenzstr.;80330;{};48.1391, 11.5772
+102;102;102;WC Staudenwirt;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0181;11.0187;Staudenweg;86923;{};48.0181, 11.0187
+103;103;103;WC BÃ¼rgersaal Haidhausen - Drehleier;WC in einem Theater bzw. einem BÃ¼rgersaal.;48.12600000000001;11.5985;Rosenheimer Str.;81667;"{""0"":""4"",""1"":""20""}";48.12600000000001, 11.5985
+104;104;104;WC Taxisgarten;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1629;11.5328;Taxisstr.;80637;"{""0"":""2"",""1"":""4"",""2"":""17""}";48.1629, 11.5328
+105;105;105;WC Starbucks  Coffee FeilitzstraÃŸe;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1612;11.588;Feilitzschstr.;80802;{};48.1612, 11.588
+106;106;106;WC BÃ¼rgersaal FÃ¼rstenried;HalbÃ¶ffentliche Toilette in einem Gemeindehaus.;48.0939;11.4993;ZÃ¼richer Str.;81476;"{""0"":""4"",""1"":""13"",""2"":""20""}";48.0939, 11.4993
+107;107;107;WC Undosa, Starnberg;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.9942;11.3401;Seepromenade;82319;{};47.9942, 11.3401
+108;108;108;WC Unions BrÃ¤u;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1354;11.6008;Einsteinstr.;81675;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1354, 11.6008
+109;109;109;WC Vereinsheim Germering, Herren;HalbÃ¶ffentliche Toilette in einer VereinsgaststÃ¤tte.;48.1333;11.3741;Max-Reger-Str.;82110;"{""0"":""2"",""1"":""6"",""2"":""7"",""3"":""13"",""4"":""17""}";48.1333, 11.3741
+110;110;110;WC Waldheim;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1027;11.4783;Waldheim;81377;{};48.1027, 11.4783
+111;111;111;WC Schneider BrÃ¤uhaus / Weisses BrÃ¤uhaus;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1364;11.5784;Tal;80331;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""20""}";48.1364, 11.5784
+112;112;112;WC im Eine-Welt-Haus;Toilette in einer Kultureinrichtung mit Euroschloss.;48.1379;11.5529;Schwanthalerstr.;80333;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11""}";48.1379, 11.5529
+113;113;113;WC Zum Aumeister;WC in einem Biergarten.;48.18600000000001;11.6198;Sondermeierstr.;80939;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.18600000000001, 11.6198
+114;114;114;WC Zum Franziskaner PoststÃ¼berl;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1392;11.5771;Residenzstr.;80333;;48.1392, 11.5771
+115;115;115;WC Al Ruscello Ismaning;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.226000000000006;11.6743;Hauptstr.;85737;"{""0"":""4"",""1"":""12"",""2"":""20""}";48.226000000000006, 11.6743
+116;116;116;WC Haus der Kunst;HalbÃ¶ffentliche Toilette in einem Museum.;48.1441;11.5861;Prinzregentenstr.;80538;;48.1441, 11.5861
+117;117;117;WC Kulturzentrum Milbertshofen;HalbÃ¶ffentliche Toilette in einem Kulturzentrum.;48.1819;11.5671;Curt-Mezger-Platz;80809;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.1819, 11.5671
+118;118;118;WC im Museum Mensch und Natur;HalbÃ¶ffentliche Toilette in einem Museum.;48.159;11.5116;SchloÃŸ Nymphenburg;80638;"{""0"":""4"",""1"":""7"",""2"":""17""}";48.159, 11.5116
+119;119;119;WC Restaurant im Tierpark Hellabrunn;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;48.0993;11.5584;Tierparkstr.;81543;;48.0993, 11.5584
+120;120;120;WC Bella Italia;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1284;11.5945;WeiÃŸenburger Str.;80669;"{""0"":""1"",""1"":""4"",""2"":""11""}";48.1284, 11.5945
+121;121;121;WC Hilton Munich Park;HalbÃ¶ffentliche Toilette in einem Hotel.;48.1535;11.6007;Am Tucherpark ;80538;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1535, 11.6007
+122;122;122;WC Neuer am See;HalbÃ¶ffentliche Toilette in einem Hotel.;47.8603;12.3633;Seestr.;83209;"{""0"":""12"",""1"":""20""}";47.8603, 12.3633
+123;123;123;WC Seehof Herrsching;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.9946;11.1684;Seestr.;82211;"{""0"":""4"",""1"":""17""}";47.9946, 11.1684
+124;124;124;WC Gasthaus Lorber, Neuried;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0925;11.4636;Gautinger Str.;82061;"{""0"":""17""}";48.0925, 11.4636
+125;125;125;WC Gasthof Soller, Ismaning;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.2248;11.6782;Bahnhofstr.;85737;"{""0"":""2"",""1"":""4"",""2"":""13"",""3"":""17""}";48.2248, 11.6782
+126;126;126;WC BÃ¼rgerhaus Karlsfeld;HalbÃ¶ffentliche Toilette in einem BÃ¼rgerhaus.;48.2229;11.4707;Allacherstr.;85757;"{""0"":""6"",""1"":""7"",""2"":""17""}";48.2229, 11.4707
+127;127;127;WC Zamila Seestubn;HalbÃ¶ffentliche Toilette in einer SportgaststÃ¤tte.;48.1445;11.6446;Fritz-Lutz-Str.;81929;"{""0"":""4"",""1"":""17""}";48.1445, 11.6446
+128;128;128;WC Leiberheim;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0787;11.6724;Nixenweg;81739;{};48.0787, 11.6724
+129;129;129;WC  Alten- und Service Zentrum Jakobsplatz;HalbÃ¶ffentliche Toilette in einem  Alten- und Service Zentrum.;48.1343;11.573;St.-Jakobs-Platz;80331;"{""0"":""4"",""1"":""17"",""2"":""20""}";48.1343, 11.573
+130;130;130;WC Museum fÃ¼nf Kontinente;HalbÃ¶ffentliche Toilette  in einem Museum.;48.1374;11.5855;Maximilianstr;80538;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.1374, 11.5855
+131;131;131;WC Central Tower MÃ¼nchen;Ã–ffentliche Toilette in einem BÃ¼rogebÃ¤ude.;48.1404;11.5354;Landsberger Str.;80339;"{""0"":""4"",""1"":""11""}";48.1404, 11.5354
+132;132;132;WC Hirschgarten im Biergarten;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte, mit EuroschlÃ¼ssel.;48.1498;11.511;Hirschgartenallee;80639;"{""0"":""4"",""1"":""11""}";48.1498, 11.511
+133;133;133;WC Maredo am Dom;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1379;11.5738;Frauenplatz;80331;{};48.1379, 11.5738
+134;134;134;WC Mei Wirtshaus, Garching-HochbrÃ¼ck;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.2481;11.612;Hohe-BrÃ¼cken-Str.;85748;"{""0"":""4"",""1"":""11""}";48.2481, 11.612
+135;135;135;WC Rondell, Garching;HalbÃ¶ffentliche Toilette in einem BÃ¼rgerhaus.;48.2504;11.6503;BÃ¼rgerplatz;85748;"{""0"":""4"",""1"":""11""}";48.2504, 11.6503
+136;136;136;WC Dallmayr;HalbÃ¶ffentliche Toilette in einem Kaufhaus.;48.1384;11.5772;Dienerstr. 14 -;80333;"{""0"":""4"",""1"":""7"",""2"":""12"",""3"":""20""}";48.1384, 11.5772
+137;137;137;WC Ayinger BrÃ¤ustÃ¼berl;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.9709;11.7798;MÃ¼nchener Str.;85653;"{""0"":""4"",""1"":""17""}";47.9709, 11.7798
+138;138;138;WC JÃ¼disches Museum;HalbÃ¶ffentliche Toilette in einem Museum.;48.1343;11.5723;St. Jakobsplatz;80331;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1343, 11.5723
+139;139;139;WC Puchheimer BÃ¼rgerstuben;HalbÃ¶ffentliche Toilette in einem BÃ¼rgerhaus.;48.1799;11.3539;BÃ¼rgermeister-Ertl-Str.;82178;{};48.1799, 11.3539
+140;140;140;WC Mutabor am Stemmerhof;HalbÃ¶ffentliche Toilette in einer Behinderteneinrichtung.;48.1217;11.5405;Plinganserstr.;81369;"{""0"":""4"",""1"":""20""}";48.1217, 11.5405
+141;141;141;WC fÃ¼r alle BrÃ¤ustÃ¼berl  Andechs;HalbÃ¶ffentliche 'Toilette fÃ¼r Alle' mit Pflegeliege, Lifter und Euroschloss in einer GaststÃ¤tte.;47.9746;11.1826;Bergstr.;82346;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""10"",""4"":""11""}";47.9746, 11.1826
+142;142;142;WC Muffathalle;HalbÃ¶ffentliche Toilette in einem Veranstaltungsort.;48.1332;11.5897;Zellstr.;82667;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.1332, 11.5897
+143;143;143;WC Ayinger im Wolf Ferrari Haus;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0652;11.6658;Am Bogen;85521;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.0652, 11.6658
+144;144;144;WC ParkcafÃ©;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1423;11.5645;Sophienstr.;80333;{};48.1423, 11.5645
+145;145;145;WC Ho Restaurant, Unterhaching;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0793;11.6061;Parkstr.;82008;"{""0"":""4"",""1"":""11""}";48.0793, 11.6061
+146;146;146;WC CafÃ© Regenbogen - Haar;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;48.1162;11.747;Ringstr.;85540;"{""0"":""4"",""1"":""11""}";48.1162, 11.747
+147;147;147;WC BrÃ¤ustÃ¼berl Weihenstephan, Freising;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.3957;11.7285;Weihenstephaner Berg;85254;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.3957, 11.7285
+148;148;148;WC Rosengarten im Westpark;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1229;11.5089;Westendstr.;81377;"{""0"":""4"",""1"":""17""}";48.1229, 11.5089
+149;149;149;WC Kloster Benediktbeuern;Ã–ffentliche Toilette auf dem KlostergelÃ¤nde - mit Euroschloss.;47.7078;11.4011;Zeiler Weg;83671;"{""0"":""2"",""1"":""4"",""2"":""11""}";47.7078, 11.4011
+150;150;150;WC Alpengasthof Kreut-Alm, GroÃŸweil;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.6747;11.3025;Kreutstr.;82439;"{""0"":""1"",""1"":""2"",""2"":""4"",""3"":""17""}";47.6747, 11.3025
+151;151;151;WC KlosterbrÃ¤u Schlehdorf;HalbÃ¶ffentliche Toilette mit Dusche in einer GaststÃ¤tte.;47.6557;11.315999999999999;Seestr.;82444;"{""0"":""4"",""1"":""8"",""2"":""11""}";47.6557, 11.315999999999999
+152;152;152;WC Ebersberger Alm;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0888;11.9619;LudwigshÃ¶he;85560;"{""0"":""1"",""1"":""4"",""2"":""20""}";48.0888, 11.9619
+153;153;153;WC Sportpark Heimstetten;WC in einer Sportanlage.;48.1633;11.7487;Am Sportpark;85551;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1633, 11.7487
+154;154;154;WC Gasthof zur Post Aschheim;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1735;11.715;Ismaninger Str.;85609;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1735, 11.715
+155;155;155;WC Brauerei Ausschank Schnitzlbaumer, Traunstein;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;47.8701;12.6483;Taubenmarkt;83278;"{""0"":""4"",""1"":""20""}";47.8701, 12.6483
+156;156;156;WC Michlwirt in Palling;HalbÃ¶ffentliche Toilette  in einer GaststÃ¤tte.;48.00100000000001;12.6368;Steiner Str.;83349;{};48.00100000000001, 12.6368
+157;157;157;WC Lokschuppen, Rosenheim;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.8526;12.1282;Rathausstr.;83022;"{""0"":""1"",""1"":""4"",""2"":""7"",""3"":""11""}";47.8526, 12.1282
+158;158;158;WC Strandkurhaus Waging am See;HalbÃ¶ffentliches Dusch-WC in einer GaststÃ¤tte.;47.9453;12.747;Am See;83329;"{""0"":""4"",""1"":""8"",""2"":""11""}";47.9453, 12.747
+159;159;159;WC Literaturhaus;HalbÃ¶ffentliche Toilette in einem Veranstaltungsort.;48.1419;11.5749;Salvatorplatz;80333;"{""0"":""2"",""1"":""11"",""2"":""13""}";48.1419, 11.5749
+160;160;160;WC Hotel Ibis Schwabing;HalbÃ¶ffentliche Toilette in einem Hotel.;48.1796;11.5931;Lyonel-Feininger-Str.;80807;{};48.1796, 11.5931
+161;161;161;WC Smaragd;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1826;11.5939;Alfred-Arndt-Str.;80807;{};48.1826, 11.5939
+162;162;162;WC AmpÃ¨re Muffatwerk;HalbÃ¶ffentliche Toilette an einem Veranstaltungsort.;48.1329;11.5894;Zellstr.;81667;"{""0"":""4"",""1"":""20""}";48.1329, 11.5894
+163;163;163;WC Angerwirt, Malching;HalbÃ¶ffentliche Toilette in einer Sportanlage.;48.2127;11.2173;Sportplatzstr.;82216;"{""0"":""1"",""1"":""4"",""2"":""20""}";48.2127, 11.2173
+164;164;164;WC BÃ¼rgerhaus Pullach;Ã–ffentliche Toilette in einem BÃ¼rgerhaus.;48.0569;11.5245;Heilmannstr.;82049;"{""0"":""4"",""1"":""7"",""2"":""13"",""3"":""20""}";48.0569, 11.5245
+165;165;165;WC Gasthof Gut Keferloh;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0959;11.7272;Keferloh;85630;"{""0"":""1"",""1"":""7"",""2"":""17""}";48.0959, 11.7272
+166;166;166;WC Brauereigasthof Aying August und Maria, Aying;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.9707;11.7806;Zornedinger Str.;85653;"{""0"":""4"",""1"":""20""}";47.9707, 11.7806
+167;167;167;WC Herrmannsdorfer SchweinsbrÃ¤u;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.9932;11.8984;Herrmannsdorf;85625;;47.9932, 11.8984
+168;168;168;WC Wallfahrtskirche MariÃ¤ Himmelfahrt, HohenpeiÃŸenberg;Ã–ffentliche Toilette in einem Pfarrheim.;47.8007;11.0144;MatthÃ¤us-GÃ¼nther-Platz;82383;"{""0"":""11""}";47.8007, 11.0144
+169;169;169;WC Alpenblick Seerestaurant Uffing;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.7094;11.1615;Kirchtalstr.;82449;"{""0"":""2"",""1"":""4"",""2"":""20""}";47.7094, 11.1615
+170;170;170;WC Freiheizhalle;HalbÃ¶ffentliche Toilettean einem Veranstaltungort.;48.1438;11.5366;Rainer-Werner-FaÃŸbinder-Platz;80636;"{""0"":""4"",""1"":""11""}";48.1438, 11.5366
+171;171;171;WC Bayrischer Hof;HalbÃ¶ffentliche Toilette in einem Hotel;48.1401;11.5736;Promenadeplatz;80333;"{""0"":""4"",""1"":""11"",""2"":""13""}";48.1401, 11.5736
+172;172;172;WC Kargs BrÃ¤ustÃ¼berl, Murnau;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.6766;11.200999999999999;Untermarkt;82418;{};47.6766, 11.200999999999999
+173;173;173;WC Hotel AngerbrÃ¤u, Murnau;HalbÃ¶ffentliche Toilette in einem Hotel.;47.6757;11.2009;Untermarkt;82418;"{""0"":""2"",""1"":""4"",""2"":""20""}";47.6757, 11.2009
+174;174;174;WC GriesbrÃ¤u zu Murnau;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.6796;11.2003;Obermarkt;82418;{};47.6796, 11.2003
+175;175;175;WC BMW Welt 2. Stock;WC in einem Autotempel.;48.1768;11.5565;Am Olympiapark;80809;"{""0"":""4"",""1"":""12"",""2"":""20""}";48.1768, 11.5565
+176;176;176;WC Schlosswirtschaft  Mariabrunn, RÃ¶hrmoos;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.3294;11.45;Gut Mariabrunn;85244;{};48.3294, 11.45
+177;177;177;WC KlosterstÃ¼berl Fischbachau;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.7195;11.9503;Kirchplatz;83730;"{""0"":""4"",""1"":""7"",""2"":""20""}";47.7195, 11.9503
+178;178;178;WC Franz Marc Museum, Kochel;HalbÃ¶ffentliche Toilette in einem Museum.;47.6504;11.3649;Franz Marc Park;82431;"{""0"":""4"",""1"":""11""}";47.6504, 11.3649
+179;179;179;WC Seidlvilla;Ã–ffentliche Toilette in einem Kulturzentrum.;48.1586;11.5877; Nikolaiplatz;80802;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.1586, 11.5877
+180;180;180;WC Allianz Arena Bistro;HalbÃ¶ffentliche Toilette in einem VeranstaltungsgebÃ¤ude.;48.2188;11.6246;Werner-Heisenberg-Allee;80939;"{""0"":""7"",""1"":""11"",""2"":""12""}";48.2188, 11.6246
+181;181;181;WC Schlosshotel Herrenchiemsee;WC in einer GaststÃ¤tte;47.8604;12.402000000000001;Herrenchiemsee;83209;;47.8604, 12.402000000000001
+182;182;182;WC SchlosscafÃ© im Neuen Schloss;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.8604;12.402000000000001;Herrenchiemsee;83209;;47.8604, 12.402000000000001
+183;183;183;WC Huber am See, Ambach;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.871;11.3335;Holzbergstr.;82541;{};47.871, 11.3335
+184;184;184;WC Naturfreundehaus Weilheim;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.8286;11.1255;Holzhofstr.;82362;;47.8286, 11.1255
+185;185;185;WC Rosengarten China Restaurant Ye Dayong, Bad TÃ¶lz;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.7586;11.5834;Prof.-Max-Lange-Platz;83646;"{""0"":""4"",""1"":""7"",""2"":""11""}";47.7586, 11.5834
+186;186;186;WC Giesinger Kult(ur)cafÃ©;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.114;11.5782;Tegernseer LandstraÃŸe;81539;{};48.114, 11.5782
+187;187;187;WC Hans im GlÃ¼ck KÃ¶nigsplatz;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1439;11.5629;Luisenstr.;80333;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1439, 11.5629
+188;188;188;WC Ihle CafÃ© LuisenstraÃŸe;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1441;11.5627;Karlstr / Ecke Luisenstr.;80333;"{""0"":""4"",""1"":""7"",""2"":""17""}";48.1441, 11.5627
+189;189;189;WC FC PhÃ¶nix,  OberschleiÃŸheim;HalbÃ¶ffentliche Toilette in einer Sportanlage.;48.2459;11.5599;Effnerstr.;85764;"{""0"":""4"",""1"":""11""}";48.2459, 11.5599
+190;190;190;WC Gartencenter Seebauer;HalbÃ¶ffentliche Toilette in einem Kaufhaus.;48.1068;11.6214;Ottobrunner Str.;81737;"{""0"":""4"",""1"":""7"",""2"":""13"",""3"":""20""}";48.1068, 11.6214
+191;191;191;WC Neue Pinakothek Herren;HalbÃ¶ffentliche Toilette in einem Museum.;48.1499;11.5709;Barerstr.;80797;"{""0"":""6"",""1"":""20""}";48.1499, 11.5709
+192;192;192;WC Haus der Bayerischen Wirtschaft;Ã–ffentliche Toilette in einem VerwaltungsgebÃ¤ude.;48.143;11.57;Max-Joseph-Str.;80333;"{""0"":""4"",""1"":""20""}";48.143, 11.57
+193;193;193;WC Neuwirt Gelting;WC in einer GaststÃ¤tte;47.8961;11.4228;Wolfratshauser Str.;82538;{};47.8961, 11.4228
+194;194;194;WC MathÃ¤ser Kino - Foyer;Ã–ffentliches WC in einem Kino.;48.1391;11.5638;Bayerstr.;80335;"{""0"":""4"",""1"":""12"",""2"":""20""}";48.1391, 11.5638
+195;195;195;WC DJK Waldram;WC in einer SportgaststÃ¤tte.;47.9017;11.449000000000002;Kardinal-Wendel-Str.;82515;"{""0"":""1""}";47.9017, 11.449000000000002
+196;196;196;WC Mira Centrum Nordheide;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;48.2129;11.5636;SchleiÃŸheimer Str.;80933;{};48.2129, 11.5636
+197;197;197;WC Kentucky Fried Chicken;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1357;11.5805;Tal;80331;{};48.1357, 11.5805
+198;198;198;WC Ruffini CafÃ© Konditorei Weinhaus;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;48.1579;11.5354;Orffstr.;80637;"{""0"":""4""}";48.1579, 11.5354
+199;199;199;WC Verkehrszentrum des Deutschen Museums;HalbÃ¶ffentliche Toilette in einem Museum.;48.1328;11.5459;Am Bavariapark;80339;"{""0"":""4"",""1"":""11""}";48.1328, 11.5459
+200;200;200;WC Daily;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1763;11.5917; Mies-van-der-Rohe-Str.;80807;"{""0"":""1"",""1"":""4"",""2"":""11""}";48.1763, 11.5917
+201;201;201;WC Museum Brandhorst, UG im Ã¶ffentlichen Bereich.;HalbÃ¶ffentliche Toilette in einem Museum.;48.1476;11.5738;Theresienstr.;80331;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1476, 11.5738
+202;202;202;WC Ristorante Sicilia;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1932;11.4591;Eversbuschstr.;80999;"{""0"":""4"",""1"":""5"",""2"":""20""}";48.1932, 11.4591
+203;203;203;WC Alte Pinakothek;HalbÃ¶ffentliche Toilette in einem Museum.;48.1482;11.5699;Barerstr.;80799;"{""0"":""4"",""1"":""11""}";48.1482, 11.5699
+204;204;204;WC sansaro;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1514;11.5787;Amalienstr.;80799;{};48.1514, 11.5787
+205;205;205;WC Alex;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1534;11.5327;Rotkreuzplatz;80643;"{""0"":""4"",""1"":""6"",""2"":""20""}";48.1534, 11.5327
+206;206;206;WC Osteria La Baia;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1383;11.5195;Straubinger Str.;80687;"{""0"":""1"",""1"":""4""}";48.1383, 11.5195
+207;207;207;WC EiscafÃ© Cellino;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.214;11.54;Josef-Frankl-Str.;80995;"{""0"":""4"",""1"":""20""}";48.214, 11.54
+208;208;208;WC CafÃ© Soleil;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1983;11.5347;Lassallestr.;80995;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1983, 11.5347
+209;209;209;WC Riva Bar Pizzeria;WC in einer GaststÃ¤tte.;48.1615;11.5875;Feilitzschstr.;80802;"{""0"":""2""}";48.1615, 11.5875
+210;210;210;WC Museum Villa Stuck;HalbÃ¶fffentliche Toilette in einem Museum.;48.1404;11.5996;Prinzregentenstr.;81675;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11"",""4"":""12""}";48.1404, 11.5996
+211;211;211;WC Hotel Innside Schwabing;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1768;11.5921;Mies-van-der-Rohe-Str.;780807;"{""0"":""4""}";48.1768, 11.5921
+212;212;212;WC Goloseo Grande;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1801;11.5853;Karl-Weinmair-Str.;80807;{};48.1801, 11.5853
+213;213;213;WC Biergarten SchloÃŸallee Haag / Amper;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.4585;11.8325;Freisinger Str.;85410;"{""0"":""4"",""1"":""20""}";48.4585, 11.8325
+214;214;214;WC Gasthaus Landbrecht, Haindlfing;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.4394;11.7236;Freisinger Str.;85354;"{""0"":""4"",""1"":""11""}";48.4394, 11.7236
+215;215;215;WC Al Municipio, Zolling;WC in einer GaststÃ¤tte;48.4512;11.7726;Rathausplatz;85406;{};48.4512, 11.7726
+216;216;216;WC Georgenhof;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;48.1549;11.5791;Friedrichstr.;80801;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11""}";48.1549, 11.5791
+217;217;217;WC Hopfengarten;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1255;11.5268;Siegenburger StraÃŸe;81373;"{""0"":""4"",""1"":""17""}";48.1255, 11.5268
+218;218;218;WC moccar pompidou;HalbÃ¶ffentliche Toilette  in einer GaststÃ¤tte.;48.1432;11.5454;Grete-Mosheim-Str.;80335;{};48.1432, 11.5454
+219;219;219;WC Cooking Yu;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0999;11.5279;Boschetsrieder Str.;81379;{};48.0999, 11.5279
+220;220;220;WC Adria;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1571;11.5841;Leopoldstr.;80802;"{""0"":""4"",""1"":""11""}";48.1571, 11.5841
+221;221;221;WC Terrazza;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;48.1423;11.549000000000001;HackerbrÃ¼cke;80335;{};48.1423, 11.549000000000001
+222;222;222;WC Zentraler Busbahnhof MÃ¼nchen;Ã–ffentliche Toilette mit Euroschloss.;48.1423;11.549000000000001;HackerbrÃ¼cke;80335;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1423, 11.549000000000001
+223;223;223;WC Reitschule;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1554;11.5889;KÃ¶niginstr.;80802;"{""0"":""4""}";48.1554, 11.5889
+224;224;224;WC Augustiner am WÃ¶rthsee;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0676;11.2008;Seepromenade;82237;"{""0"":""4"",""1"":""11""}";48.0676, 11.2008
+225;225;225;WC Gasthaus v. Franz Inselkammer, HÃ¶henkirchen-Siegertsbrunn;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;48.0217;11.7286;Hohenbrunnerstr.;85635;"{""0"":""4"",""1"":""20""}";48.0217, 11.7286
+226;226;226;WC Alter Wirt Moosach;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1789;11.5165;Dachauer Str.;80992;"{""0"":""2"",""1"":""11""}";48.1789, 11.5165
+227;227;227;WC S-Bahnhof UnterfÃ¶hring;Ã–ffentliche Bahnhofstoilette, zugÃ¤nglich mit EuroschlÃ¼ssel;48.1904;11.6467;Am Bahnhof;85774;"{""0"":""7"",""1"":""11""}";48.1904, 11.6467
+228;228;228;WC Holzwirt, Ascholding;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.8932;11.4893;Am Holz;83623;"{""0"":""4"",""1"":""20""}";47.8932, 11.4893
+229;229;229;WC BMW Museum;HalbÃ¶ffentliche Toilette im Museum.;48.1769;11.559000000000001;Am Olympiapark;80809;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1769, 11.559000000000001
+230;230;230;WC Villa Romantica, Olching;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.2101;11.3597;Ascherbachstr.;82140;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.2101, 11.3597
+231;231;231;WC SÃ¼dbad;Bedingt Ã¶ffentliche Toilette mit Dusche im Hallenbad.;48.1164;11.5445;ValleystraÃŸe;81371;"{""0"":""4"",""1"":""5"",""2"":""8"",""3"":""9""}";48.1164, 11.5445
+232;232;232;WC Tennisanlage Olympiapark;HalbÃ¶ffentliche Toilette in einer Sportanlage mit Euroschloss.;48.1749;11.5571;Spiridon-Louis-Ring;80809;"{""0"":""6"",""1"":""7"",""2"":""11""}";48.1749, 11.5571
+233;233;233;WC im KÃ¼nstlerhaus;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1401;11.5678;Lenbachplatz;80333;"{""0"":""4"",""1"":""12"",""2"":""17""}";48.1401, 11.5678
+234;234;234;WC Harlachinger Einkehr;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0957;11.5576;Karolingerallee;81545;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.0957, 11.5576
+235;235;235;WC Burger King Moosach;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1866;11.5365;Triebstr.;80993;"{""0"":""4"",""1"":""11""}";48.1866, 11.5365
+236;236;236;WC McDonald's Freimann;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1922;11.5845;Maria-Probst-Str.;80939;"{""0"":""4""}";48.1922, 11.5845
+237;237;237;WC CafÃ© Kranich;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte. ;48.1363;11.5659;Sonnenstr.;80331;"{""0"":""4"",""1"":""11""}";48.1363, 11.5659
+238;238;238;WC Seegasthaus Hirth, Ambach;HalbÃ¶ffentliches Dusch-WC in einer GaststÃ¤tte.;47.8541;11.338;Am Schwaiblbach;82541;"{""0"":""4"",""1"":""8""}";47.8541, 11.338
+239;239;239;WC FischerstÃ¼berl;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0265;12.1773;Attel-Elend;83512;"{""0"":""4""}";48.0265, 12.1773
+240;240;240;WC Hotel Keindl;HalbÃ¶ffentliche Toilette in einem Hotel.;47.6671;12.1689;Dorfstr.;83080;{};47.6671, 12.1689
+241;241;241;WC CafÃ© Bauer Stephanskirchen;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.8589;12.1698;Simseestr.;83071;"{""0"":""4"",""1"":""11""}";47.8589, 12.1698
+242;242;242;WC Holiday Inn Leuchtenbergring;HalbÃ¶ffentliche Toilette in einem Hotel.;48.1355;11.6147;Leuchtenbergring;81677;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.1355, 11.6147
+243;243;243;WC Akademie der Bildenden KÃ¼nste;HalbÃ¶ffentliche Toilette im HochschulgebÃ¤ude.;48.1531;11.5791;Akademiestr.;80799;"{""0"":""4"",""1"":""11""}";48.1531, 11.5791
+244;244;244;WC Telekom Tower;HalbÃ¶ffentliche Toilette in einem BÃ¼rogebÃ¤ude.;48.1324;11.6139;Dingolfinger Str.;81673;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.1324, 11.6139
+245;245;245;WC McDonald's Wasserburger LandstraÃŸe;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.119;11.6773;Wasserburger Landstr.;81825;"{""0"":""4"",""1"":""11""}";48.119, 11.6773
+246;246;246;WC Primafila;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1468;11.4972;Margarete-Danzi-Str.;80639;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1468, 11.4972
+247;247;247;WC Hotel Altwirt, GroÃŸhartpenning;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.8449;11.6775;TÃ¶lzer Str.;83607;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11"",""4"":""12""}";47.8449, 11.6775
+248;248;248;WC CafÃ© Luitpold;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1429;11.5747;Briennerstr.;80333;"{""0"":""4"",""1"":""11""}";48.1429, 11.5747
+249;249;249;WC China Restaurant 8 Eins;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1359;11.5559;Paul-Heyse-Str.;80336;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11""}";48.1359, 11.5559
+250;250;250;WC Alte Kongresshalle;HalbÃ¶ffentliche Toilette an einem Veranstaltungsort.;48.132;11.5439;TheresienhÃ¶he;80339;"{""0"":""4"",""1"":""11""}";48.132, 11.5439
+251;251;251;WC Nordsee Restaurant am Viktualienmarkt;HalbÃ¶ffentliche Toilette bei einem GeschÃ¤ft.;48.1362;11.5728;Nordsee Viktualienmarkt Stand;80331;"{""0"":""4""}";48.1362, 11.5728
+252;252;252;WC Osteria ALLEGRO 2;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1252;11.5903;Schornstr.;81669;"{""0"":""1"",""1"":""4"",""2"":""17""}";48.1252, 11.5903
+253;253;253;WC Ã‡a Va;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1349;11.5391;Kazmairstr.;80339;"{""0"":""2"",""1"":""4"",""2"":""17""}";48.1349, 11.5391
+254;254;254;WC BÃ¼rgerstadl Grafrath;Ã–ffentliche Toilette in einem BÃ¼rgerhaus.;48.1173;11.1778;Mauerner Str.;82284;"{""0"":""1"",""1"":""4"",""2"":""20""}";48.1173, 11.1778
+255;255;255;WC Gasthof-Cafe 'zum Moar', Irschenberg;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;47.8217;11.9191;Miesbach, Wilparting;83737;"{""0"":""4""}";47.8217, 11.9191
+256;256;256;WC Gasthof zur Post, Grassau;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.7793;12.4504;Kirchplatz;83224;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11""}";47.7793, 12.4504
+257;257;257;WC Gasthof zur Post - Oberwirt, Chieming;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.8936;12.5415;Laimgruber Str.;83339;"{""0"":""4"",""1"":""11""}";47.8936, 12.5415
+258;258;258;WC Wintertollwood;Ã–ffentliche Toilette;48.1357;11.5522;Theresienwiese;80336;"{""0"":""2"",""1"":""4""}";48.1357, 11.5522
+259;259;259;WC Pinakothek der Moderne;HalbÃ¶ffentliche Toilette in einem Museum.;48.147;11.5706;Barerstr.;80333;"{""0"":""6"",""1"":""11"",""2"":""12""}";48.147, 11.5706
+260;260;260;WC Bayerisches Nationalmuseum;Bedingt Ã¶ffentliche Toilette in einem Museum.;48.1398;11.6049;Prinzregentenstr.;80538;"{""0"":""4"",""1"":""11""}";48.1398, 11.6049
+261;261;261;WC Residence Inn Haidhausen;HalbÃ¶ffentliche Toilette in einem Hotel.;48.1308;11.6074;Orleansstr.;81667;"{""0"":""4"",""1"":""11""}";48.1308, 11.6074
+262;262;262;WC im KVR;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.1243;11.5501;Ruppertstr.;80337;{};48.1243, 11.5501
+263;263;263;WC See-Biergarten Lerchenau;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;48.1984;11.536;Lassallestr.;80995;"{""0"":""4"",""1"":""11""}";48.1984, 11.536
+264;264;264;WC CafÃ© Fausto;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1058;11.5668;Birkenleiten;81543;"{""0"":""4"",""1"":""12"",""2"":""20""}";48.1058, 11.5668
+265;265;265;WC Seewirt Ecking, Riedering;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.8572;12.2268;Am See;83083;"{""0"":""4"",""1"":""11""}";47.8572, 12.2268
+266;266;266;WC Zur schÃ¶nen Aussicht, KleinhÃ¶henrain ;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.918;11.9046;SchÃ¶ne Aussicht;83620;"{""0"":""4"",""1"":""17""}";47.918, 11.9046
+267;267;267;WC GrÃ¼nwalder Einkehr;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;48.0649;11.5437;NÃ¶rdliche MÃ¼nchner Str.;82031;"{""0"":""4"",""1"":""11""}";48.0649, 11.5437
+268;268;268;WC Salin, Bad Reichenhall;HalbÃ¶ffentliche Toilette mit Dusche in einer GaststÃ¤tte;47.7303;12.8815;Alte Saline;83435;"{""0"":""4"",""1"":""8"",""2"":""11""}";47.7303, 12.8815
+269;269;269;WC City Hotel;HalbÃ¶ffentliche Toilette in einem Hotel.;48.1362;11.5644;Sonnenstr.;80331;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1362, 11.5644
+270;270;270;WC BaalBek;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1436;11.5642;Karlstr.;80333;"{""0"":""4"",""1"":""11""}";48.1436, 11.5642
+271;271;271;WC Waldhaus Zur alten Tram, StraÃŸlach;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0118;11.5224;Riedweg;82064;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.0118, 11.5224
+272;272;272;WC Vapiano  - am Pasinger Bahnhof;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1493;11.46;KaflerstraÃŸe;81241;{};48.1493, 11.46
+273;273;273;WC Pasing Arcaden;Ã–ffentliche Toilette im Einkaufszentrum.;48.1478;11.4652;Pasinger Bahnhofsplatz;81241;"{""0"":""4""}";48.1478, 11.4652
+274;274;274;WC Kulturschranne Dachau;Ã–ffentliche Toilette in einer Markthalle.;48.2597;11.4341;Pfarrstr.;85221;"{""0"":""4"",""1"":""7"",""2"":""13"",""3"":""20""}";48.2597, 11.4341
+275;275;275;WC Zum Fischer, Dachau;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.2541;11.4428;Bahnhofstr.;85221;"{""0"":""4"",""1"":""7"",""2"":""13"",""3"":""17""}";48.2541, 11.4428
+276;276;276;WC Landgasthof Schalchenhof, Gstadt;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.8965;12.4266;Schalchen;83257;"{""0"":""4"",""1"":""11""}";47.8965, 12.4266
+277;277;277;WC KZ-GedenkstÃ¤tte Dachau;HalbÃ¶ffentliche Toilette in einer KulturstÃ¤tte.;48.2681;11.47;Alte RÃ¶merstr.;85221;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.2681, 11.47
+278;278;278;WC Neuwirt Rettenbach, Pfaffing;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0273;12.0935;Obere Dorfstr.;83539;"{""0"":""4"",""1"":""11""}";48.0273, 12.0935
+279;279;279;WC Bio-Restaurant Da Vinci, HÃ¶henkirchen-Siegertsbrunn;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.023;11.7156;Altlaufstr.;85635;{};48.023, 11.7156
+280;280;280;WC Landgasthof Haagen, Schwabhausen/Oberroth;halbÃ¶ffentliche Toilette in einer GaststÃ¤tte;48.3069;11.3332;Friedberger Str.;85247;"{""0"":""4""}";48.3069, 11.3332
+281;281;281;WC OhJulia;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;48.1371;11.5715;FÃ¤rbergraben;80331;{};48.1371, 11.5715
+282;282;282;WC Tiato;WC in einer GaststÃ¤tte;48.1226;11.5931;Welfenstr.;81541;{};48.1226, 11.5931
+283;283;283;WC Charivari Schliersee;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;47.733999999999995;11.8604;Perfallstr.;83727;"{""0"":""4"",""1"":""11"",""2"":""12""}";47.733999999999995, 11.8604
+284;284;284;WC im Lenbachhaus;HalbÃ¶ffentliche Toilette in einem Museum.;48.1466;11.5633;Luisenstr.;80333;"{""0"":""2"",""1"":""4"",""2"":""11"",""3"":""12""}";48.1466, 11.5633
+285;285;285;WC Sakrisch Guat;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1965;11.626;Freisinger Landstr.;80939;"{""0"":""4""}";48.1965, 11.626
+286;286;286;WC fÃ¼r Alle - TUM ArcisstraÃŸe;HalbÃ¶ffentliche 'Toilette fÃ¼r Alle' mit Pflegeliege, im HochschulgebÃ¤ude, mit Euroschloss.;48.146;11.567;Arcisstr.;80333;"{""0"":""2"",""1"":""4"",""2"":""8"",""3"":""10"",""4"":""11""}";48.146, 11.567
+287;287;287;WC Kulturzentrum Trudering;HalbÃ¶ffentliche Toilette im Kulturzentrum.;48.1193;11.6705;Wasserburger Landstr.;81825;"{""0"":""4"",""1"":""20""}";48.1193, 11.6705
+288;288;288;WC ganghofer 68;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.13;11.5388;Ganghoferstr.;80339;"{""0"":""4""}";48.13, 11.5388
+289;289;289;WC Jianni's Schliersee;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.7356;11.86;Bahnhofstr.;83727;"{""0"":""4"",""1"":""11"",""2"":""12""}";47.7356, 11.86
+290;290;290;WC Strandbad Seeglas, Gmund;Ã–ffentliche Toilette im Strandbad.;47.7424;11.7369;Seeglas;83703;"{""0"":""4"",""1"":""11""}";47.7424, 11.7369
+291;291;291;WC SchlosscafÃ© im Palmenhaus;Ã–ffentliche Toilette am Nymphenburger Schloss.;48.1603;11.5008;Schloss Nymphenburg;80638;"{""0"":""6""}";48.1603, 11.5008
+292;292;292;WC BauernhofcafÃ© Bumbaurhof, Markt Indersdorf;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.3413;11.3789;Ried;85229;"{""0"":""4"",""1"":""20""}";48.3413, 11.3789
+293;293;293;WC Gasthof SchieÃŸstÃ¤tte;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.2166;11.5197;Karlsfelder Str.;80995;"{""0"":""1"",""1"":""4"",""2"":""17""}";48.2166, 11.5197
+294;294;294;WC Hotel Exquisit;HalbÃ¶ffentliche Toilette in einem Hotel.;48.1339;11.5645;Pettenkoferstr.;80336;"{""0"":""4"",""1"":""12"",""2"":""20""}";48.1339, 11.5645
+295;295;295;WC Cordo Bar;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;48.129;11.5719;Ickstattstr.;80469;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.129, 11.5719
+296;296;296;WC CafÃ© Perkmann, Miesbach;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.7914;11.8319;Wallenburger Str.;83714;"{""0"":""4"",""1"":""11""}";47.7914, 11.8319
+297;297;297;WC Avli;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0836;11.4942;Forstenrieder Allee;81476;"{""0"":""1"",""1"":""4"",""2"":""17""}";48.0836, 11.4942
+298;298;298;WC Majestic;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.093999999999994;11.5069;Kistlerhofstr.;81379;"{""0"":""2"",""1"":""4""}";48.093999999999994, 11.5069
+299;299;299;WC Hans im GlÃ¼ck Arabellapark;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1504;11.620999999999999;Arabellastr.;81925;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1504, 11.620999999999999
+300;300;300;WC Punjab Grill & Bar;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1219;11.5437;Lindwurmstr.;80337;"{""0"":""4"",""1"":""11""}";48.1219, 11.5437
+301;301;301;WC Dean & David im Tal;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1353;11.5809;Tal;80331;"{""0"":""2"",""1"":""4"",""2"":""11"",""3"":""13""}";48.1353, 11.5809
+302;302;302;WC  Hochschule fÃ¼r Fernsehen + Film;HalbÃ¶ffentliche Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.1466;11.5696;Bernd-Eichinger-Platz;80333;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.1466, 11.5696
+303;303;303;WC Dean & David in Nymphenburg;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1481;11.5574;Nymphenburger Str.;80335;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1481, 11.5574
+304;304;304;WC Rathauskantine;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1377;11.5753;Marienplatz;80331;"{""0"":""2"",""1"":""4""}";48.1377, 11.5753
+305;305;305;WC Tegernseer Tal;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1359;11.5782;Tal;80331;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1359, 11.5782
+306;306;306;WC Augustiner Klosterwirt;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1384;11.5722;Augustinerstr.;80331;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1384, 11.5722
+307;307;307;WC LOUIS Hotel;HalbÃ¶ffentliche Toilette in einem Hotel.;48.1359;11.5757;Viktualienmarkt ;80331;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1359, 11.5757
+308;308;308;WC Hans im GlÃ¼ck am Isartor;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1344;11.5819;Isartorplatz;80331;;48.1344, 11.5819
+309;309;309;WC Gasthof Kiermeir Arzbach;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.3114;11.4354;RÃ¶merstr.;85244;"{""0"":""1"",""1"":""2"",""2"":""4"",""3"":""17""}";48.3114, 11.4354
+310;310;310;WC Asado Steak in Laim;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1433;11.5042;Landsberger Str.;80687;"{""0"":""4"",""1"":""11""}";48.1433, 11.5042
+311;311;311;WC Spatenhaus an der Oper;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1398;11.5771;Residenzstr.;80333;"{""0"":""1"",""1"":""4""}";48.1398, 11.5771
+312;312;312;WC KOI;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1433;11.5755;Wittelsbacherplatz;80333;{};48.1433, 11.5755
+313;313;313;WC Achat Hotel;HalbÃ¶ffentliche Toilette in einem Hotel.;48.0959;11.5127;Perchtinger Str.;81379;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.0959, 11.5127
+314;314;314;WC Vathos;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1372;11.5626;Schwanthalerstr.;80336;"{""0"":""4"",""1"":""11""}";48.1372, 11.5626
+315;315;315;WC WeiÃŸbrÃ¤ustÃ¼berl Miesbach;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;0.4779;11.8324;Marienplatz;83714;"{""0"":""2"",""1"":""4"",""2"":""11""}";0.4779, 11.8324
+316;316;316;WC OberbrÃ¤u Holzkirchen;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.8772;11.700999999999999;Marktplatz;83607;"{""0"":""4"",""1"":""7"",""2"":""20""}";47.8772, 11.700999999999999
+317;317;317;WC Maximiliansblock;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1431;11.5728;Maximiliansplatz;80333;"{""0"":""4""}";48.1431, 11.5728
+318;318;318;WC CafÃ© im Sub;HalbÃ¶ffentliche Toilette in Kulturzentrum.;48.1325;11.5734;MÃ¼llerstr.;80469;"{""0"":""4""}";48.1325, 11.5734
+319;319;319;WC Heimwerk Restaurant im Glockenbachviertel;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1316;11.5676;MÃ¼llerstr.;80469;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1316, 11.5676
+320;320;320;WC Augustiner SchÃ¼tzengarten;HalbÃ¶ffentliche Toilette in einem Biergarten.;48.1042;11.5344;Zielstattstr.;81379;"{""0"":""1"",""1"":""2"",""2"":""4"",""3"":""17""}";48.1042, 11.5344
+321;321;321;WC H'ugo's Pizza â€“ Bar â€“ Lounge;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1396;11.5737;Promenadeplatz;80333;"{""0"":""4""}";48.1396, 11.5737
+322;322;322;WC Klosterwirt SchÃ¶nbrunn;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.3279;11.4768;Viktoria-von-Butler-Str.;85244;"{""0"":""2"",""1"":""6"",""2"":""11""}";48.3279, 11.4768
+323;323;323;WC Haderner Augustiner;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1152;11.4791;WÃ¼rmtalstr.;81375;"{""0"":""4"",""1"":""11""}";48.1152, 11.4791
+324;324;324;WC Aidshilfe;HalbÃ¶ffentliche Toilette in einem Kulturzentrum.;48.1299;11.5595;Lindwurmstr.;80337;"{""0"":""4"",""1"":""13"",""2"":""20""}";48.1299, 11.5595
+325;325;325;WC MACE, UnterfÃ¶hring;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1886;11.6542;Betastr.;85774;"{""0"":""4"",""1"":""20""}";48.1886, 11.6542
+326;326;326;WC Land in Sonne I;HalbÃ¶ffentliche Toilette in einer Kleingartenanlage.;48.1283;11.5229;Siegenburger Str.;80686;"{""0"":""2"",""1"":""4""}";48.1283, 11.5229
+327;327;327;WC SchlÃ¶sselgarten;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;48.1581;11.6268;Cosimastr.;81925;"{""0"":""4"",""1"":""17""}";48.1581, 11.6268
+328;328;328;WC Zum Hex'n Garten;WC in einer GaststÃ¤tte.;48.1687;11.5238;Gartenanlage NW16, Baldurstr.;80636;"{""0"":""2"",""1"":""4""}";48.1687, 11.5238
+329;329;329;WC Domagk-Garten;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1827;11.5837;Kleingartenanlage NO 058 Domagkstr.;80807;"{""0"":""2"",""1"":""4"",""2"":""17""}";48.1827, 11.5837
+330;330;330;WC Hans im GlÃ¼ck Leo 250;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1824;11.5853;Leopoldstr.;80807;"{""0"":""4"",""1"":""11""}";48.1824, 11.5853
+331;331;331;WC Neuwirt Garching;HalbÃ¶ffentlicheToilette in einer GaststÃ¤tte.;48.2492;11.6512;MÃ¼nchener Str.;85748;"{""0"":""1"",""1"":""17""}";48.2492, 11.6512
+332;332;332;WC Echardinger Einkehr;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1212;11.6255;Bad-Kreuther-Str.;81671;"{""0"":""4"",""1"":""11""}";48.1212, 11.6255
+333;333;333;WC Charlie Restaurant;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.12;11.5703;Schyrenstr.;81543;"{""0"":""4"",""1"":""11""}";48.12, 11.5703
+334;334;334;WC Gasthof zur Post Haar;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1092;11.7264;Kirchenplatz;85540;"{""0"":""4"",""1"":""11""}";48.1092, 11.7264
+335;335;335;WC Die KÃ¼che im Kraftwerk;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0944;11.5051;Drygalski-Allee;81477;"{""0"":""4""}";48.0944, 11.5051
+336;336;336;WC Buch & Bohne;HalbÃ¶ffentliche Toilette in einem Laden.;48.1267;11.5582;Kapuzinerplatz;80337;"{""0"":""1"",""1"":""4"",""2"":""20""}";48.1267, 11.5582
+337;337;337;WC Monaco Haar;HalbÃ¶ffentliche Toilette  in einer GaststÃ¤tte.;48.1101;11.7172;Hans-StieÃŸberger-Str.;85540;"{""0"":""1"",""1"":""4"",""2"":""11""}";48.1101, 11.7172
+338;338;338;WC Harlachinger JagdschlÃ¶ssl;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte mit Euroschloss.;48.0869;11.5552;Geiselgasteigstr.;81545;"{""0"":""4"",""1"":""11""}";48.0869, 11.5552
+339;339;339;WC Bahnhof Feldmoching;UMBAU GESCHLOSSEN Jul 21   Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1975;11.5239;Bahnhof Feldmoching;80995;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.1975, 11.5239
+340;340;340;WC Bahnhof Ismaning;Ã–ffentliche Bahnhofstoilette mit EuroschlÃ¼ssel.;48.2266;11.6791;Bahnhof Ismaning;85737;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.2266, 11.6791
+341;341;341;WC Feringasee, UnterfÃ¶hring;Ã–ffentliche Toilette am See mit Euroschloss.;48.1903;11.6722;Unterer Aschheimer Weg;85774;"{""0"":""4"",""1"":""7"",""2"":""17""}";48.1903, 11.6722
+342;342;342;WC Hallenbad Ismaning 1;Bedingt Ã¶ffentliche Toilette mit Dusche in einem Hallenbad.;48.2284;11.6771;Erich-Zeitler-Str.;85737;"{""0"":""4"",""1"":""5"",""2"":""8"",""3"":""9"",""4"":""11""}";48.2284, 11.6771
+343;343;343;WC Hallenbad Ismaning 2;HalbÃ¶ffentliche Toilette im GebÃ¤ude des Hallenbads.;48.2284;11.6771;Erich-Zeitler-Str.;85737;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.2284, 11.6771
+344;344;344;WC Further Naturbad (Oberhaching);Bedingt Ã¶ffentliche Toilette mit Dusche in einem Freibad, mit Euroschloss.;48.0317;11.6031;Badstr.;82041;"{""0"":""4"",""1"":""5"",""2"":""8"",""3"":""11""}";48.0317, 11.6031
+345;345;345;WC S-Bahnhof Rosenheimerplatz;Ã–ffentliche Toilette im S-Bahnhof, zugÃ¤nglich mit EuroschlÃ¼ssel.;48.1286;11.5943;Rosenheimerplatz;81667;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1286, 11.5943
+346;346;346;WC fÃ¼r Alle - Oberste BaubehÃ¶rde MÃ¼nchen;Ã–ffentliche 'Toilette fÃ¼r alle' mit Pflegeliege und Euroschloss.;48.1433;11.5853;Franz-Josef-StrauÃŸ-Ring;80539;"{""0"":""4"",""1"":""10""}";48.1433, 11.5853
+347;347;347;WC Kautbullinger;HalbÃ¶ffentliche Toilette in einem Laden.;48.1367;11.5736;Rosenstr. ;80331;"{""0"":""4"",""1"":""13"",""2"":""20""}";48.1367, 11.5736
+348;348;348;WC Bahnhof Trudering;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1256;11.6625;Trudering;81825;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11"",""4"":""12""}";48.1256, 11.6625
+349;349;349;WC Bad Forstenrieder Park - Sauna;Bedingt Ã¶ffentliche Toilette in einer Sauna.;48.0863;11.4991;StÃ¤blistr.;81476;"{""0"":""4"",""1"":""5"",""2"":""8"",""3"":""9"",""4"":""11""}";48.0863, 11.4991
+350;350;350;WC Herren Bad Forstenrieder Park;Bedingt Ã¶ffentliche Toilette im Hallenbad.;48.0863;11.4991;StÃ¤blistr. ;81476;"{""0"":""6"",""1"":""20""}";48.0863, 11.4991
+351;351;351;WC Damen Bad Forstenrieder Park;Bedingt Ã¶ffentliche Toilette im Hallenbad.;48.0863;11.4991;StÃ¤blistr.;81476;"{""0"":""6"",""1"":""20""}";48.0863, 11.4991
+352;352;352;WC Naturbad Maria Einsiedel;Bedingt Ã¶ffentliche Toilette mit Dusche im Freibad.;48.0964;11.5467;ZentrallÃ¤ndstr.;81379;"{""0"":""4"",""1"":""8"",""2"":""9"",""3"":""11""}";48.0964, 11.5467
+353;353;353;WC SÃ¼dbad - Sauna;Bedingt Ã¶ffentliche Toilette mit Dusche in einer Sauna.;48.1168;11.544;Valleystr.;81371;"{""0"":""4"",""1"":""5"",""2"":""8"",""3"":""9"",""4"":""11""}";48.1168, 11.544
+354;354;354;WC Schyrenbad;Bedingt Ã¶ffentliche Toilette mit Dusche im Freibad.;48.1198;11.5696;Claude-Lorrain-Str.;81543;"{""0"":""4"",""1"":""8"",""2"":""9"",""3"":""11""}";48.1198, 11.5696
+355;355;355;WC Feldmochinger See 1;Ã–ffentliches Dixi-WC am Badesee.;48.2166;11.5165;Ferchenbachstr.;80995;"{""0"":""4"",""1"":""17""}";48.2166, 11.5165
+356;356;356;WC Feldmochinger See 2;Ã–ffentliche Toilette am Badesee.;48.2154;11.5171;Ferchenbachstr.;80995;"{""0"":""6"",""1"":""20""}";48.2154, 11.5171
+357;357;357;WC Nordbad;Bedingt Ã¶ffentliche Toilette mit Dusche und Pflegeliege im Hallenbad.;48.1603;11.5639;SchleiÃŸheimer Str.;80797;"{""0"":""4"",""1"":""5"",""2"":""8"",""3"":""9"",""4"":""11""}";48.1603, 11.5639
+358;358;358;WC Prinzregentenbad;Bedingt Ã¶ffentliche Toilette mit Dusche und Pflegeliege im Freibad.;48.138999999999996;11.6033;Prinzregentenstr.;81675;"{""0"":""4"",""1"":""8"",""2"":""9"",""3"":""11"",""4"":""12""}";48.138999999999996, 11.6033
+359;359;359;WC Westbad Hallenbad;Bedingt Ã¶ffentliche Toilette mit Dusche im Hallenbad.;48.1408;11.4745;Weinbergerstr.;81241;"{""0"":""4"",""1"":""5"",""2"":""8"",""3"":""11""}";48.1408, 11.4745
+360;360;360;WC Herren Westbad Freibad;Bedingt Ã¶ffentliche Toilette mit Dusche im Freibad.;48.1407;11.4747;Weinbergerstr.;81241;"{""0"":""6"",""1"":""8"",""2"":""11""}";48.1407, 11.4747
+361;361;361;WC Damen Westbad Freibad;Bedingt Ã¶ffentliche Toilette mit Dusche im Freibad.;48.1407;11.4747;Weinbergerstr.;81241;"{""0"":""6"",""1"":""8"",""2"":""11""}";48.1407, 11.4747
+362;362;362;WC Bad Giesing-Harlaching;Bedingt Ã¶ffentliche Toilette mit Dusche und Pflegeliege in einem Hallenbad.;48.102;11.5761;Klausener Str.;81547;"{""0"":""4"",""1"":""5"",""2"":""8"",""3"":""9"",""4"":""11""}";48.102, 11.5761
+363;363;363;WC Michaeli-Hallenbad;Bedingt Ã¶ffentliche Toilette mit Dusche und Pflegeliege in einem Hallenbad.;48.1166;11.6364;Heinrich-Wieland-Str.;81735;"{""0"":""4"",""1"":""5"",""2"":""7"",""3"":""8"",""4"":""9"",""5"":""11""}";48.1166, 11.6364
+364;364;364;WC Michaeli-Freibad 1;Bedingt Ã¶ffentliche Toilette mit Dusche in einem Freibad.;48.1166;11.6364;Heinrich-Wieland-Str.;81735;"{""0"":""4"",""1"":""7"",""2"":""8"",""3"":""9"",""4"":""11""}";48.1166, 11.6364
+365;365;365;WC Michaeli-Freibad Damen;Bedingt Ã¶ffentliche Toilette in einem Freibad.;48.1166;11.6364;Heinrich-Wieland-Str.;81735;"{""0"":""6"",""1"":""7"",""2"":""11""}";48.1166, 11.6364
+366;366;366;WC Michaeli-Freibad Herren;Bedingt Ã¶ffentliche Toilette in einem Freibad.;48.1166;11.6364;Heinrich-Wieland-Str.;81735;"{""0"":""6"",""1"":""7"",""2"":""11""}";48.1166, 11.6364
+367;367;367;WC Freibad Haar;Bedingt Ã¶ffentliche Toilette in einem Freibad.;48.1032;11.73;Freibadstr. ;85540;"{""0"":""4"",""1"":""17""}";48.1032, 11.73
+368;368;368;WC PEP;Ã–ffentliche Toilette im Einkaufszentrum mit Euro-SchlieÃŸung.;48.1034;11.6464;Thomas-Dehler-Str. ;81737;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.1034, 11.6464
+369;369;369;WC S-Bahnhof Neubiberg;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.076;11.6605;Neubiberg Bahnhofsplatz;85597;{};48.076, 11.6605
+370;370;370;WC Strandbad Pietzing (Simssee);Ã–ffentliche Toilette mit Dusche und Euroschloss.;47.8628;12.2425;Pietzing;83083;"{""0"":""4"",""1"":""20""}";47.8628, 12.2425
+371;371;371;WC GrÃ¼nwalder Hallenbad;Bedingt Ã¶ffentliche Toilette mit Dusche in einem Hallenbad.;48.0493;11.5298;SÃ¼dliche MÃ¼nchner Str.;82031;"{""0"":""4"",""1"":""11""}";48.0493, 11.5298
+372;372;372;WC fÃ¼r Alle Flughafen Zentralbereich;Ã–ffentliche 'Toilette fÃ¼r alle' mit Pflegeliege, Lifter und Euroschloss.;48.3576;11.7908;Flughafen;85356;"{""0"":""4"",""1"":""10"",""2"":""11"",""3"":""12""}";48.3576, 11.7908
+373;373;373;WC Bahnhof Moosach;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1803;11.507;Bunzlauer Str.;80992;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1803, 11.507
+374;374;374;WC U-Bahnhof Forstenrieder Allee;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.0949;11.4983;ZÃ¼richer Str.;81476;"{""0"":""6"",""1"":""11"",""2"":""12""}";48.0949, 11.4983
+375;375;375;WC U-Bahnhof Messestadt Ost;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1343;11.7046;Willy-Brandt-Allee;81829;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1343, 11.7046
+376;376;376;png marker fÃ¼r toilette;;48.1589;11.5806;Ainmillerstr.;80801;;48.1589, 11.5806
+377;377;377;WC Schlossmuseum Ismaning;HalbÃ¶ffentliche Toilette im Museum.;48.2285;11.6729;Schlossstr.;85737;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.2285, 11.6729
+378;378;378;WC Rathaus Ismaning;Ã–ffentliche Toilette im Rathaus.;48.2281;11.6742;Schlossstr.;85737;"{""0"":""2"",""1"":""4""}";48.2281, 11.6742
+379;379;379;WC CafÃ© Bauer Wildenholzen;HalbÃ¶ffentliche Toilette im CafÃ©.;48.01300000000001;11.8973;Schlossstr.;85567;"{""0"":""4"",""1"":""20""}";48.01300000000001, 11.8973
+380;380;380;WC U-Bahnhof FrÃ¶ttmaning;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.2118;11.6165;U-Bahnhof FrÃ¶ttmaning;80939;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.2118, 11.6165
+381;381;381;WC U6 Bahnhof Garching-HochbrÃ¼ck;Ã–ffentliche Bahnhofstoilette mit Euroschloss, 24h zugÃ¤nglich.;48.2483;11.6314;Bahnhof Garching-HochbrÃ¼ck;85748;"{""0"":""4"",""1"":""11""}";48.2483, 11.6314
+382;382;382;WC Rathaus Garching;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.2512;11.6504;Rathausplatz;85748;"{""0"":""4"",""1"":""20""}";48.2512, 11.6504
+383;383;383;WC MÃ¼hlenpark, Garching;HalbÃ¶ffentliche Toilette in einem Biergarten.;48.2462;11.6612;MÃ¼hlgasse;85748;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.2462, 11.6612
+384;384;384;WC Ã„rztehaus Nymphenburg;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Ã„rztehaus.;48.1469;11.5028;Rosa-Bavarese-Str.;80639;"{""0"":""4"",""1"":""11""}";48.1469, 11.5028
+385;385;385;WC Bamberger Haus;HalbÃ¶ffentliche Toilette in einem Lokal.;48.1706;11.568;Brunnerstr.;80804;{};48.1706, 11.568
+386;386;386;WC Freisinger Hof;HalbÃ¶ffentliche Toilette in einem Hotel.;48.1741;11.6291;OberfÃ¶hringer Str.;81925;"{""0"":""4""}";48.1741, 11.6291
+387;387;387;WC Da Enrico, UnterschleiÃŸheim;HalbÃ¶ffentliche Toilette in einem Lokal.;48.2819;11.5787;Alleestr. ;85716;"{""0"":""4"",""1"":""17""}";48.2819, 11.5787
+388;388;388;WC Seehaus, Ebersberg;HalbÃ¶ffentliche Toilette in einem Lokal.;48.0841;11.9674;Am Priel;85580;"{""0"":""4"",""1"":""11""}";48.0841, 11.9674
+389;389;389;WC Sportstadl Unterhaching;HalbÃ¶ffentliche Toilette in einer Sportanlage.;48.0723;11.6163;Am Sportpark;82008;"{""0"":""4"",""1"":""11""}";48.0723, 11.6163
+390;390;390;WC Zur Alten Schule, GrÃ¶benzell;Ã–ffentliche Toilette in einem Lokal bzw. Museum.;48.193999999999996;11.3708;Rathaus Str.;82194;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.193999999999996, 11.3708
+391;391;391;WC U-Bahnhof Thalkirchen;Ã–ffentliche Bahnhofstoilette mit EuroschlÃ¼ssel zugÃ¤nglich.;48.1027;11.546;Haltestelle Thalkirchen (Tierpark);81379;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1027, 11.546
+392;392;392;WC U-Bahnhof AidenbachstraÃŸe;Ã–ffentliche Bahnhofstoilette mit EuroschlÃ¼ssel zugÃ¤nglich.;48.0979;11.5251;Haltestelle AidenbachstraÃŸe;81379;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.0979, 11.5251
+393;393;393;WC MÃ¼nchner Stub'n;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.138999999999996;11.5488;Bayerstr.;80335;"{""0"":""4"",""1"":""11""}";48.138999999999996, 11.5488
+394;394;394;WC Donisl;HalbÃ¶ffentliche Toilette mit EuroschlieÃŸung in einer GaststÃ¤tte .;48.1376;11.5749;Weinstr.;80333;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.1376, 11.5749
+395;395;395;WC U-Bahnhof Max-Weber-Platz;Ã–ffentliche Bahnhofstoilette mit EuroschlÃ¼ssel zugÃ¤nglich.;48.1356;11.5978;Max-Weber-Platz;81675;"{""0"":""6"",""1"":""11""}";48.1356, 11.5978
+396;396;396;WC U-Bahnhof Am Hart;Ã–ffentliche Bahnhofstoilette mit EuroschlÃ¼ssel zugÃ¤nglich.;48.2;11.5734;Knorrstr.;80937;"{""0"":""4"",""1"":""12"",""2"":""20""}";48.2, 11.5734
+397;397;397;WC U-Bahnhof Milbertshofen;"UMBAU (Jul 21)
+Ã–ffentliche Bahnhofstoilette mit EuroschlÃ¼ssel zugÃ¤nglich.";48.1806;11.5729;Knorrstr.;80807;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1806, 11.5729
+398;398;398;WC Hauptbahnhof MÃ¼nchen;Ã–ffentliche Bahnhofstoilette mit EuroschlÃ¼ssel 24h zugÃ¤nglich.;48.1408;11.5552;MÃ¼nchen Hauptbahnhof;80335;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1408, 11.5552
+399;399;399;WC U-Bahnhof BrudermÃ¼hlstraÃŸe Damen;2 Ã¶ffentliche Bahnhofstoiletten mit EuroschlÃ¼ssel zugÃ¤nglich.;48.1113;11.543;U-Bahnhof BrudermÃ¼hlstraÃŸe;81371;"{""0"":""6"",""1"":""11"",""2"":""12""}";48.1113, 11.543
+400;400;400;WC U-Bahnhof Frankfurter Ring;"TECHNIK DEKEKT (Jul21) GESCHLOSSEN 
+Ã–ffentliche Bahnhofstoilette mit EuroschlÃ¼ssel zugÃ¤nglich.";48.1876;11.5945;U-Bahnhof Frankfurter Ring;80807;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1876, 11.5945
+401;401;401;WC Bahnhof Grafing;Ã–ffentliche Bahnhofstoilette mit Euroschloss, 24h zugÃ¤nglich.;48.0452;11.9426;Grafing Bahnhof;85567;"{""0"":""4"",""1"":""7""}";48.0452, 11.9426
+402;402;402;WC U-Bahnhof Goetheplatz;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.129;11.5583;Goetheplatz;80337;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.129, 11.5583
+403;403;403;WC Bahnhof Bernau;Ã–ffentliche Bahnhofstoilette, zu Ã¶ffnen mit MesserrÃ¼cken.;47.8162;12.3813;Bernau Bahnhofplatz;83233;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""20""}";47.8162, 12.3813
+404;404;404;WC fÃ¼r Alle am Marienplatz;Ã–ffentliche 'Toilette fÃ¼r alle' mit Pflegeliege, Lifter und Euroschloss. 6h - 24h.;48.1355;11.5737;Marienplatz;80331;"{""0"":""4"",""1"":""10"",""2"":""11"",""3"":""18""}";48.1355, 11.5737
+405;405;405;WC Unimensa;HalbÃ¶ffentliche Toilette im HochschulgebÃ¤ude mit Euroschloss.;48.1557;11.5831;Leopoldstr.;80802;"{""0"":""4""}";48.1557, 11.5831
+406;406;406;WC Bahnhof Ãœbersee;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;47.8218;12.4867;Ãœbersee Bahnhof;83236;"{""0"":""4"",""1"":""7"",""2"":""20""}";47.8218, 12.4867
+407;407;407;WC Stachus Passagen;Ã–ffentliche Toilette mit Euroschloss in einer Einkaufs-Bahnhofsanlage .;48.1393;11.5654;Stachus Passagen;80335;"{""0"":""4"",""1"":""11""}";48.1393, 11.5654
+408;408;408;WC U-Bahnhof Messestadt West;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1333;11.6907;Haltestelle Messestadt West;81829;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1333, 11.6907
+409;409;409;WC Bahnhof Garmisch-Partenkirchen;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;47.4914;11.0975;Bahnhof Garmisch-Partenkirchen;82467;"{""0"":""4"",""1"":""7"",""2"":""11""}";47.4914, 11.0975
+410;410;410;WC U-Bahnhof Olympia Einkaufszentrum;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1757;11.5182;U-Bahnhof Olympia Einkaufszentrum;80992;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1757, 11.5182
+411;411;411;WC U-Bahnhof Hasenbergl;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.2127;11.5552;U-Bahnhof Hasenbergl;80933;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.2127, 11.5552
+412;412;412;WC S-Bahnhof Ottobrunn;Ã–ffentliche Bahnhofsstoilette fÃ¼r Damen + Rollifahrer.;48.0631;11.6792;Bahnhofsplatz;85521;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.0631, 11.6792
+413;413;413;WC Rathaus UnterschleiÃŸheim;Toilette im Ã¶ffentlichen GebÃ¤ude.;48.2728;11.5707;Rathausplatz;85716;"{""0"":""2"",""1"":""4"",""2"":""11"",""3"":""13""}";48.2728, 11.5707
+414;414;414;WC Rathaus MÃ¼nchen Prunkhof;Toilette im Ã¶ffentlichen GebÃ¤ude.;48.1373;11.575999999999999;Marienplatz;80331;"{""0"":""4"",""1"":""11""}";48.1373, 11.575999999999999
+415;415;415;WC U-Bahnhof Arabellapark;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1626;11.6217;U-Bahn Station Arabellapark;81925;"{""0"":""2"",""1"":""4""}";48.1626, 11.6217
+416;416;416;WC St. Bonifaz;HalbÃ¶ffentliche Toilette in einer kirchlichen Einrichtung.;48.1439;11.5641;Karlstr.;80333;"{""0"":""4"",""1"":""12"",""2"":""17"",""3"":""20""}";48.1439, 11.5641
+417;417;417;WC Botanischer Garten Treibhaus;Bedingt Ã¶ffentliche Toilette.;48.1632;11.4998;Menzinger Str.;80638;"{""0"":""4"",""1"":""20""}";48.1632, 11.4998
+418;418;418;WC Botanischer Garten im Shop;Ã–ffentliche Toilette mit Euroschloss in einem GebÃ¤ude.;48.1632;11.4998;Menzinger Str.;80638;"{""0"":""4"",""1"":""20""}";48.1632, 11.4998
+419;419;419;WC Botanischer Garten im CafÃ©;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1632;11.4998;Menzinger Str.;80638;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1632, 11.4998
+420;420;420;WC Gesundheitszentrum Giesing ;Ã–ffentlich zugÃ¤ngliche Toilette im Ã„rztehaus.;48.111000000000004;11.5953;Giesinger Bahnhofplatz;81539;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.111000000000004, 11.5953
+421;421;421;WC Orthozentrum MÃ¼nchen;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Ã„rztehaus.;48.1036;11.567;GrÃ¼nwalder Str.;81547;"{""0"":""4"",""1"":""20""}";48.1036, 11.567
+422;422;422;WC Ã„rztehaus Hanauer Str. 65;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Ã„rztehaus.;48.1822;11.5294;Hanauer Str.;80993;"{""0"":""4"",""1"":""11""}";48.1822, 11.5294
+423;423;423;WC Ã„rztehaus Harlaching;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Ã„rztehaus.;48.0906;11.5566;Isenschmidstr.;81545;"{""0"":""4"",""1"":""17""}";48.0906, 11.5566
+424;424;424;WC Ã„rztehaus KaiserstraÃŸe;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Ã„rztehaus.;48.1611;11.5823;Kaiserstr.;80801;"{""0"":""4"",""1"":""13"",""2"":""17""}";48.1611, 11.5823
+425;425;425;WC Spicery;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1282;11.5962;WeiÃŸenburger Platz;81667;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1282, 11.5962
+426;426;426;WC Il Mulino;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1541;11.5677;GÃ¶rresstr.;80798;"{""0"":""4"",""1"":""20""}";48.1541, 11.5677
+427;427;427;WC 2 Flughafen Zentralbereich;Ã–ffentliche Toilette am Flughafen.;48.3547;11.7633;Nordallee;85356;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.3547, 11.7633
+428;428;428;WC ZahnÃ¤rztlicheTagesklinik MÃ¼nchen II;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Ã„rztehaus.;48.1781;11.5857;Leopoldstr.;80807;"{""0"":""4"",""1"":""11""}";48.1781, 11.5857
+429;429;429;WC Pflegeheim Kath. Familien- und Altenpflegewerk;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Altenheim.;48.1378;11.4827;Mitterfeldstr.;80689;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.1378, 11.4827
+430;430;430;WC Ã„rztehaus Nordheide;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Ã„rztehaus.;48.2092;11.5667;Neuherbergstr.;80937;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.2092, 11.5667
+431;431;431;WC Rotkreuz-Klinikum;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Krankenhaus.;48.1541;11.5326;Nymphenburger Str.;80634;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1541, 11.5326
+432;432;432;WC Hochschule fÃ¼r angewandte Wissenschaften ;HalbÃ¶ffentliche Toilette im HochschulgebÃ¤ude mit Pflegeliege und Euroschloss.;48.1535;11.5531;Lothstr.;80335;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1535, 11.5531
+433;433;433;WC Schlosspassage, GrÃ¼nwald;Ã–ffentliche Toilette in einer Einkaufspassage.;48.041000000000004;11.5236;Schlossstr.;82031;"{""0"":""4"",""1"":""12"",""2"":""20""}";48.041000000000004, 11.5236
+434;434;434;WC Frauenklinik Dr. KrÃ¼smann;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Krankenhaus.;48.1465;11.4578;Schmiedwegerl;81241;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.1465, 11.4578
+435;435;435;WC Josephinum;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Krankenhaus.;48.1456;11.5813;SchÃ¶nfeldstr.;80539;"{""0"":""4"",""1"":""12"",""2"":""20""}";48.1456, 11.5813
+436;436;436;WC Isar Medizin Zentrum;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Ã„rztehaus.;48.1351;11.5649;Sonnenstr.;80331;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1351, 11.5649
+437;437;437;WC Rote Wand, Geitau;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.68899999999999;11.9615;Geitau;83735;"{""0"":""4"",""1"":""11""}";47.68899999999999, 11.9615
+438;438;438;WC Klinik Diakoniewerk Maxvorstadt;HalbÃ¶ffentliche Toilette im Krankenhaus.;48.1513;11.5696;HeÃŸstr.;80799;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.1513, 11.5696
+439;439;439;WC BrÃ¤ustÃ¼berl Tegernsee;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.7077;11.7562;SchloÃŸplatz;83684;"{""0"":""2"",""1"":""4"",""2"":""11""}";47.7077, 11.7562
+440;440;440;WC Augustinum MÃ¼nchen Nord;HalbÃ¶ffentliche Toilette im Seniorenheim.;48.2091;11.5553;Weitlstr. ;80935;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.2091, 11.5553
+441;441;441;WC Asia Garden Ottobrunn;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0591;11.6649;Rosenheimer Landstr.;85521;"{""0"":""4"",""1"":""20""}";48.0591, 11.6649
+442;442;442;WC 2 Wolf Ferrari Haus, Ottobrunn;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.0647;11.6653;Rathausplatz;85521;"{""0"":""12"",""1"":""20""}";48.0647, 11.6653
+443;443;443;WC U-Bahnhof Richard-Strauss-StraÃŸe;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1487;11.6167;WC U-Bahnhof Richard-Strauss-StraÃŸe;81679;"{""0"":""4"",""1"":""12""}";48.1487, 11.6167
+444;444;444;WC U-Bahnhof Lehel;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1396;11.5877;U-Bahnhof Lehel;80538;"{""0"":""4"",""1"":""12"",""2"":""20""}";48.1396, 11.5877
+445;445;445;WC U-Bahnhof WestendstraÃŸe;"UMBAU (Jul 19)
+Ã–ffentliche Bahnhofstoilette mit Euroschloss.";48.1247;11.5085;U-Bahnhof WestendstraÃŸe;80687;"{""0"":""6"",""1"":""12"",""2"":""16""}";48.1247, 11.5085
+446;446;446;WC U-Bahnhof BÃ¶hmerwaldplatz;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1443;11.6134;U-Bahnhof BÃ¶hmerwaldplatz;81667;"{""0"":""4"",""1"":""12""}";48.1443, 11.6134
+447;447;447;WC U-Bahnhof Prinzregentenplatz;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1391;11.607000000000001;U-Bahnhof Prinzregentenplatz;81675;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1391, 11.607000000000001
+448;448;448;WC U-Bahnhof Laimer Platz;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.135;11.4982;Laimer Platz;80689;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.135, 11.4982
+449;449;449;WC U-Bahnhof Friedenheimer StraÃŸe;Ã–ffentliche Bahnhofstoilette OHNE Euroschloss.;48.1351;11.5093;U-Bahnhof Friedenheimer StraÃŸe;80686;"{""0"":""2"",""1"":""6"",""2"":""12"",""3"":""20""}";48.1351, 11.5093
+450;450;450;WC U-Bahnhof Kolumbusplatz;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1207;11.5765;U-Bahnhof Kolumbusplatz;81543;"{""0"":""6"",""1"":""12"",""2"":""20""}";48.1207, 11.5765
+451;451;451;WC U-Bahnhof Wettersteinplatz;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1092;11.5759;U-Bahnhof Wettersteinplatz;81547;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1092, 11.5759
+452;452;452;WC U-Bahnhof Mangfallplatz;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.0978;11.5818;U-Bahnhof Mangfallplatz;81547;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.0978, 11.5818
+453;453;453;WC U-Bahnhof Candidplatz;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1119;11.5702;U-Bahnhof Candidplatz;81543;"{""0"":""2"",""1"":""4"",""2"":""11"",""3"":""12""}";48.1119, 11.5702
+454;454;454;WC U-Bahnhof FraunhoferstraÃŸe;UMBAU Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1278;11.5761;U-Bahnhof FraunhoferstraÃŸe;80469;"{""0"":""6"",""1"":""12""}";48.1278, 11.5761
+455;455;455;WC U-Bahnhof DÃ¼lferstraÃŸe;UMBAU GESCHLOSSEN Jul21   Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.2128;11.5625;U-Bahnhof DÃ¼lferstraÃŸe;80937;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.2128, 11.5625
+456;456;456;WC U-Bahnhof Harthof;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.2049;11.5744;U-Bahnhof Harthof;80937;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.2049, 11.5744
+457;457;457;WC U-Bahnhof Innsbrucker Ring;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1205;11.6201;U-Bahnhof Innsbrucker Ring;81671;"{""0"":""6"",""1"":""12""}";48.1205, 11.6201
+458;458;458;WC Glonn Rathaus;Ã–ffentliche Toilette mit Euroschloss, 24h zugÃ¤nglich.;47.9878;11.8661;Markplatz;85625;"{""0"":""2"",""1"":""4"",""2"":""20""}";47.9878, 11.8661
+459;459;459;WC Jugendhaus HochbrÃ¼ck;HalbÃ¶ffentliche Toilette in einem Jugendtreff.;48.2499;11.6118;Voithstr.;85748;"{""0"":""4"",""1"":""8"",""2"":""11""}";48.2499, 11.6118
+460;460;460;WC BÃ¼rgerhaus Garching;Ã–ffentliche Toilette in einem BÃ¼rgerhaus.;48.2504;11.6503;BÃ¼rgerplatz;85748;"{""0"":""4"",""1"":""11""}";48.2504, 11.6503
+461;461;461;WC StadtbÃ¼cherei Garching;"Toilette in einem Ã¶ffentlichen GebÃ¤ude.
+";48.2504;11.6507;BÃ¼rgerplatz;85748;"{""0"":""2"",""1"":""4"",""2"":""12"",""3"":""20""}";48.2504, 11.6507
+462;462;462;WC Hainhalle Ismaning;Bedingt Ã¶ffentliche Toilette in einer Veranstaltungshalle.;48.2293;11.6753;Erich-Zeitler-Str.;85737;"{""0"":""4"",""1"":""11""}";48.2293, 11.6753
+463;463;463;WC Kleines Theater Haar;HalbÃ¶ffentliche Toilette in einem Theater.;48.1139;11.738;Casinostr.;85540;"{""0"":""2"",""1"":""4"",""2"":""17""}";48.1139, 11.738
+464;464;464;WC Einkaufszentrum Haar;Ã–ffentliche Toilette mit Euroschloss, 24h zugÃ¤nglich.;48.1083;11.7226;Jagdfeldring;85540;"{""0"":""4"",""1"":""20""}";48.1083, 11.7226
+465;465;465;WC S-Bahnhof Haar;Ã–ffentliche Toilette mit Euroschloss, 24h zugÃ¤nglich.;48.1095;11.727;Bahnhof Haar;85540;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1095, 11.727
+466;466;466;WC Schwimmhalle Haar;Bedingt Ã¶ffentliche Toilette mit Dusche in einem Hallenbad.;48.1076;11.7246;Jagdfeldring;85540;"{""0"":""4"",""1"":""8"",""2"":""11""}";48.1076, 11.7246
+467;467;467;WC Hanns-Seidl-Haus Ottobrunn;Bedingt Ã¶ffentliche Toilette in einem Seniorenheim.;48.0616;11.6736;Ottostr.;85521;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.0616, 11.6736
+468;468;468;WC U-Bahnhof Westfriedhof;"IM UMBAU JUL 21. 
+Ã–ffentliche Bahnhofstoilette mit Euroschloss.";48.1699;11.5266;Bahnhof Westfriedhof;80992;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1699, 11.5266
+469;469;469;WC Paulaner BrÃ¤uhaus;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1263;11.5588;Kapuzinerplatz;80337;"{""0"":""4"",""1"":""11""}";48.1263, 11.5588
+470;470;470;WC JÃ¼disches Zentrum am Jakobsplatz;Bedingt Ã¶ffentliche Toilette in einer GaststÃ¤tte.;48.1346;11.5717;St.-Jakobs-Platz;80331;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1346, 11.5717
+471;471;471;WC Giesinger BrÃ¤uhaus;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1155;11.5764;Martin-Luther-Str.;81539;"{""0"":""4"",""1"":""11""}";48.1155, 11.5764
+472;472;472;WC Gasthof zur Post UnterfÃ¶hring;"HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.
+";48.1942;11.6419;MÃ¼nchner Str.;85774;"{""0"":""1"",""1"":""2"",""2"":""4"",""3"":""17""}";48.1942, 11.6419
+473;473;473;WC Hotel zur Post Rohrdorf;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.7968;12.1695;Dorfplatz;83101;"{""0"":""2"",""1"":""4"",""2"":""11""}";47.7968, 12.1695
+474;474;474;WC Die Post Aufkirchen;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.9557;11.3634;Marienplatz;82335;"{""0"":""4"",""1"":""11""}";47.9557, 11.3634
+475;475;475;WC Rathaus Aschheim;Toilette in einem Ã¶ffentlichen GebÃ¤ude, werktags am Vormittag zugÃ¤nglich.;48.1726;11.7163;Ismaninger Str.;85609;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""20""}";48.1726, 11.7163
+476;476;476;WC Restaurant TAJ Aschheim;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1473;11.6843;Bahnhofstr.;85609;"{""0"":""1"",""1"":""4"",""2"":""11""}";48.1473, 11.6843
+477;477;477;WC Ibis Hotel MÃ¼nchen Ost, Aschheim;"HalbÃ¶ffentliche Toilette im Hotel.
+";48.1464;11.6834;Bahnhofstr.;85609;"{""0"":""4"",""1"":""11""}";48.1464, 11.6834
+478;478;478;WC SchreiberHof Aschheim;"HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.
+";48.1709;11.718;Erdinger Str.;85609;"{""0"":""4"",""1"":""12"",""2"":""20""}";48.1709, 11.718
+479;479;479;WC Asiatique, Aschheim;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1714;11.718;Erdinger Str.;85609;"{""0"":""4"",""1"":""11""}";48.1714, 11.718
+480;480;480;WC NH Hotel MÃ¼nchen Ost, Aschheim;HalbÃ¶ffentliche Toilette im Hotel.;48.147;11.687000000000001;Einsteinring;85609;"{""0"":""4"",""1"":""11""}";48.147, 11.687000000000001
+481;481;481;WC Kulturelles GebÃ¤ude Aschheim;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.17100000000001;11.7145;MÃ¼nchner Str.;85609;"{""0"":""4"",""1"":""12"",""2"":""17""}";48.17100000000001, 11.7145
+482;482;482;WC S-Bahnhof GrÃ¤felfing;Ã–ffentliche Bahnhofstoilette OHNE Euroschloss.;48.1211;11.4256;Bahnhof GrÃ¤felfing;82166;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1211, 11.4256
+483;483;483;WC BÃ¼rgerhaus GrÃ¤felfing UG;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.1212;11.4299;Bahnhofsplatz;82166;"{""0"":""4"",""1"":""20""}";48.1212, 11.4299
+484;484;484;WC an der WÃ¼rm in GrÃ¤felfing;24h Toilette im Ã¶ffentlichen Raum mit Euroschloss.;48.1229;11.4456;Kirchweg;82166;"{""0"":""4"",""1"":""11""}";48.1229, 11.4456
+485;485;485;WC neue Aussegnungshalle GrÃ¤felfing;Friedhofstoilette mit Euroschloss.;48.1184;11.4447;GroÃŸhaderner Str.;82166;"{""0"":""4"",""1"":""20""}";48.1184, 11.4447
+486;486;486;WC GetrÃ¤nke Orterer GrÃ¤felfing;HalbÃ¶ffentliche Toilette im Kaufhaus.;48.1175;11.4428;Finkenstr. ;82166;"{""0"":""4"",""1"":""11""}";48.1175, 11.4428
+487;487;487;WC IHLE CafÃ© GrÃ¤felfing;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1189;11.4292;Bahnhofstr.;82166;"{""0"":""4"",""1"":""11""}";48.1189, 11.4292
+488;488;488;WC Caritas-Haus St. Gisela, GrÃ¤felfing;HalbÃ¶ffentliche Toilette in der CafÃ©teria eines Altenheims.;48.119;11.4429;Pasinger Str. ;82166;"{""0"":""4"",""1"":""11""}";48.119, 11.4429
+489;489;489;WC S-Bahnhof Lochham;Ã–ffentliche Bahnhofstoilette OHNE Euroschloss.;48.1212;11.4299;Lochham Haltestelle;82166;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1212, 11.4299
+490;490;490;WC Heide-Volm Planegg;HalbÃ¶ffentliche Toilette mit Pflegeliege und Euroschloss in einer GaststÃ¤tte.;48.1034;11.4196;Bahnhofstr.;82152;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1034, 11.4196
+491;491;491;WC Pfennigparade am Scheidplatz;Bedingt Ã¶ffentlich zugÃ¤ngliche Toilette mit Pflegeliege in einer Einrichtung.;48.1719;11.5736;Belgradstr.;80804;"{""0"":""4"",""1"":""20""}";48.1719, 11.5736
+492;492;492;WC Gasthaus Hartl 'Zum Unterwirt', TÃ¼rkenfeld;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1074;11.0859;Duringstr.;82299;"{""0"":""4"",""1"":""17""}";48.1074, 11.0859
+493;493;493;WC Deutsche Eiche Lochhausen;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1784;11.4069;Ranertstr.;81249;"{""0"":""2"",""1"":""4"",""2"":""17""}";48.1784, 11.4069
+494;494;494;WC Landratsamt MÃ¼nchen Haupteingang;Toilette in einem Ã¶ffentlichen GebÃ¤ude, werktags 8-12h und Donnerstagnachmittag zugÃ¤nglich.;48.1242;11.5824;Mariahilfplatz;81541;"{""0"":""7"",""1"":""11""}";48.1242, 11.5824
+495;495;495;WC Landratsamt MÃ¼nchen beim Festsaal;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.1242;11.5824;Mariahilfplatz;81541;"{""0"":""4"",""1"":""7"",""2"":""20""}";48.1242, 11.5824
+496;496;496;WC Waldfriedhof UnterschleiÃŸheim;Ã–ffentliche Friedhofstoilette mit Euroschloss.;48.2714;11.5731;MÃ¼nchner Ring;85716;"{""0"":""4"",""1"":""11""}";48.2714, 11.5731
+497;497;497;WC Skistadion Garmisch;24h Toilette im Ã¶ffentlichen Raum mit Euroschloss.;47.4827;11.1176;Karl-und-Martin-Neuner-Platz;82467;"{""0"":""4"",""1"":""7"",""2"":""11""}";47.4827, 11.1176
+498;498;498;WC Maria Eich, Planegg;Bedingt Ã¶ffentlich zugÃ¤ngliche Toilette bei einer Kirche.;48.1064;11.4088;Zu Maria-Eich;82152;"{""0"":""4"",""1"":""11""}";48.1064, 11.4088
+499;499;499;WC Kramerwirt Arzbach;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.7136;11.5558;Hauptstr.;83646;"{""0"":""1"",""1"":""4"",""2"":""20""}";47.7136, 11.5558
+500;500;500;WC Pizza Hut BayerstraÃŸe;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1392;11.5625;Bayerstr.;80335;"{""0"":""4"",""1"":""11""}";48.1392, 11.5625
+501;501;501;WC Pfennigparade CafÃ© Scheidplatz;HalbÃ¶ffentliche Toilette in einer Einrichtung.;48.1714;11.5738;Belgradstr.;80769;"{""0"":""6"",""1"":""11""}";48.1714, 11.5738
+502;502;502;WC BrÃ¤ustÃ¼berl Maxlrain;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.8982;11.9875;StachÃ¶derweg;83104;"{""0"":""2"",""1"":""4"",""2"":""11""}";47.8982, 11.9875
+503;503;503;WC Ostfriedhof Aussegnungshalle;Ã–ffentliche Friedhofstoilette OHNE Euroschloss.;48.1175;11.5889;St.-Martins-Platz;81541;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1175, 11.5889
+504;504;504;WC Busbahnhof FÃ¼rstenried West;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.0883;11.4808;Bahnhof FÃ¼rstenried West;81475;"{""0"":""4"",""1"":""20""}";48.0883, 11.4808
+505;505;505;WC Waldfriedhof alter Teil;Ã–ffentliche Friedhofstoilette OHNE Euroschloss.;48.1087;11.5019;FÃ¼rstenrieder Str.;81377;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1087, 11.5019
+506;506;506;WC Waldfriedhof neuer Teil;Ã–ffentliche Friedhofstoilette mit Euroschloss.;48.1025;11.4879;Lorettoplatz;81377;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1025, 11.4879
+507;507;507;WC Westpark Ã¶stl. Teil;Ã–ffentliche Toilette OHNE Euroschloss.;48.1218;11.5275;Heiterwanger Str.;81373;"{""0"":""4"",""1"":""11""}";48.1218, 11.5275
+508;508;508;WC Riedmair;HalbÃ¶ffentliche Toilette in einem Ladenlokal.;48.173;11.5864;Leopoldstr.;80804;"{""0"":""4"",""1"":""11""}";48.173, 11.5864
+509;509;509;WC Kaufhaus Hirmer;HalbÃ¶ffentliche Toilette im Kaufhaus.;48.1381;11.5721;Kaufingerstr.;80331;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1381, 11.5721
+510;510;510;WC Sport Scheck;HalbÃ¶ffentliche Toilette im Kaufhaus.;48.1382;11.57;Neuhauser Str.;80331;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1382, 11.57
+511;511;511;WC Naturschutzpavillon Ãœbersee;24h Ã¶ffentliche zugÃ¤ngliche Toilette mit Euroschloss.;47.8329;12.4882;Hochfellnweg;83236;"{""0"":""4"",""1"":""20""}";47.8329, 12.4882
+512;512;512;WC Burgstr. 4 MÃ¼nchen;Ã–ffentliche Toilette ohne Euroschloss in einer BehÃ¶rde.;48.1373;11.5775;Burgstr.;80331;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1373, 11.5775
+513;513;513;WC Bahnhof Tegernsee;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;47.7096;11.7574;Bahnhof Tegernsee;83684;"{""0"":""4""}";47.7096, 11.7574
+514;514;514;WC Bahnhof Gmund;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;47.7503;11.7363;Wiesseer Str.;83703;"{""0"":""2"",""1"":""4""}";47.7503, 11.7363
+515;515;515;WC Bahnhof Kochel;Ã–ffentliche Bahnhofstoilette mit Euroschloss, 24h zugÃ¤nglich.;47.6613;11.3744;Bahnhofstr.;82431;"{""0"":""4"",""1"":""7""}";47.6613, 11.3744
+516;516;516;WC Bahnhof Holzkirchen;Ã–ffentliche Bahnhofstoilette mit Euroschloss, 24h zugÃ¤nglich.;47.8841;11.697000000000001;Bahnhofplatz;83607;"{""0"":""4"",""1"":""7""}";47.8841, 11.697000000000001
+517;517;517;WC McDonald's Bahnhof Rosenheim;Ã–ffentliche Toilette in einer BahnhofsgaststÃ¤tte.;47.8503;12.1196;SÃ¼dtiroler Platz;83022;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11""}";47.8503, 12.1196
+518;518;518;WC S-Bahnhof Unterhaching;Ã–ffentlich zugÃ¤ngliches, mobiles  Bahnhofs-WC.;48.0641;11.6133;Hauptstr.;82008;"{""0"":""4"",""1"":""7""}";48.0641, 11.6133
+519;519;519;WC S-Bahnhof Taufkirchen;24h zugÃ¤ngliche Ã¶ffentliche Bahnhofstoilette.;48.0514;11.6081;Eschenstr.;82024;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.0514, 11.6081
+520;520;520;WC Rathaus UnterfÃ¶hring;Toilette in einem Ã¶ffentlichen GebÃ¤ude ohne Euroschloss.;48.1916;11.6395;MÃ¼nchner Str.;85774;"{""0"":""2"",""1"":""11""}";48.1916, 11.6395
+521;521;521;WC Sporthaus Globetrotter;"HalbÃ¶ffentliche Toilette im Kaufhaus.
+";48.1347;11.5817;Isartorplatz;80331;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1347, 11.5817
+522;522;522;WC MÃ¶belhaus Kare im Kraftwerk;"HalbÃ¶ffentliche Toilette im Kaufhaus.
+";48.0944;11.5051;Drygalski-Allee;81477;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.0944, 11.5051
+523;523;523;WC Motorama;HalbÃ¶ffentliche Toilette im Kaufhaus mit Euroschloss.;48.1308;11.5903;Rosenheimer Str.;81669;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1308, 11.5903
+524;524;524;WC fÃ¼r Alle Allianz Arena Ost;HalbÃ¶ffentliche 'Toilette fÃ¼r alle' mit Pflegeliege, Lifter und Euroschloss.;48.2188;11.6246;Werner-Heisenberg-Allee;80939;"{""0"":""4"",""1"":""10"",""2"":""11""}";48.2188, 11.6246
+525;525;525;WC La BohÃ¨me;"HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte
+";48.1731;11.5867;Leopoldstr.;80804;"{""0"":""4"",""1"":""11""}";48.1731, 11.5867
+526;526;526;WC Sport Schuster;HalbÃ¶ffentliche Toilette im Kaufhaus.;48.1369;11.5743;Rosenstr.;80331;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1369, 11.5743
+527;527;527;WC Nordfriedhof;"Ã–ffentliche Friedhofstoilette OHNE Euroschloss.
+";48.1748;11.5993;Ungererstr.;80805;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.1748, 11.5993
+528;528;528;WC Ludwig Beck;HalbÃ¶ffentliche Toilette im Kaufhaus.;48.1371;11.5765;Marienplatz;80331;"{""0"":""2"",""1"":""4"",""2"":""11"",""3"":""12""}";48.1371, 11.5765
+529;529;529;WC C&A FuÃŸgÃ¤ngerzone;HalbÃ¶ffentliche Toilette im Kaufhaus.;48.1377;11.5723;Kaufingerstr.;80331;"{""0"":""4"",""1"":""12""}";48.1377, 11.5723
+530;530;530;WC Langwieder See Ostufer Grillzone;24h Ã¶ffentliche zugÃ¤ngliche Toilette ohne Euroschloss, am Badesee.;48.193999999999996;11.419;Goteboldstr.;81249;"{""0"":""4"",""1"":""11""}";48.193999999999996, 11.419
+531;531;531;WC LuÃŸsee Nordostecke am Spielplatz;24h Ã¶ffentliche zugÃ¤ngliche Toilette ohne Euroschloss, am Badesee.;48.2006;11.4209;LuÃŸsee;81249;"{""0"":""4"",""1"":""11""}";48.2006, 11.4209
+532;532;532;WC LuÃŸsee am Kiosk ;24h Ã¶ffentliche zugÃ¤ngliche Toilette ohne Euroschloss, am Badesee.;48.196999999999996;11.4145;Kreuzkapellenstr.;81249;"{""0"":""4"",""1"":""11""}";48.196999999999996, 11.4145
+533;533;533;WC Birkensee SÃ¼dostecke;24h Ã¶ffentliche zugÃ¤ngliche Toilette ohne Euroschloss, am Badesee.;48.2026;11.4192;Moospfarrerweg;81249;"{""0"":""4"",""1"":""11""}";48.2026, 11.4192
+534;534;534;WC Friedhof Aubing;Ã–ffentliche Friedhofstoilette OHNE Euroschloss.;48.15600000000001;11.4097;Freihamer Weg;81249;"{""0"":""4"",""1"":""20""}";48.15600000000001, 11.4097
+535;535;535;WC Toom Baumarkt Haidhausen;HalbÃ¶ffentliche Toilette im Kaufhaus.;48.1351;11.6127;Grillparzerstr.;81675;"{""0"":""6"",""1"":""12"",""2"":""17""}";48.1351, 11.6127
+536;536;536;WC S-Bahnhof Starnberg Nord;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.0062;11.3473;Starnberg Nord;82319;"{""0"":""4"",""1"":""7""}";48.0062, 11.3473
+537;537;537;WC Burger King Ramersdorf;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1102;11.6129;Chiemgaustr.;81549;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1102, 11.6129
+538;538;538;WC Loden Frey;HalbÃ¶ffentliche Toilette im Kaufhaus.;48.1396;11.5741;Maffeistr.;80333;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1396, 11.5741
+539;539;539;WC Heidehaus;Toilette in einem Ã¶ffentlichen GebÃ¤ude ohne Euroschloss.;48.2111;11.6149;Admiralbogen;80939;"{""0"":""4"",""1"":""11""}";48.2111, 11.6149
+540;540;540;WC Kaufhof am Marienplatz;HalbÃ¶ffentliche Toilette im Kaufhaus.;48.1377;11.5729;Kaufingerstr.;80331;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1377, 11.5729
+541;541;541;WC SIAF eV;HalbÃ¶ffentliche Toilette in einer Einrichtung fÃ¼r Frauen.;48.129;11.5997;Sedanstr.;81667;"{""0"":""4"",""1"":""20""}";48.129, 11.5997
+542;542;542;WC Hochschule MÃ¼nchen Campus KarlstraÃŸe;HalbÃ¶ffentliche Toilette im HochschulgebÃ¤ude mit Euroschloss.;48.1431;11.5687;Karlstr.;80333;"{""0"":""4"",""1"":""11""}";48.1431, 11.5687
+543;543;543;WC Sportanlage Stadtwerke MÃ¼nchen;HalbÃ¶ffentliche Toilette in einer Sportanlage.;48.0982;11.6051;Lauensteinstr.;81549;"{""0"":""4"",""1"":""20""}";48.0982, 11.6051
+544;544;544;WC Bayerisches Schnitzel- und Hendlhaus;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1478;11.4218;Limesstr.;81243;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1478, 11.4218
+545;545;545;WC Neuer SÃ¼dfriedhof;Ã–ffentliche Friedhofstoilette OHNE Euroschloss.;48.1009;11.6091;HochÃ¤ckerstr. ;81549;"{""0"":""2"",""1"":""4"",""2"":""17""}";48.1009, 11.6091
+546;546;546;WC ZieglerbrÃ¤u Dachau;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.263999999999996;11.437999999999999;Konrad-Adenauer-Str.;85221;"{""0"":""2"",""1"":""11""}";48.263999999999996, 11.437999999999999
+547;547;547;WC Inning / Steegen;Ã–ffentliche Toilette  OHNE Euroschloss, 24h zugÃ¤nglich.;48.0749;11.1361;Seepromenade;86911;"{""0"":""2"",""1"":""20""}";48.0749, 11.1361
+548;548;548;WC Pfennigparade Eventcasino;HalbÃ¶ffentliche Toilette in einer Einrichtung.;48.1768;11.5754;Barlachstr.;80804;"{""0"":""6"",""1"":""17""}";48.1768, 11.5754
+549;549;549;WC Parkfriedhof UnterfÃ¶hring;Ã–ffentliche Friedhofstoilette mit Euroschloss.;48.1916;11.6395;MÃ¼nchner Str.;85774;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1916, 11.6395
+550;550;550;WC BÃ¼rgerhaus UnterfÃ¶hring;Toilette in einem Ã¶ffentlichen GebÃ¤ude ohne Euroschloss.;48.1913;11.6394;MÃ¼nchner Str.;85774;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1913, 11.6394
+551;551;551;WC Marktkauf UnterfÃ¶hring;HalbÃ¶ffentliche Toilette im Kaufhaus.;48.1773;11.6367;Feringastr.;85774;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.1773, 11.6367
+552;552;552;WC Hagebaumarkt UnterfÃ¶hring;HalbÃ¶ffentliche Toilette im Kaufhaus.;48.1793;11.6326;Feringastr.;85774;"{""0"":""4"",""1"":""11""}";48.1793, 11.6326
+553;553;553;WC CafÃ© Wimmer im Lehel;"HalbÃ¶ffentliche Toilette in einem CafÃ©.
+";48.1332;11.5839;Liebherrstr.;80538;"{""0"":""4"",""1"":""11""}";48.1332, 11.5839
+554;554;554;WC Stadtsparkasse MÃ¼nchen Zentrale;HalbÃ¶ffentliche Toilette in einer Bank, ohne Euroschloss.;48.1365;11.5775;Sparkassenstr.;80331;"{""0"":""2""}";48.1365, 11.5775
+555;555;555;WC Das Einstein Einkaufszentrum;HalbÃ¶ffentliche Toilette im Kaufhaus.;48.1363;11.6139;Einsteinstr.;81675;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1363, 11.6139
+556;556;556;WC U-Bahnhof GroÃŸhadern;WEGEN UMBAU GESCHLOSSEN.;48.1153;11.4762;U-Bahnhof GroÃŸhadern;81377;"{""0"":""21""}";48.1153, 11.4762
+557;557;557;WC U-Bahnhof Klinikum GroÃŸhadern;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1091;11.4738;U-Bahnhof Klinikum GroÃŸhadern;81377;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1091, 11.4738
+558;558;558;WC fÃ¼r Alle im Sendlinger Tor;Ã–ffentliche 'Toilette fÃ¼r alle' mit Pflegeliege, Lifter und Euroschloss.;48.1333;11.5654;Sendlinger-Tor-Platz;80336;"{""0"":""4"",""1"":""10"",""2"":""11"",""3"":""18""}";48.1333, 11.5654
+559;559;559;WC U-Bahnhof Haderner Stern;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1183;11.4888;U-Bahnhof Haderner Stern;81375;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1183, 11.4888
+560;560;560;WC U-Bahnhof Holzapfelkreuth;DIE TOILETTE IST VERSCHLOSSEN.;48.1167;11.5025;U-Bahnhof Holzapfelkreuth;81375;"{""0"":""21""}";48.1167, 11.5025
+561;561;561;WC U-Bahnhof Kieferngarten;DIE TOILETTE IST VERSCHLOSSEN.;48.2022;11.6121;U-Bahnhof Kieferngarten;80939;"{""0"":""21""}";48.2022, 11.6121
+562;562;562;WC Lehel CarrÃ©;HalbÃ¶ffentliche Toilette in einem BÃ¼rogebÃ¤ude.;48.1395;11.585;Karl-Scharnagel-Ring;80538;"{""0"":""4"",""1"":""11""}";48.1395, 11.585
+563;563;563;WC Tramhalt Petuelring;"GESCHLOSSEN (Jul 21)
+Ã–ffentliche Toilette mit Euroschloss, 24h zugÃ¤nglich.";48.1805;11.567;SchleiÃŸheimer Str.;80809;"{""0"":""4"",""1"":""11""}";48.1805, 11.567
+564;564;564;WC U-Bahnhof Obersendling;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.098;11.5355;U-Bahnhof Obersendling;81379;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.098, 11.5355
+565;565;565;WC Tramhalt Scheidplatz;Ã–ffentliche Toilette mit Euroschloss, 24h zugÃ¤nglich.;48.1707;11.5725;Belgradstr.;80804;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1707, 11.5725
+566;566;566;WC Little London;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1357;11.5809;Tal;80331;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1357, 11.5809
+567;567;567;WC U-Bahnhof Rotkreuzplatz;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1528;11.5323;Rotkreuzplatz;80634;"{""0"":""2"",""1"":""4"",""2"":""11"",""3"":""12""}";48.1528, 11.5323
+568;568;568;WC U-Bahnhof SilberhornstraÃŸe;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1152;11.5792;U-Bahnhof SilberhornstraÃŸe;81539;"{""0"":""4"",""1"":""11"",""2"":""12"",""3"":""18""}";48.1152, 11.5792
+569;569;569;WC S-Bahnhof Geltendorf;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1062;11.0372;Am Bahnhof;82269;"{""0"":""2"",""1"":""7"",""2"":""11""}";48.1062, 11.0372
+570;570;570;WC da Massimo;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1692;11.5329;Dietrichstr.;80637;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1692, 11.5329
+571;571;571;WC Elisabethplatz;Ã–ffentliche Toilette mit Euroschloss.;48.1573;11.5736;Elisabethplatz;80796;"{""0"":""4"",""1"":""11""}";48.1573, 11.5736
+572;572;572;WC Westfriedhof;Ã–ffentliche Friedhofstoilette.;48.1694;11.5273;Baldurstr.;80637;"{""0"":""4"",""1"":""20""}";48.1694, 11.5273
+573;573;573;WC Friedhof am Perlacher Forst;Ã–ffentliche Friedhofstoilette ohne Euroschloss.;48.1019;11.5953;Stadelheimer Str.;81549;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1019, 11.5953
+574;574;574;WC Herkomerplatz;Ã–ffentliche Toilette an einer GaststÃ¤tte.;48.151;11.6078;Herkomerplatz;81679;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.151, 11.6078
+575;575;575;WC Barmer GEK;HalbÃ¶ffentliche Toilette in einem DienstleistungsgebÃ¤ude.;48.1502;11.5201;Arnulfstr.;80634;"{""0"":""4"",""1"":""11""}";48.1502, 11.5201
+576;576;576;WC Noi Ridiamo, Neuried;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.092;11.4635;Gautinger Str.;82061;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.092, 11.4635
+577;577;577;WC TSV Neuried;HalbÃ¶ffentliche Toilette in einer Sportanlage.;48.0874;11.4623;Am Sportpark;82061;"{""0"":""4"",""1"":""11""}";48.0874, 11.4623
+578;578;578;WC BÃ¼rgerhaus GrÃ¤felfing EG;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.1203;11.4278;Bahnhofsplatz;82166;"{""0"":""4"",""1"":""20""}";48.1203, 11.4278
+579;579;579;WC BÃ¼rgerhaus UnterschleiÃŸheim;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.2728;11.5707;Rathausplatz;85716;"{""0"":""4"",""1"":""20""}";48.2728, 11.5707
+580;580;580;WC Politia, UnterfÃ¶hring;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1913;11.6394;MÃ¼nchner Str.;85774;"{""0"":""4"",""1"":""11""}";48.1913, 11.6394
+581;581;581;WC McDonald's Unterhaching;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte, mit EuroschlieÃŸung.;48.0568;11.6022;GrÃ¼nwalder Weg ;82008;"{""0"":""4"",""1"":""20""}";48.0568, 11.6022
+582;582;582;WC Phoenix-Bad, Ottobrunn;Bedingt Ã¶ffentliche Toilette mit Dusche in einem Bad.;48.0569;11.6523;Haidgraben;85521;"{""0"":""2"",""1"":""4"",""2"":""8"",""3"":""9"",""4"":""20""}";48.0569, 11.6523
+583;583;583;WC Kaiserstr. 28;HalbÃ¶ffentliche Toilette in einem BÃ¼ro- und Wohnhaus.;48.161;11.582;Kaiserstr.;80801;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.161, 11.582
+584;584;584;WC Trattoria Bellini;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1512;11.5408;Nymphenburger Str.;80636;"{""0"":""4"",""1"":""11""}";48.1512, 11.5408
+585;585;585;WC Neo-Brasserie Hoiz;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1428;11.5676;Karlstr.;80333;"{""0"":""4"",""1"":""11""}";48.1428, 11.5676
+586;586;586;WC Neuhauser;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1665;11.5741;Belgradstr.;80796;"{""0"":""4"",""1"":""7"",""2"":""20""}";48.1665, 11.5741
+587;587;587;WC Brasserie WeiÃŸbrÃ¤u, Bad Endorf;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.9066;12.2996;Bahnhofstr.;83093;"{""0"":""2"",""1"":""4"",""2"":""20""}";47.9066, 12.2996
+588;588;588;WC Bahnhof Bad Aibling Herren;Ã–ffentliche Bahnhofstoilette ohne Euroschloss.;47.9049;12.3025;Bahnhofplatz;83043;"{""0"":""6"",""1"":""7"",""2"":""20""}";47.9049, 12.3025
+589;589;589;WC Bahnhof Bad Aibling Damen;Ã–ffentliche Bahnhofstoilette ohne Euroschloss.;47.9049;12.3025;Bahnhofplatz;83043;"{""0"":""6"",""1"":""7"",""2"":""20""}";47.9049, 12.3025
+590;590;590;WC NS Dokuzentrum;HalbÃ¶ffentliche Toilette in einem Museum.;48.1453;11.5677;Max-Mannheimer-Platz;80333;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1453, 11.5677
+591;591;591;WC Beratungsstelle Wohnen;HalbÃ¶ffentliche Toilette mit Dusche in einer Beratungsstelle.;48.1689;11.579;Aachener Str.;80804;"{""0"":""2"",""1"":""4"",""2"":""8""}";48.1689, 11.579
+592;592;592;WC Helmi-MÃ¼hlbauer-Halle, GrÃ¼nwald;HalbÃ¶ffentliche Toilette in einer Sportanlage.;48.0452;11.5245;Dr.-Max-Str.;82031;"{""0"":""4"",""1"":""11""}";48.0452, 11.5245
+593;593;593;WC mit Dusche und Pflegeliege Helmi-MÃ¼hlbauer-Halle, GrÃ¼nwald;HalbÃ¶ffentliche Toilette mit Dusche und Pflegeliege in einer Sportanlage.;48.0452;11.5245;Dr.-Max-Str.;82031;"{""0"":""4"",""1"":""8"",""2"":""9"",""3"":""11""}";48.0452, 11.5245
+594;594;594;WC SanitÃ¤tshaus Von Schlieben;HalbÃ¶ffentliche Toilette in einem GeschÃ¤ftshaus.;48.1367;11.5658;Sonnenstr.;80331;"{""0"":""4"",""1"":""11""}";48.1367, 11.5658
+595;595;595;WC fÃ¼r Alle am Tierpark-Parkplatz;Ã–ffentliche 'Toilette fÃ¼r alle' mit Pflegeliege, Lifter und Euroschloss. GeÃ¶ffnet 20 Std. 6-2h.;48.0997;11.5577;Parkplatz Tierparkstr.;81543;"{""0"":""4"",""1"":""7"",""2"":""10"",""3"":""18""}";48.0997, 11.5577
+596;596;596;WC Zum Bartewirt, KreuzstraÃŸe (Valley);HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.9208;11.7554;Gruberstr.;83626;"{""0"":""4"",""1"":""11""}";47.9208, 11.7554
+597;597;597;WC Schneider  BrÃ¤uhaus ;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1276;11.6297;Baumkirchnerstr.;81673;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1276, 11.6297
+598;598;598;WC Shan Garden Unterhaching;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0634;11.6205;GrÃ¼nauer Allee;82008;"{""0"":""4"",""1"":""11""}";48.0634, 11.6205
+599;599;599;WC Strandbad Ãœbersee mit Dusche ;Bedingt Ã¶ffentliche Toilette mit Dusche in einem Bad.;47.8483;12.4748;Julius-Exter-Promenade;83236;"{""0"":""4"",""1"":""8"",""2"":""11""}";47.8483, 12.4748
+600;600;600;WC fÃ¼r Alle am Flaucher;Ã–ffentliche 'Toilette fÃ¼r alle' mit Pflegeliege, Lifter und Euroschloss. GeÃ¶ffnet 20 Std. 6-2h.;48.0927;11.5475;ZentrallÃ¤ndstr.;81379;"{""0"":""4"",""1"":""10"",""2"":""11"",""3"":""18""}";48.0927, 11.5475
+601;601;601;WC Waldhaus Deininger Weiher;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.9675;11.5243;Deininger Weiher;82064;"{""0"":""7"",""1"":""17""}";47.9675, 11.5243
+602;602;602;WC Riessersee Hotel, Garmisch;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.4799;11.0811;Riess;82467;"{""0"":""1"",""1"":""2"",""2"":""4"",""3"":""7"",""4"":""20""}";47.4799, 11.0811
+603;603;603;WC Rathaus Tegernsee;Ã–ffentliche Toilettenanlage - 24h zugÃ¤nglich.;47.7094;11.7526;Rathausplatz;83684;"{""0"":""4"",""1"":""11""}";47.7094, 11.7526
+604;604;604;WC il kiosko Steinebach;HalbÃ¶ffentliche Toilette bei einer GaststÃ¤tte.;48.0665;11.1995;Seepromenade;82237;"{""0"":""4"",""1"":""20""}";48.0665, 11.1995
+605;605;605;WC Seewirtschaft am Reifinger See (Grassau);HalbÃ¶ffentliche Toilette bei einer GaststÃ¤tte mit Euroschloss, 24h zugÃ¤nglich.;47.7746;12.4615;Reifinger Str.;83224;"{""0"":""4"",""1"":""11""}";47.7746, 12.4615
+606;606;606;WC H2O Strandkiosk;Ã–ffentliche Toilettenanlage - 24h zugÃ¤nglich, mit Euro-Schloss.;47.8316;12.3803;Birkenallee;83233;"{""0"":""4"",""1"":""17""}";47.8316, 12.3803
+607;607;607;WC IHLE CafÃ© Roecklplatz;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1212;11.5627;Isartalstr.;80469;"{""0"":""4"",""1"":""11""}";48.1212, 11.5627
+608;608;608;Wiesn-WC fÃ¼r Alle;Ã–ffentliche 'Toilette fÃ¼r alle' mit Pflegeliege, Lifter und Euroschloss. ;48.1279;11.5481;Theresienwiese;80336;"{""0"":""4"",""1"":""10"",""2"":""11""}";48.1279, 11.5481
+609;609;609;WC Leopoldkinos;Bedingt Ã¶ffentliche Toilette bei einem Kino.;48.1607;11.5866;Leopoldstr.;80802;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1607, 11.5866
+610;610;610;WC Cincinnati Kino;Bedingt Ã¶ffentliche Toilette in einem Kino.;48.0915;11.5942;Cincinnatistr.;81549;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.0915, 11.5942
+611;611;611;WC Bahnhof Murnau;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;47.6821;11.1935;Bahnhofplatz 11;82418;"{""0"":""4"",""1"":""7"",""2"":""11""}";47.6821, 11.1935
+612;612;612;WC Putzbrunn Waldfriedhof;Ã–ffentliche Friedhofstoilette ohne Euroschloss.;48.0704;11.7079;Niedweg;85640;"{""0"":""4"",""1"":""11""}";48.0704, 11.7079
+613;613;613;WC Putzbrunn Gemeindekindergarten;Bedingt Ã¶ffentliche Toilette in einem Kindergarten.;48.0741;11.7157;Rathausstr.;85640;"{""0"":""4"",""1"":""11""}";48.0741, 11.7157
+614;614;614;WC JugendKulturhaus Gleis 1 Lohhof;Bedingt Ã¶ffentliche Toilette in einer JugendfreizeitstÃ¤tte mit Euroschloss.;48.2889;11.5828;Hollerner Weg;85716;"{""0"":""2"",""1"":""4"",""2"":""11"",""3"":""12""}";48.2889, 11.5828
+615;615;615;WC Kino MÃ¼nchner Freiheit;Bedingt Ã¶ffentliche Toilette in einem Kino.;48.1612;11.5866;Leopoldstr.;80802;"{""0"":""4"",""1"":""12""}";48.1612, 11.5866
+616;616;616;WC Asia City Unterhaching;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.056000000000004;11.6083;GrÃ¼nwalder Weg ;82008;"{""0"":""4"",""1"":""11""}";48.056000000000004, 11.6083
+617;617;617;WC Sausalitos Pasing;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1496;11.4589;Kaflerstr.;81241;"{""0"":""4"",""1"":""11""}";48.1496, 11.4589
+618;618;618;WC Monopol Kino;Bedingt Ã¶ffentliche Toilette in einem Kino.;48.1624;11.5635;SchleiÃŸheimer Str.;80797;"{""0"":""2"",""1"":""4"",""2"":""11"",""3"":""12""}";48.1624, 11.5635
+619;619;619;WC Monopol Kinobar;Bedingt Ã¶ffentliche Toilette in einem Kino.;48.1624;11.5635;SchleiÃŸheimer Str.;80797;"{""0"":""4"",""1"":""17""}";48.1624, 11.5635
+620;620;620;WC Filmstation Gilching;Bedingt Ã¶ffentliche Toilette in einem Kino.;48.1075;11.3018;RÃ¶merstr.;82205;"{""0"":""4"",""1"":""11""}";48.1075, 11.3018
+621;621;621;WC CinemaxX;Bedingt Ã¶ffentliche Toilette in einem Kino.;48.13399999999999;11.5822;Isartorplatz;80331;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11"",""4"":""12""}";48.13399999999999, 11.5822
+622;622;622;WC Sausalitos SonnenstraÃŸe;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1369;11.5643;Sonnenstr.;80331;"{""0"":""4"",""1"":""11""}";48.1369, 11.5643
+623;623;623;WC Garchinger Augustiner;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.2499;11.6525;Freisinger Landstr.;85748;"{""0"":""4"",""1"":""20""}";48.2499, 11.6525
+624;624;624;WC MathÃ¤ser Kino - 2. OG;Ã–ffentliches WC in einem Kino, mit â‚¬-Schloss.;48.138999999999996;11.5639;Bayerstr.;80335;"{""0"":""4"",""1"":""7"",""2"":""12""}";48.138999999999996, 11.5639
+625;625;625;WC MathÃ¤ser Kino - UG rechts;Ã–ffentliches WC in einem Kino, mit â‚¬-Schloss.;48.1391;11.5638;Bayerstr.;80335;"{""0"":""4"",""1"":""12""}";48.1391, 11.5638
+626;626;626;WC MathÃ¤ser Kino - UG links;Ã–ffentliches WC in einem Kino, mit â‚¬-Schloss.;48.1391;11.5638;Bayerstr.;80335;"{""0"":""4"",""1"":""12""}";48.1391, 11.5638
+627;627;627;WC Alter Wirt Thalkirchen;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1004;11.5449;Fraunbergstr.;81379;"{""0"":""4"",""1"":""7"",""2"":""20""}";48.1004, 11.5449
+628;628;628;WC Wildmosers Restaurant;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1368;11.5754;Marienplatz;80331;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1368, 11.5754
+629;629;629;WC HofbrÃ¤u Obermenzing;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1645;11.4623;Verdistr.;81247;"{""0"":""4"",""1"":""11""}";48.1645, 11.4623
+630;630;630;WC BÃ¼rgerhaus Grasbrunn - Neukeferloh;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.0941;11.758;Leonhard-Stadler-Str.;85630;"{""0"":""4"",""1"":""11""}";48.0941, 11.758
+631;631;631;WC BÃ¼rgerhaus Grasbrunn;Toilette in einem Ã¶ffentlichen GebÃ¤ude mit Kinderkrippe.;48.0787;11.744000000000002;St. Ulrich-Platz;85630;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.0787, 11.744000000000002
+632;632;632;WC Rathaus Grasbrunn-Neukeferloh;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.0957;11.7618;Lerchenstr.;85630;"{""0"":""4"",""1"":""11""}";48.0957, 11.7618
+633;633;633;WC TSV Grasbrunn-Neukeferloh;Ã–ffentliche Toilette in einem SportgelÃ¤nde.;48.0877;11.7508;Am Sportpark;85630;"{""0"":""4"",""1"":""11""}";48.0877, 11.7508
+634;634;634;WC Ikea MÃ¼nchen-Brunnthal;HalbÃ¶ffentliche Toilette im Kaufhaus.;48.0405;11.6577;Brunnthaler Str.;82024;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.0405, 11.6577
+635;635;635;WC Infineon food court, Neubiberg;HalbÃ¶ffentliche Toilette auf einem FirmengelÃ¤nde.;48.0812;11.6163;Am Campeon;85579;"{""0"":""4"",""1"":""7""}";48.0812, 11.6163
+636;636;636;WC Olympia SchieÃŸanlage HochbrÃ¼ck;HalbÃ¶ffentliche Toilette in einer Sportanlage.;48.2313;11.5984;IngolstÃ¤dter Landstr. ;85748;"{""0"":""4""}";48.2313, 11.5984
+637;637;637;WC SBZ Damen UnterschleiÃŸheim;HalbÃ¶ffentliche Toilette in einer Schule.;48.2737;11.5728;Pater-Setzer-Platz;85716;"{""0"":""6"",""1"":""20""}";48.2737, 11.5728
+638;638;638;WC SBZ Herren UnterschleiÃŸheim;HalbÃ¶ffentliche Toilette in einer Schule.;48.2736;11.5725;Pater-Setzer-Platz;85716;"{""0"":""6"",""1"":""20""}";48.2736, 11.5725
+639;639;639;WC VHS UnterschleiÃŸheim;HalbÃ¶ffentliche Toilette in einer Bildungseinrichtung.;48.2794;11.5653;Landshuter Str.;85716;"{""0"":""4"",""1"":""20""}";48.2794, 11.5653
+640;640;640;WC Sporthalle Mittelschule UnterschleiÃŸheim;HalbÃ¶ffentliche Toilette in einer Turnhalle.;48.2779;11.5803;Johann-Schmid-Str.;85716;"{""0"":""4"",""1"":""11""}";48.2779, 11.5803
+641;641;641;WC Gemeindebibliothek GrÃ¼nwald;Toilette in einem Ã¶ffentlich zugÃ¤nglichen GebÃ¤ude.;48.0409;11.5245;SÃ¼dliche MÃ¼nchner Str.;82031;"{""0"":""4"",""1"":""20""}";48.0409, 11.5245
+642;642;642;WC Friedhof GrÃ¼nwald;Ã–ffentliche Friedhofstoilette ohne Euroschloss.;48.0371;11.5214;TÃ¶lzer Str.;82031;"{""0"":""4"",""1"":""7"",""2"":""20""}";48.0371, 11.5214
+643;643;643;WC Walderlebniszentrum GrÃ¼nwald;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.0252;11.5258;SauschÃ¼tt;82031;"{""0"":""4"",""1"":""11""}";48.0252, 11.5258
+644;644;644;WC Freizeitpark GrÃ¼nwald;Ã–ffentliche Toilette mit EuroschlieÃŸung.;48.0493;11.5298;SÃ¼dliche MÃ¼nchner Str.;82031;"{""0"":""4"",""1"":""11""}";48.0493, 11.5298
+645;645;645;WC Damen BÃ¼rgerhaus RÃ¶merschanz GrÃ¼nwald;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.0509;11.529000000000002;Dr.-Max-Str.;82031;"{""0"":""6"",""1"":""7"",""2"":""20""}";48.0509, 11.529000000000002
+646;646;646;WC Herren BÃ¼rgerhaus RÃ¶merschanz GrÃ¼nwald;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.0509;11.529000000000002;Dr.-Max-Str.;82031;"{""0"":""6"",""1"":""7"",""2"":""20""}";48.0509, 11.529000000000002
+647;647;647;WC Rathaus GrÃ¼nwald;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.0409;11.520999999999999;Rathausstr.;82031;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.0409, 11.520999999999999
+648;648;648;WC Forsthaus WÃ¶rnbrunn, GrÃ¼nwald;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0393;11.5492;WÃ¶rnbrunn;82031;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11""}";48.0393, 11.5492
+649;649;649;WC Waldfriedhof Haar;Ã–ffentliche Friedhofstoilette ohne Euroschloss.;48.1034;11.7264;Roseggerstr.;85540;"{""0"":""4"",""1"":""20""}";48.1034, 11.7264
+650;650;650;WC St. Bonifaz Haar;Toilette in der Pfarrei.;48.1058;11.7218;Jagdfeldring;85540;"{""0"":""4"",""1"":""17""}";48.1058, 11.7218
+651;651;651;WC BÃ¼cherei Haar ;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.1096;11.7325;Leibstr.;85540;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.1096, 11.7325
+652;652;652;WC BÃ¼rgersaal Zur Post Haar ;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.1092;11.7264;Kirchenplatz;85540;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1092, 11.7264
+653;653;653;WC Rathaus Haar ;Toilette mit Pflegeliege in einem Ã¶ffentlichen GebÃ¤ude.;48.1101;11.7274;Bahnhofstr.;85540;"{""0"":""11""}";48.1101, 11.7274
+654;654;654;WC Jugendkulturhaus Route 66, Haar;Toilette in einem JUZ.;48.1075;11.7372;Vockestr.;85540;"{""0"":""4"",""1"":""11""}";48.1075, 11.7372
+655;655;655;WC 1 Sportpark Haar;Ã–ffentliche Toilette mit Euroschloss.;48.1142;11.7276;HÃ¶glweg;85540;"{""0"":""4"",""1"":""20""}";48.1142, 11.7276
+656;656;656;WC Racket Park Haar;HalbÃ¶ffentliche Toilette in einer Sportanlage.;48.1149;11.7285;HÃ¶glweg;85540;"{""0"":""4"",""1"":""12"",""2"":""20""}";48.1149, 11.7285
+657;657;657;WC Sportschule Oberhaching;HalbÃ¶ffentliche Toilette in einer Sportanlage.;48.0361;11.5906;Im Loh;82041;"{""0"":""4"",""1"":""12"",""2"":""20""}";48.0361, 11.5906
+658;658;658;WC Heimstettener See;24h Ã¶ffentlich zugÃ¤ngliche Toilette ohne Euroschloss, am Badesee.;48.1562;11.732000000000001;Seestr.;85609;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1562, 11.732000000000001
+659;659;659;WC Herren Altes Schloss SchleiÃŸheim ;"Toilette im Museum.
+";48.2492;11.5591;Effnerstr.;85764;"{""0"":""6"",""1"":""7"",""2"":""11""}";48.2492, 11.5591
+660;660;660;WC Damen Altes Schloss SchleiÃŸheim;"Toilette im Museum.
+";48.2492;11.5591;Effnerstr.;85764;"{""0"":""6"",""1"":""7"",""2"":""11""}";48.2492, 11.5591
+661;661;661;WC Neues Schloss SchleiÃŸheim ;Toilette im Museum.;48.2488;11.561;Max-Emanuel-Platz;85764;"{""0"":""2"",""1"":""4"",""2"":""11"",""3"":""12""}";48.2488, 11.561
+662;662;662;WC BÃ¼rgerhaus Putzbrunn;"Toilette in einem Ã¶ffentlichen GebÃ¤ude.
+";48.0741;11.7149;Hohenbrunner Str.;85640;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11""}";48.0741, 11.7149
+663;663;663;WC Rathaus Putzbrunn;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.075;11.7155;Rathausstr.;85640;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.075, 11.7155
+664;664;664;WC Buddy's Bar & Burger UnterschleiÃŸheim;HalbÃ¶ffentliche Toilette in einem Lokal.;48.282;11.5778;Bezirksstr.;85716;"{""0"":""4"",""1"":""11""}";48.282, 11.5778
+665;665;665;WC KÃ¶nig's GaststÃ¤tte UnterschleiÃŸheim;HalbÃ¶ffentliche Toilette in einer SportgaststÃ¤tte.;48.2833;11.5612;Anna-Wimschneider-Str.;85716;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11"",""4"":""20""}";48.2833, 11.5612
+666;666;666;WC Sapori UnterschleiÃŸheim;HalbÃ¶ffentliche Toilette in einem Lokal.;48.2838;11.5803;Bezirksstr.;85716;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.2838, 11.5803
+667;667;667;WC Infinity Hotel Munich, UnterschleiÃŸheim;HalbÃ¶ffentliche Toilette im Hotel.;48.2844;11.5609;Andreas-Danzer-Weg;85716;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.2844, 11.5609
+668;668;668;WC alt JugendKulturhaus Gleis 1 Lohhof;Bedingt Ã¶ffentliche Toilette in einer JugendfreizeitstÃ¤tte mit Euroschloss.;48.2889;11.5828;Hollerner Weg;85716;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.2889, 11.5828
+669;669;669;WC Com Viet OberschleiÃŸheim;HalbÃ¶ffentliche Toilette in einem Lokal.;48.2507;11.5561;Dachauer Str.;85764;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.2507, 11.5561
+670;670;670;WC Sporthalle TSV SchleiÃŸheim, OberschleiÃŸheim;HalbÃ¶ffentliche Toilette in einer Sportanlage.;48.254;11.5639;Jahnstr.;85764;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.254, 11.5639
+671;671;671;WC Rossmann Kirchheim;HalbÃ¶ffentliche Toilette im Kaufhaus.;48.1617;11.757;Am Gangsteig;85551;"{""0"":""4"",""1"":""12""}";48.1617, 11.757
+672;672;672;WC JUZ Kirchheim;HalbÃ¶ffentliche Toilette in einem Jugendzentrum.;48.1686;11.7545;Hauptstr.;85551;"{""0"":""4"",""1"":""17""}";48.1686, 11.7545
+673;673;673;WC Limmerhof Taufkirchen;HalbÃ¶ffentliche Toilette in einem Lokal.;48.0493;11.6161;MÃ¼nchener Str. ;82024;"{""0"":""4"",""1"":""12"",""2"":""20""}";48.0493, 11.6161
+674;674;674;WC CafÃ© Kistenpfennig Ismaning;HalbÃ¶ffentliche Toilette in einem Lokal.;48.2309;11.6886;Osterfeldstr.;85737;"{""0"":""7"",""1"":""11""}";48.2309, 11.6886
+675;675;675;WC Osterfeldhalle Ismaning mit Dusche ;Nicht-Ã¶ffentliche Toilette mit Dusche in einer Sportanlage.;48.2306;11.6794;Oskar-Messter-Str.;85737;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""8"",""4"":""20""}";48.2306, 11.6794
+676;676;676;WC Gemeindebibliothek Ismaning;HalbÃ¶ffentliche Toilette in einer Bildungseinrichtung.;48.2223;11.6772;MÃ¼hlenstr.;85737;"{""0"":""4"",""1"":""11""}";48.2223, 11.6772
+677;677;677;WC McDonald's Ismaning;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.2286;11.6859;Robert-BÃ¼rkle-Str.;85737;"{""0"":""4"",""1"":""11""}";48.2286, 11.6859
+678;678;678;WC TIAN Restaurant;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1341;11.5755;Frauenstr.;80469;"{""0"":""1"",""1"":""4"",""2"":""11"",""3"":""12""}";48.1341, 11.5755
+679;679;679;WC Balan Deli;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1179;11.6024;Balanstr.;81541;"{""0"":""1"",""1"":""4"",""2"":""11""}";48.1179, 11.6024
+680;680;680;WC IHLE Cafe BalanstraÃŸe;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1171;11.6017;Balanstr.;81541;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1171, 11.6017
+681;681;681;WC Gasthaus Domagk;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1836;11.597999999999999;Fritz-Winter-Str.;80807;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1836, 11.597999999999999
+682;682;682;WC Monacensia;Toilette in einer Bibliothek.;48.1435;11.5989;Maria-Theresia-Str.;81675;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1435, 11.5989
+683;683;683;WC Kino, Mond & Sterne;Bedingt Ã¶ffentliche Toilette in einem Kino ohne Euroschloss.;48.1234;11.5118;SeebÃ¼hne Westpark;81377;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1234, 11.5118
+684;684;684;WC Hotel Eberl Hattenhofen;HalbÃ¶ffentliche Toilette in einem Hotel.;48.2237;11.1185;Hauptstr.;82285;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.2237, 11.1185
+685;685;685;WC Landgasthof Hofmeier Hetzenhausen;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.3498;11.61;Hauptstr.;82285;"{""0"":""2"",""1"":""4"",""2"":""11"",""3"":""13""}";48.3498, 11.61
+686;686;686;WC FAMI Restaurant;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1643;11.5572;Georg-Birk-Str.;80797;"{""0"":""4"",""1"":""11""}";48.1643, 11.5572
+687;687;687;WC Stadtbibliothek Giesing EG;HalbÃ¶ffentliche Toilette in einer Bibliothek;48.1142;11.5822;Deisenhofener Str.;81539;"{""0"":""4"",""1"":""11""}";48.1142, 11.5822
+688;688;688;WC Stadtbibliothek Giesing 1. OG;HalbÃ¶ffentliche Toilette in einer Bibliothek;48.1142;11.5822;Deisenhofener Str.;81539;"{""0"":""11"",""1"":""12""}";48.1142, 11.5822
+689;689;689;WC zu befÃ¼llen;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;0.0;0.0;Bahnhofstr.;85221;"{""0"":""4"",""1"":""13"",""2"":""17""}";0.0, 0.0
+690;690;690;WC Einstein 28 (VHS);Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.1353;11.5998;Einsteinstr.;81675;"{""0"":""7"",""1"":""11"",""2"":""12""}";48.1353, 11.5998
+691;691;691;WC Stadtbibliothek Waldtrudering;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.1122;11.7065;Wasserburger Landstr.;81827;"{""0"":""4"",""1"":""11""}";48.1122, 11.7065
+692;692;692;WC Gemeindehaus Brunnthal;HalbÃ¶ffentliche Toilette in einem Gemeindehaus - mit EuroschlieÃŸung.;48.0073;11.6856;MÃ¼nchner Str.;85649;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.0073, 11.6856
+693;693;693;WC Blitz Restaurant;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.13;11.5829;Museumsinsel;80538;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.13, 11.5829
+694;694;694;WC AWO UnterschleiÃŸheim;HalbÃ¶ffentliche Toilette in einer SeniorenbegegnungsstÃ¤tte.;48.2726;11.5674;Pegasusstr.;85716;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.2726, 11.5674
+695;695;695;WC Friedhof Aschheim (Dornach);Ã–ffentliche Friedhofstoilette ohne Euroschloss.;48.15600000000001;11.6883;Friedhofstr.;85609;"{""0"":""4"",""1"":""11""}";48.15600000000001, 11.6883
+696;696;696;WC Rathaus Brunnthal;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.0071;11.6844;MÃ¼nchner Str.;85649;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""20""}";48.0071, 11.6844
+697;697;697;WC Musikschule Ismaning;HalbÃ¶ffentliche Toilette in einer Bildungseinrichtung.;48.2221;11.677;MÃ¼hlenstr.;85737;"{""0"":""4"",""1"":""11""}";48.2221, 11.677
+698;698;698;WC VHS Ismaning;HalbÃ¶ffentliche Toilette in einer Bildungseinrichtung.;48.2224;11.677;MÃ¼hlenstr.;85737;"{""0"":""4"",""1"":""17""}";48.2224, 11.677
+699;699;699;WC Rathaus Planegg;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.1028;11.4241;Pasinger Str. ;82152;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1028, 11.4241
+700;700;700;WC Friedhof Planegg;Ã–ffentliche Friedhofstoilette ohne Euroschloss.;48.1021;11.4318;FÃ¼rstenrieder Str.;82152;"{""0"":""4"",""1"":""7"",""2"":""17""}";48.1021, 11.4318
+701;701;701;WC Sozialnetz WÃ¼rmtal-Insel, Planegg;Bedingt Ã¶ffentliche Toilette in einer sozialen Einrichtung.;48.1039;11.4232;Pasinger Str.;82152;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1039, 11.4232
+702;702;702;WC Bibliothek Planegg;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.1038;11.4236;Pasinger Str.;82152;"{""0"":""2"",""1"":""4"",""2"":""11"",""3"":""12""}";48.1038, 11.4236
+703;703;703;WC Fezi UnterfÃ¶hring;Bedingt Ã¶ffentliche Toilette in einer JugendfreizeitstÃ¤tte.;48.1928;11.6517;Jahnstr.;85774;"{""0"":""4"",""1"":""17""}";48.1928, 11.6517
+704;704;704;WC Aldi Neuried;HalbÃ¶ffentliche Toilette im Kaufhaus.;48.0877;11.4599;Hainbuchenring;82061;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.0877, 11.4599
+705;705;705;WC JUHA Neuried;Bedingt Ã¶ffentliche Toilette in einer JugendfreizeitstÃ¤tte.;48.0874;11.4616;Am Sportpark;82061;"{""0"":""4"",""1"":""11""}";48.0874, 11.4616
+706;706;706;WC Kubiz Unterhaching;HalbÃ¶ffentliche Toilette in einer Bildungseinrichtung.;48.062;11.6138;Jahnstr.;82008;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11"",""4"":""12""}";48.062, 11.6138
+707;707;707;WC Kultur & Kongress Zentrum Taufkirchen;HalbÃ¶ffentliche Toilette in einer Ã¶ffentlichen Einrichtung.;48.0458;11.6147;KÃ¶glweg;82024;"{""0"":""4"",""1"":""13"",""2"":""17""}";48.0458, 11.6147
+708;708;708;WC Jugendzentrum 'Next Level' Taufkirchen;Bedingt Ã¶ffentliche Toilette in einer JugendfreizeitstÃ¤tte.;48.0512;11.6069;Eschenstr.;82024;"{""0"":""4"",""1"":""13""}";48.0512, 11.6069
+709;709;709;WC Sportpark Taufkirchen;HalbÃ¶ffentliche Toilette bei einer Sportanlage, 24h zugÃ¤nglich.;48.0447;11.6071;KÃ¶glweg;82024;"{""0"":""4"",""1"":""20""}";48.0447, 11.6071
+710;710;710;WC BÃ¼rgertreff Taufkirchen;HalbÃ¶ffentliche Toilette in einer Ã¶ffentlichen Einrichtung.;48.0517;11.6074;Eschenstr.;82024;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.0517, 11.6074
+711;711;711;WC Backstube WÃ¼nsche UnterfÃ¶hring;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.185;11.6522;Mitterfeldallee;85774;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.185, 11.6522
+712;712;712;WC Best Western Hotel the K UnterfÃ¶hring;HalbÃ¶ffentliche Toilette in einem Hotel.;48.1852;11.6509;Dieselstr.;85774;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.1852, 11.6509
+713;713;713;WC Nachbarschaftshilfe UnterfÃ¶hring;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1902;11.6415;St.-Valentin-Weg;85774;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1902, 11.6415
+714;714;714;WC Kistenpfennig UnterschleiÃŸheim;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.2779;11.5638;Landshuter Str.;85716;"{""0"":""4"",""1"":""11""}";48.2779, 11.5638
+715;715;715;WC Merowinger Hof Kirchheim;HalbÃ¶ffentliche Toilette in einer SportgaststÃ¤tte.;48.1743;11.7619;Florianstr.;85551;"{""0"":""1"",""1"":""2"",""2"":""7"",""3"":""11""}";48.1743, 11.7619
+716;716;716;WC GemeindebÃ¼cherei Kirchheim;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.1703;11.7586;Schlehenring;85551;"{""0"":""6"",""1"":""11""}";48.1703, 11.7586
+717;717;717;WC BÃ¼cherei Neuried;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.0923;11.4648;Gautinger Str.;82061;"{""0"":""4"",""1"":""11""}";48.0923, 11.4648
+718;718;718;WC Gemeinde- und Schulbibliothek Oberhaching;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.0213;11.5896;Pestalozzistr.;82041;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.0213, 11.5896
+719;719;719;WC Gemeindebibliothek UnterfÃ¶hring;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.1913;11.6394;MÃ¼nchner Str.;85774;"{""0"":""4"",""1"":""11""}";48.1913, 11.6394
+720;720;720;WC GemeindebÃ¼cherei Unterhaching;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.0662;11.6096;Rathausplatz;82008;"{""0"":""4"",""1"":""13"",""2"":""17""}";48.0662, 11.6096
+721;721;721;WC medicare Gesundheitszentrum-Freiham;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Ã„rztehaus.;48.1396;11.4101;Hans-StÃ¼tzle-Str.;81249;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1396, 11.4101
+722;722;722;WC Bahnhof Pasing;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1507;11.4621;Pasing Bahnhof Nord;81245;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11""}";48.1507, 11.4621
+723;723;723;WC Landratsamt 3.OG MÃ¼nchen Frankenthaler Str.;Toilette in einer BehÃ¶rde, mit EuroschlieÃŸung.;48.1098;11.5982;Frankenthaler Str.;81539;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11"",""4"":""12""}";48.1098, 11.5982
+724;724;724;WC Landratsamt 1.OG MÃ¼nchen Frankenthaler Str.;Toilette in einer BehÃ¶rde.;48.1098;11.5982;Frankenthaler Str.;81539;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11"",""4"":""12""}";48.1098, 11.5982
+725;725;725;WC Royal Leonardo Hotel;Bedingt Ã¶ffentlich zugÃ¤ngliche Toilette in einem Hotel.;48.187;11.5432;Moosacher Str.;80809;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.187, 11.5432
+726;726;726;WC Bahnhof Bad TÃ¶lz;Ã–ffentliche Bahnhofstoilette ohne Euroschloss.;47.7605;11.5733;Bahnhof Bad TÃ¶lz;83646;"{""0"":""2"",""1"":""7"",""2"":""11""}";47.7605, 11.5733
+727;727;727;WC Bahnhof Dachau;Ã–ffentliche Bahnhofstoilette ohne Euroschloss.;48.2547;11.4439;Bahnhof Dachau Stadt;85221;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.2547, 11.4439
+728;728;728;WC Bahnhof Traunstein;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;47.8683;12.6384;Bahnhofplatz;83278;"{""0"":""4"",""1"":""7"",""2"":""11""}";47.8683, 12.6384
+729;729;729;WC Bahnhof Freising;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.3953;11.7442;Bahnhofplatz;85254;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.3953, 11.7442
+730;730;730;WC Haltestelle Fischhausen-Neuhaus;;47.7062;11.8733;Fischhausen-Neuhaus;83727;"{""0"":""4"",""1"":""11""}";47.7062, 11.8733
+731;731;731;WC Bahnhof Prien;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;47.8549;12.3462;Bahnhofplatz;83209;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""20""}";47.8549, 12.3462
+732;732;732;WC Schiffsanleger Prien;Ã–ffentliche Toilette mit Euroschloss.;47.8541;12.3455;Schiffsanleger;83209;"{""0"":""4"",""1"":""11""}";47.8541, 12.3455
+733;733;733;WC Miss Lilly's*;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1202;11.574000000000002;Oefelestr.;81543;"{""0"":""1"",""1"":""4"",""2"":""20""}";48.1202, 11.574000000000002
+734;734;734;WC Stadtbibliothek Hadern;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.1185;11.4907;Guardinistr.;81375;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1185, 11.4907
+735;735;735;WC Stadtbibliothek Hasenbergl;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.2135;11.5573;Blodigstr.;80933;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.2135, 11.5573
+736;736;736;WC Stadtbibliothek Milbertshofen;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.1829;11.5669;SchleiÃŸheimer Str. ;80809;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.1829, 11.5669
+737;737;737;WC Stadtbibliothek Schwabing;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.1597;11.5836;Hohenzollernstr. ;80801;"{""0"":""11"",""1"":""12""}";48.1597, 11.5836
+738;738;738;WC Alte Mensa Ebene Ladenzeile;HalbÃ¶ffentliche Toilette in einem GebÃ¤ude des Studentenwerks.;48.1807;11.5553;Helene-Mayer-Ring;80809;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1807, 11.5553
+739;739;739;WC Alte Mensa Bierstube;HalbÃ¶ffentliche Toilette in einem GebÃ¤ude des Studentenwerks.;48.18;11.5529;Helene-Mayer-Ring;80809;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.18, 11.5529
+740;740;740;WC Stadtbibliothek Sendling;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.117;11.5379;Albert-RoÃŸhaupter-Str.;81369;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11"",""4"":""12""}";48.117, 11.5379
+741;741;741;WC St. Maria Ramersdorf;HalbÃ¶ffentliche Toilette in einem Pflegeheim.;48.1209;11.6042;St.-Martin-Str.;81669;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1209, 11.6042
+742;742;742;WC Campingplatz Thalkirchen;HalbÃ¶ffentliche Toilette auf einem Campingplatz mit Dusche.;48.0908;11.5452;ZentrallÃ¤ndstr.;81379;"{""0"":""4"",""1"":""8"",""2"":""11""}";48.0908, 11.5452
+743;743;743;WC Bapas;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.159;11.5856;Leopoldstr.;80802;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.159, 11.5856
+744;744;744;WC Der Hufnagel;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1014;11.6287;Ottobrunner Str.;81737;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1014, 11.6287
+745;745;745;WC MaierbrÃ¤u AltomÃ¼nster;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.3875;11.2572;Marktstr.;85250;"{""0"":""4"",""1"":""20""}";48.3875, 11.2572
+746;746;746;WC Amtsgericht MÃ¼nchen;Nur bedingt zugÃ¤ngliche Toilette in einem Amt.;48.1406;11.5693;Pacellistr.;80333;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1406, 11.5693
+747;747;747;WC Rathausblock AltomÃ¼nster;Ã–ffentliche Toilette 24h.;48.3875;11.2567;Marktplatz;85250;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.3875, 11.2567
+748;748;748;WC Taverna Naxos;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1639;11.4791;Verdistr.;81247;"{""0"":""2"",""1"":""11""}";48.1639, 11.4791
+749;749;749;WC fÃ¼r Alle im MaÃŸmannpark;Ã–ffentliche 'Toilette fÃ¼r alle' mit Pflegeliege, Lifter und Euroschloss. ;48.1526;11.5592;MaÃŸmannpark;80797;"{""0"":""2"",""1"":""4"",""2"":""10"",""3"":""11"",""4"":""18""}";48.1526, 11.5592
+750;750;750;WC fÃ¼r Alle am KurfÃ¼rstenplatz;Ã–ffentliche 'Toilette fÃ¼r Alle' mit Pflegeliege, Lifter und Euroschloss.;48.1601;11.5752;KurfÃ¼rstenplatz;81539;"{""0"":""2"",""1"":""4"",""2"":""10"",""3"":""11"",""4"":""18""}";48.1601, 11.5752
+751;751;751;WC fÃ¼r Alle im Herkulessaal der Residenz;Ã–ffentliche 'Toilette fÃ¼r Alle' mit Pflegeliege und Lifter OHNE Euroschloss.;48.1453;11.5694;Apothekerhof Residenzstr.;80333;"{""0"":""4"",""1"":""7"",""2"":""10"",""3"":""11"",""4"":""12""}";48.1453, 11.5694
+752;752;752;WC Menterschwaige;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0817;11.5451;Menterschwaigstr.;81545;"{""0"":""4"",""1"":""11""}";48.0817, 11.5451
+753;753;753;WC Astor Film Lounge im Arri;Bedingt Ã¶ffentliche Toilette in einem Kino.;48.1532;11.5776;TÃ¼rkenstr.;80333;"{""0"":""2"",""1"":""4"",""2"":""11"",""3"":""12""}";48.1532, 11.5776
+754;754;754;WC Kino am Olympiasee;Bedingt Ã¶ffentliche Toilette in einem Kino.;48.1735;11.5514;Coubertinplatz;80809;"{""0"":""1"",""1"":""4"",""2"":""20""}";48.1735, 11.5514
+755;755;755;WC Kulturstrand;Ã–ffentliche Toilette an einem Veranstaltungsort.;48.1327;11.5865;Auf der Insel;80538;"{""0"":""2"",""1"":""11""}";48.1327, 11.5865
+756;756;756;WC Andaz UG;HalbÃ¶ffentliche Toilette in einem Hotel.;48.1715;11.5863;Leopoldstr.;80804;"{""0"":""7"",""1"":""11"",""2"":""12""}";48.1715, 11.5863
+757;757;757;WC Andaz Rooftopbar;HalbÃ¶ffentliche Toilette in einem Hotel.;48.1715;11.5863;Leopoldstr.;80804;"{""0"":""7"",""1"":""11"",""2"":""12""}";48.1715, 11.5863
+758;758;758;WC Hotel Andaz UG Lobby;HalbÃ¶ffentliche Toilette in einem Hotel.;48.1715;11.5863;Leopoldstr.;80804;"{""0"":""7"",""1"":""11"",""2"":""12""}";48.1715, 11.5863
+759;759;759;WC Jaadin;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1707;11.5865;Leopoldstr.;80804;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1707, 11.5865
+760;760;760;WC CafÃ© M;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1715;11.5863;Leopoldstr.;80804;"{""0"":""4"",""1"":""11""}";48.1715, 11.5863
+761;761;761;WC Felix Bowls;Nur bedingt Ã¶ffentliche Toilette in einem BÃ¼rogebÃ¤ude mit Euroschloss.;48.1697;11.5868;Leopoldstr.;80804;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.1697, 11.5868
+762;762;762;WC Marta;Nur bedingt Ã¶ffentliche Toilette in einem BÃ¼rogebÃ¤ude.;48.1705;11.587;Leopoldstr.;80804;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.1705, 11.587
+763;763;763;WC BallaBeni ;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1456;11.5583;Seidlstr.;80335;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1456, 11.5583
+764;764;764;WC Dominique;;48.1437;11.5746;Briennerstr.;80333;"{""0"":""4"",""1"":""20""}";48.1437, 11.5746
+765;765;765;WC IHLE CafÃ© Feldkirchen;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1497;11.7443;Kapellenstr.;85622;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1497, 11.7443
+766;766;766;WC Rathaus Feldkirchen;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.1476;11.7305;Rathausplatz;85622;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1476, 11.7305
+767;767;767;WC Residenztheater;HalbÃ¶ffentliche Toilette in einem Theater.;48.14;11.5794;Max-Joseph-Platz;80539;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11""}";48.14, 11.5794
+768;768;768;WC Marstall in der Residenz;HalbÃ¶ffentliche Toilette in einem kulturellen GebÃ¤ude.;48.1395;11.5806;Marstallplatz;80539;"{""0"":""2"",""1"":""4"",""2"":""17""}";48.1395, 11.5806
+769;769;769;WC BrÃ¤ustÃ¼berl GrÃ¼nbach;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.3303;12.0031;Graf-Seinsheim-Str.;85461;"{""0"":""4"",""1"":""11""}";48.3303, 12.0031
+770;770;770;WC Das Kaffeehaus Rosenheim;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.8527;12.1265;Kufsteiner Str.;83022;"{""0"":""4"",""1"":""12"",""2"":""20""}";47.8527, 12.1265
+771;771;771;WC Mail Keller Rosenheim;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.8539;12.1202;Schmettererstr.;83022;"{""0"":""4"",""1"":""17""}";47.8539, 12.1202
+772;772;772;WC MÃ¼nchner Stadtbibliothek Pasing;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.1471;11.4615;BÃ¤ckerstr.;81241;"{""0"":""4"",""1"":""12"",""2"":""17""}";48.1471, 11.4615
+773;773;773;WC BÃ¼rgerservice Kirchheim;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;48.1763;11.755;MÃ¼nchner Str.;85551;"{""0"":""4"",""1"":""11"",""2"":""13""}";48.1763, 11.755
+774;774;774;WC RÃ¤ter Einkaufszentrum Kirchheim;Ã–ffentliche 24h Toilette.;48.1633;11.7564;RÃ¤terstr.;85551;"{""0"":""4"",""1"":""11""}";48.1633, 11.7564
+775;775;775;WC St. Andreas Kirchheim;Bedingt Ã¶ffentliche Toilette in einem Pfarrzentrum.;48.1762;11.7555;Pfarrer-Caspar-Mayr-Platz;85551;"{""0"":""4"",""1"":""20""}";48.1762, 11.7555
+776;776;776;WC ABACCO's Steakhouse;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1354;11.5727;Oberanger;80331;"{""0"":""4"",""1"":""11""}";48.1354, 11.5727
+777;777;777;WC Kunstfoyer der Versicherungskammer;"HalbÃ¶ffentliche Toilette bei einer AusstellungsflÃ¤che.
+";48.1377;11.5898;Maximilianstr.;80538;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1377, 11.5898
+778;778;778;WC St. Benno - Bennopolis;Bedingt Ã¶ffentliche Toilette in einem Pfarrzentrum.;48.152;11.5527;Ferdinand-Miller-Platz;80335;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.152, 11.5527
+779;779;779;WC St. Paul - Pfarrzentrum;Bedingt Ã¶ffentliche Toilette in einem Pfarrzentrum.;48.1368;11.5509;St.-Pauls-Platz;80336;"{""0"":""4"",""1"":""20""}";48.1368, 11.5509
+780;780;780;WC Rolli-World Kirchheim;HalbÃ¶ffentliche Toilette im Kaufhaus.;48.1591;11.7571;Poinger Str.;85551;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1591, 11.7571
+781;781;781;WC Pflanzen KÃ¶lle Unterhaching;HalbÃ¶ffentliche Toilette im Kaufhaus.;48.0552;11.5984;Parkackerstr.;82008;"{""0"":""4"",""1"":""7"",""2"":""17""}";48.0552, 11.5984
+782;782;782;WC Autokino Aschheim;Bedingt Ã¶ffentliche Toilette in einem Kino.;48.1623;11.6974;MÃ¼nchner Str.;85609;"{""0"":""4"",""1"":""17""}";48.1623, 11.6974
+783;783;783;WC RobertoBeach Aschheim;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1635;11.7256;Am Eventpark;85609;"{""0"":""4"",""1"":""20""}";48.1635, 11.7256
+784;784;784;WC BÃ¼rgerhaus Dornach;Bedingt Ã¶ffentliche Toilette im BÃ¼rgerhaus.;48.1538;11.6897;Martin-Festl-Ring;85609;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1538, 11.6897
+785;785;785;WC DM Drogeriemarkt Dornach;HalbÃ¶ffentliche Toilette im Kaufhaus.;48.1519;11.6851;Ohmstr.;85609;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1519, 11.6851
+786;786;786;WC BÃ¤ckerei Riedmair Dornach;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1508;11.6853;Humboldtstr.;85609;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1508, 11.6853
+787;787;787;WC BÃ¼rgerhaus Dornach 2;Bedingt Ã¶ffentliche Toilette im BÃ¼rgerhaus.;48.1538;11.6897;Martin-Festl-Ring;85609;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1538, 11.6897
+788;788;788;WC fÃ¼r Alle U-Bahnhof Thalkirchen;Ã–ffentliche 'Toilette fÃ¼r Alle' mit Pflegeliege, Lifter und Euroschloss.;48.1013;11.5461;U Bahnhof Thalkirchen;81379;"{""0"":""2"",""1"":""4"",""2"":""10"",""3"":""11"",""4"":""12"",""5"":""18""}";48.1013, 11.5461
+789;789;789;WC Bahnhof DieÃŸen;Ã–ffentliche Bahnhofstoilette OHNE Euroschloss.;47.9499;11.1078;Bahnhofstr.;86911;"{""0"":""4"",""1"":""7"",""2"":""20""}";47.9499, 11.1078
+790;790;790;WC ASZ Schwabing West;HalbÃ¶ffentliche Toilette in einer Senioreneinrichtung.;48.1658;11.5668;Hiltenspergerstr.;80796;"{""0"":""4"",""1"":""20""}";48.1658, 11.5668
+791;791;791;WC 2 Hochschule fÃ¼r angewandte Wissenschaften LothstraÃŸe;HalbÃ¶ffentliche Toilette im HochschulgebÃ¤ude mit Euroschloss.;48.1535;11.5531;Lothstr.;80335;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.1535, 11.5531
+792;792;792;WC Chirurgische Klinik LMU;HalbÃ¶ffentliche Toilette im Krankenhaus.;48.1335;11.5614;Nussbaumstr.;80336;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1335, 11.5614
+793;793;793;WC Deutsches Herzzentrum;HalbÃ¶ffentliche Toilette im Krankenhaus.;48.153;11.55;Lazarettstr.;80636;"{""0"":""4"",""1"":""20""}";48.153, 11.55
+794;794;794;WC Ristorante Brunello, Aying;;47.9727;11.7789;Untere Dorfstr.;85653;"{""0"":""1"",""1"":""4"",""2"":""20""}";47.9727, 11.7789
+795;795;795;WC Grundschule Aying und GemeindebÃ¼cherei;HalbÃ¶ffentliche Toilette in einer Bibliothek.;47.9457;11.7949;Glonner Str.;85653;"{""0"":""4"",""1"":""11""}";47.9457, 11.7949
+796;796;796;WC BÃ¼rgerhaus Aying;Bedingt Ã¶ffentliche Toilette im BÃ¼rgerhaus.;47.97;11.7789;Kirchgasse;85653;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";47.97, 11.7789
+797;797;797;WC KUNSTWERK;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1366;11.5475;TheresienhÃ¶he;80339;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11""}";48.1366, 11.5475
+798;798;798;WC L'Osteria SchwanthalerhÃ¶he;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1374;11.5475;Schwanthalerstr.;80339;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11""}";48.1374, 11.5475
+799;799;799;WC L'Osteria Brunnthal;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0425;11.6648;Eugen-SÃ¤nger-Ring;85649;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.0425, 11.6648
+800;800;800;WC Kentucky Fried Chicken Brunnthal;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0396;11.6645;Eugen-SÃ¤nger-Ring;85649;"{""0"":""4"",""1"":""11""}";48.0396, 11.6645
+801;801;801;WC McDonald's Brunnthal;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0422;11.6613;Zusestr.;85649;"{""0"":""4"",""1"":""7"",""2"":""20""}";48.0422, 11.6613
+802;802;802;WC Stay2Munich, Brunnthal;HalbÃ¶ffentliche Toilette im Hotel.;48.042;11.6618;Zusestr.;85649;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.042, 11.6618
+803;803;803;WC Hagebaumarkt Brunnthal;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Kaufhaus.;48.0411;11.6599;Zusestr.;85649;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.0411, 11.6599
+804;804;804;WC Feierwerk Kranhalle;HalbÃ¶ffentliche Toilette an einem Veranstaltungsort.;48.1289;11.5342;Hansastr.;81373;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1289, 11.5342
+805;805;805;WC ESO Supernova Garching;HalbÃ¶ffentliche Toilette in einem Museum.;48.2594;11.6703;Karl-Schwarzschild-Str.;85748;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11"",""4"":""12""}";48.2594, 11.6703
+806;806;806;WC Edeka Ernst Garching;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Kaufhaus.;48.2496;11.6338;Parkring;85748;"{""0"":""4"",""1"":""7"",""2"":""20""}";48.2496, 11.6338
+807;807;807;WC Ibis Hotel Garching;HalbÃ¶ffentlich 24h zugÃ¤ngliche Toilette im Hotel.;48.2477;11.6304;Daimlerstr.;85748;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.2477, 11.6304
+808;808;808;WC REWE Garching;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Kaufhaus.;48.2572;11.6529;Freisinger Landstr.;85748;"{""0"":""4"",""1"":""7"",""2"":""20""}";48.2572, 11.6529
+809;809;809;WC Campus Tagesbar Garching;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.2517;11.6343;Parkring;85748;"{""0"":""4"",""1"":""20""}";48.2517, 11.6343
+810;810;810;WC Pfarrzentrum St. Ulrich, UnterschleiÃŸheim;Bedingt Ã¶ffentliche Toilette in einem Pfarrzentrum.;48.2741;11.5648;Im Klosterfeld;85716;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.2741, 11.5648
+811;811;811;WC Sportzentrum Ballhausforum, UnterschleiÃŸheim;HalbÃ¶ffentliche Toilette in einem Sportzentrum.;48.2838;11.5621;Anna-Wimschneider-Str.;85716;"{""0"":""2"",""1"":""4"",""2"":""8"",""3"":""11""}";48.2838, 11.5621
+812;812;812;WC Wohnen am Schlossanger, HÃ¶henkirchen-Siegertsbrunn;Bedingt Ã¶ffentliche Toilette im Seniorenheim.;48.0186;11.7152;Bahnhofstr.;85635;"{""0"":""4"",""1"":""11""}";48.0186, 11.7152
+813;813;813;WC FreizeitstÃ¤tte Blue Box, HÃ¶henkirchen-Siegertsbrunn;Bedingt Ã¶ffentliche Toilette in einer JugendfreizeitstÃ¤tte.;48.0244;11.7016;Sportplatzstr.;85635;"{""0"":""1"",""1"":""2"",""2"":""4"",""3"":""12""}";48.0244, 11.7016
+814;814;814;WC Haus der Senioren, Ottobrunn;Bedingt Ã¶ffentliche Toilette in einem Seniorenheim.;48.0664;11.6721;Mozartstr.;85521;"{""0"":""4"",""1"":""17""}";48.0664, 11.6721
+815;815;815;WC Rathaus SchÃ¤ftlarn;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;47.9913;11.4508;Starnberger Str.;82069;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";47.9913, 11.4508
+816;816;816;WC MehrzweckgebÃ¤ude / Schule SchÃ¤ftlarn;Toilette in einem Ã¶ffentlichen GebÃ¤ude.;47.9829;11.4569;FischerschlÃ¶ÃŸlstr.;82067;"{""0"":""4"",""1"":""11"",""2"":""12""}";47.9829, 11.4569
+817;817;817;WC Friedhof Unterhaching;Ã–ffentliche Friedhofstoilette ohne Euroschloss.;48.058;11.6257;Oberweg;82008;"{""0"":""4"",""1"":""20""}";48.058, 11.6257
+818;818;818;WC Rathausforum UnterschleiÃŸheim;Toilette im Ã¶ffentlichen GebÃ¤ude.;48.2728;11.5707;Rathausplatz;85716;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.2728, 11.5707
+819;819;819;WC Bavaria Filmstadt, GrÃ¼nwald;Bedingt Ã¶ffentliche Toilette im Museum.;48.0653;11.552;Bavariafilmplatz;82031;"{""0"":""4"",""1"":""7"",""2"":""20""}";48.0653, 11.552
+820;820;820;WC Ammos  HÃ¶henkirchen;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;48.0257;11.7007;Sportplatzstr. ;85635;"{""0"":""2"",""1"":""4"",""2"":""17""}";48.0257, 11.7007
+821;821;821;WC La Bella Sicilia HÃ¶henkirchen;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0196;11.7194;Bahnhofstr.;85635;"{""0"":""4"",""1"":""11""}";48.0196, 11.7194
+822;822;822;WC Gemeindebibliothek Neubiberg;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.0755;11.6613;Bahnhofsplatz;85579;"{""0"":""4"",""1"":""7"",""2"":""12"",""3"":""17"",""4"":""20""}";48.0755, 11.6613
+823;823;823;WC REWE GroÃŸhadern;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Kaufhaus.;48.1152;11.4779;WÃ¼rmtalstr. ;81375;"{""0"":""7""}";48.1152, 11.4779
+824;824;824;WC Edeka Bogenhausen;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Kaufhaus. ;48.1495;11.6576;Burgauerstr.;81929;"{""0"":""11""}";48.1495, 11.6576
+825;825;825;WC Stadtbibliothek Allach-Untermenzing;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.1796;11.4633;Pfarrer-Grimm-Str.;80999;"{""0"":""4"",""1"":""11""}";48.1796, 11.4633
+826;826;826;WC BOB'S im alten Pumpenwerk;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1496;11.4584;Kaflerstr.;81241;"{""0"":""2"",""1"":""20""}";48.1496, 11.4584
+827;827;827;WC GOP VarietÃ©-Theater;HalbÃ¶ffentliche Toilette in einem Theater.;48.1379;11.5879;Maximilianstr.;80538;"{""0"":""2"",""1"":""7"",""2"":""11""}";48.1379, 11.5879
+828;828;828;WC McDonald's RegerstraÃŸe;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.121;11.5857;Regerstr.;81541;"{""0"":""4"",""1"":""11""}";48.121, 11.5857
+829;829;829;WC McDonald's StÃ¤blistraÃŸe;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0884;11.5055;StÃ¤blistr.;81477;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.0884, 11.5055
+830;830;830;WC Stadtbibliothek Berg am Laim ;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.1295;11.6221;SchlÃ¼sselbergstr.;81673;"{""0"":""4"",""1"":""11""}";48.1295, 11.6221
+831;831;831;WC Stadtbibliothek Westend;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.1364;11.5448;SchieÃŸstÃ¤ttstr.;80339;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1364, 11.5448
+832;832;832;WC Stadtbibliothek Ramersdorf;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.1176;11.6146;FÃ¼hrichstr.;81671;"{""0"":""4"",""1"":""7"",""2"":""17""}";48.1176, 11.6146
+833;833;833;WC Stadtbibliothek Neuperlach;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.1018;11.6441;Charles-de-Gaulle-Str.;81737;"{""0"":""4"",""1"":""7"",""2"":""20""}";48.1018, 11.6441
+834;834;834;WC Stadtbibliothek Neuhausen;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.153;11.5332;Nymphenburger Str.;80634;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.153, 11.5332
+835;835;835;WC Stadtbibliothek Moosach;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.1817;11.529000000000002;Hanauer Str.;80992;"{""0"":""4"",""1"":""7"",""2"":""17""}";48.1817, 11.529000000000002
+836;836;836;WC Stadtbibliothek Laim 1. OG ;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.1364;11.5034;FÃ¼rstenrieder Str.;80686;"{""0"":""4"",""1"":""7"",""2"":""12"",""3"":""17""}";48.1364, 11.5034
+837;837;837;WC Stadtbibliothek Laim EG;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.1364;11.5034;FÃ¼rstenrieder Str.;80686;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1364, 11.5034
+838;838;838;WC 1.2. Stadtbibliothek am Gasteig;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.1315;11.5908;Rosenheimer Str.;81667;"{""0"":""4"",""1"":""7"",""2"":""12"",""3"":""20""}";48.1315, 11.5908
+839;839;839;WC 2.1. Stadtbibliothek am Gasteig;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.1315;11.5908;Rosenheimer Str.;81667;"{""0"":""4"",""1"":""7"",""2"":""12"",""3"":""20""}";48.1315, 11.5908
+840;840;840;WC Stadtbibliothek FÃ¼rstenried;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.0958;11.4945;Berner Str.;81476;"{""0"":""4"",""1"":""20""}";48.0958, 11.4945
+841;841;841;WC U-Bahnhof FÃ¼rstenried West;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.0883;11.4808;Bahnhof FÃ¼rstenried West ;81475;"{""0"":""4"",""1"":""12"",""2"":""20""}";48.0883, 11.4808
+842;842;842;WC Zum Stiftl;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1361;11.5794;Tal;80331;"{""0"":""4"",""1"":""11""}";48.1361, 11.5794
+843;843;843;WC Bavaria Motel Freiham;HalbÃ¶ffentliche Toilette in einem Hotel.;0.0;0.0;Clarita-Bernhard-Str.;81249;"{""0"":""4"",""1"":""7"",""2"":""11""}";0.0, 0.0
+844;844;844;WC MÃ¼nchen Klinik Thalkirchner Str.;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Krankenhaus.;48.1287;11.5644;Thalkirchner Str.;80337;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1287, 11.5644
+845;845;845;WC Landgasthof Osterseen, Iffeldorf;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.7713;11.3199;Hofmark;82544;"{""0"":""4"",""1"":""7"",""2"":""20""}";47.7713, 11.3199
+846;846;846;WC JÃ¤gerwirt Aufhofen;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.9376;11.5268;Hofmarkstr.;82544;"{""0"":""17""}";47.9376, 11.5268
+847;847;847;WC Grassinger Bad Aibling;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.8692;12.0011;Grassingerstr.;83043;"{""0"":""4"",""1"":""20""}";47.8692, 12.0011
+848;848;848;WC Gasthof Obermeier Allershausen;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;0.0;0.0;MÃ¼nchner Str.;85391;"{""0"":""4"",""1"":""17""}";0.0, 0.0
+849;849;849;WC Hotel St. Georg;HalbÃ¶ffentliche Toilette in einem Hotel.;47.8533;12.0225;Ghersburgstr.;83043;"{""0"":""13"",""1"":""20""}";47.8533, 12.0225
+850;850;850;WC B306 im Fohlenhof Bad Endorf;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.8996;12.3014;Kurstr.;83093;"{""0"":""2"",""1"":""4"",""2"":""20""}";47.8996, 12.3014
+851;851;851;WC Bahnhof Bad Endorf;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;47.9004;12.2946;Bahnhof Bad Endorf;83093;"{""0"":""4"",""1"":""7"",""2"":""17""}";47.9004, 12.2946
+852;852;852;WC Haus des Gastes Bad Aibling;Toilette im Ã¶ffentlichen GebÃ¤ude.;47.8618;12.0083;Wilhelm-Leibl-Platz;83043;"{""0"":""4"",""1"":""11"",""2"":""12""}";47.8618, 12.0083
+853;853;853;WC Tourist-Info Bayrischzell;"Toilette im Ã¶ffentlichen GebÃ¤ude.
+";47.6734;12.0146;Kirchplatz;83735;"{""0"":""2"",""1"":""4"",""2"":""11""}";47.6734, 12.0146
+854;854;854;WC Reindlschmiede Herren (Bad Heilbrunn);HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.7559;11.4375;Reindlschmiede;83670;"{""0"":""1"",""1"":""2"",""2"":""6"",""3"":""17""}";47.7559, 11.4375
+855;855;855;WC Reindlschmiede Damen (Bad Heilbrunn);HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.7559;11.4375;Reindlschmiede;83670;"{""0"":""1"",""1"":""2"",""2"":""6"",""3"":""17""}";47.7559, 11.4375
+856;856;856;WC Sport Alm Bayrischzell;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.6712;12.0143;Alpenstr.;83735;"{""0"":""4"",""1"":""11""}";47.6712, 12.0143
+857;857;857;WC KlosterbrÃ¤ustÃ¼berl Benediktbeuern;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.7078;11.4019;Zeilerweg;83671;"{""0"":""4"",""1"":""17""}";47.7078, 11.4019
+858;858;858;WC Buchheim Museum, Bernried;HalbÃ¶ffentliche Toilette im Museum.;0.0;0.0;Am Hirschgarten;82347;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";0.0, 0.0
+859;859;859;WC Monte Mare, Schliersee;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;47.733999999999995;11.8604;Perfallstr.;83727;"{""0"":""4"",""1"":""11""}";47.733999999999995, 11.8604
+860;860;860;WC HofcafÃ© MÃ¶stl, DieÃŸen;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.9854;11.0258;Oberbeuern;86911;"{""0"":""2"",""1"":""4"",""2"":""20""}";47.9854, 11.0258
+861;861;861;WC Wailtl BrÃ¤u, Dorfen;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.2728;12.1486;Marienplatz;84405;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.2728, 12.1486
+862;862;862;WC Gasthof zur Post, Eberfing;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.7967;11.200999999999999;Escher Str.;82390;"{""0"":""4"",""1"":""7"",""2"":""11""}";47.7967, 11.200999999999999
+863;863;863;WC Lokitos, Eching;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.2843;11.6775;Sonnenweg;85386;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.2843, 11.6775
+864;864;864;WC Hotel Huberwirt, Eching;HalbÃ¶ffentliche Toilette in einem Hotel.;48.297;11.6215;Untere Hauptstr.;85386;"{""0"":""2"",""1"":""13"",""2"":""17""}";48.297, 11.6215
+865;865;865;WC Zur BrÃ¼cke, Eschenlohe;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.5977;11.1868;Loisachstr.;82438;"{""0"":""1"",""1"":""4"",""2"":""20""}";47.5977, 11.1868
+866;866;866;WC Makarska Grill, Feldafing;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.9515;11.3009;Possenhofener Str.;82340;"{""0"":""4"",""1"":""7"",""2"":""20""}";47.9515, 11.3009
+867;867;867;WC Max II, Feldafing;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.9466;11.2902;Bahnhofsplatz;82340;"{""0"":""2"",""1"":""4"",""2"":""11""}";47.9466, 11.2902
+868;868;868;WC Kurpark Garmisch;24h Toilette im Ã¶ffentlichen Raum mit Euroschloss.;47.4941;11.0908;Am Kurpark;82467;"{""0"":""1"",""1"":""4"",""2"":""7"",""3"":""11""}";47.4941, 11.0908
+869;869;869;WC Mohrenplatz, Garmisch;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.4937;11.0876;Mohrenplatz;82467;"{""0"":""4"",""1"":""7"",""2"":""11""}";47.4937, 11.0876
+870;870;870;WC Alpenhof Damen, Garmisch;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.4939;11.0901;Am Kurpark;82467;"{""0"":""6"",""1"":""7"",""2"":""11""}";47.4939, 11.0901
+871;871;871;WC Alpenhof Herren, Garmisch;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.4939;11.0901;Am Kurpark;82467;"{""0"":""6"",""1"":""7"",""2"":""11""}";47.4939, 11.0901
+872;872;872;WC Sport-Quartier, Garmisch;HalbÃ¶ffentliche Toilette in einem Hotel.;47.4807;11.1164;Wildenauerstr.;82467;"{""0"":""4"",""1"":""20""}";47.4807, 11.1164
+873;873;873;WC Kiefl Gartencenter, Gauting;HalbÃ¶ffentliche Toilette in einem Gartencenter.;48.0696;11.4081;Neurieder Str.;82131;"{""0"":""4"",""1"":""7"",""2"":""20""}";48.0696, 11.4081
+874;874;874;WC Gasthof Widmann, Gilching;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1204;11.292;Schulstr.;82205;"{""0"":""4"",""1"":""7"",""2"":""12"",""3"":""20""}";48.1204, 11.292
+875;875;875;WC Beim Dorfwirt, Haunshofen;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.8755;11.2197;Bahnhofstr.;82407;"{""0"":""4"",""1"":""20""}";47.8755, 11.2197
+876;876;876;WC Landhotel Klostermaier, Icking;HalbÃ¶ffentliche Toilette im Hotel.;47.9531;11.4377;Mittenwalder Str.;82057;"{""0"":""4"",""1"":""12"",""2"":""20""}";47.9531, 11.4377
+877;877;877;WC Zum Alten Wirt, Langenbach;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.4366;11.8489;Freisinger Str.;85416;"{""0"":""2"",""1"":""4"",""2"":""11"",""3"":""12""}";48.4366, 11.8489
+878;878;878;WC Gasthaus Georg Ludwig, Maising;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.9854;11.289000000000001;Ortsstr.;82343;"{""0"":""2"",""1"":""4"",""2"":""20""}";47.9854, 11.289000000000001
+879;879;879;WC Zum Murnauer, Murnau;"HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.
+";47.6835;11.2024;Weilheimer Str.;82418;"{""0"":""4"",""1"":""7"",""2"":""11""}";47.6835, 11.2024
+880;880;880;WC Gast- und Tafernwirtschaft, Niederdorf;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.4378;11.3188;Niederdorf;86567;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.4378, 11.3188
+881;881;881;WC SchÃ¼tzenwirt, Prien;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.8526;12.3348;Au;83209;"{""0"":""4"",""1"":""17""}";47.8526, 12.3348
+882;882;882;WC Fischerwirt, Schlehdorf;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.6597;11.3172;Unterauerstr.;82444;"{""0"":""1"",""1"":""4"",""2"":""17""}";47.6597, 11.3172
+883;883;883;WC Malerwinkel, Seebruck;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.9239;12.4449;Lambach;83358;"{""0"":""1"",""1"":""2"",""2"":""4"",""3"":""7"",""4"":""20""}";47.9239, 12.4449
+884;884;884;WC Sepperlwirt, Meiling;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0553;11.2222;Dorfstr.;82229;"{""0"":""4"",""1"":""11""}";48.0553, 11.2222
+885;885;885;WC Schex, St. Wolfgang;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.2208;12.1345;Hofmarkstr.;84427;"{""0"":""1"",""1"":""4"",""2"":""17""}";48.2208, 12.1345
+886;886;886;WC Karlsfelder Meile;Ã–ffentlich zugÃ¤ngliche Toilette im Einkaufszentrum.;48.227;11.4637;MÃ¼nchner Str.;85757;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11"",""4"":""12""}";48.227, 11.4637
+887;887;887;WC FlÃ¶sserei, Wolfratshausen;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.9138;11.4201;Sebastiani Steg;82515;"{""0"":""4"",""1"":""11"",""2"":""12""}";47.9138, 11.4201
+888;888;888;WC St. Ottilien;Ã–ffentliche Toilette auf dem KlostergelÃ¤nde.;48.0967;11.0425;Erzabtei;86941;"{""0"":""1"",""1"":""4"",""2"":""20""}";48.0967, 11.0425
+889;889;889;WC Rathauspassage Wolfratshausen;Toilette im Ã¶ffentlichen Raum, mit Euroschloss.;47.9148;11.4184;Marienplatz;82515;"{""0"":""4"",""1"":""11""}";47.9148, 11.4184
+890;890;890;WC Strandband Monte Mare, Tegernsee;HalbÃ¶ffentliche Toilette mit Euroschloss in einem Bad.;47.7153;11.7533;Hauptstr.;83684;"{""0"":""4"",""1"":""7"",""2"":""20""}";47.7153, 11.7533
+891;891;891;WC Bahnhof Markt Indersdorf;Ã–ffentliche Bahnhofstoilette mit Euroschloss, 24h zugÃ¤nglich.;48.3524;11.3787;Bahnhof Markt Indersdorf;85229;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.3524, 11.3787
+892;892;892;WC Ã¶ffentlich Dachau ;Toilette im Ã¶ffentlichen Raum mit Euroschloss, 24h zugÃ¤nglich.;48.255;11.4383;MÃ¼nchner Str.;85221;"{""0"":""4"",""1"":""11""}";48.255, 11.4383
+893;893;893;WC SpÃ¤thwiese, Lenggries;Toilette im Ã¶ffentlichen Raum mit Euroschloss.;47.6802;11.5753;Bahnhofstr.;83661;"{""0"":""4"",""1"":""11""}";47.6802, 11.5753
+894;894;894;WC im Seewinkel, Herrsching;Toilette im Ã¶ffentlichen Raum mit Euroschloss.;47.9983;11.1681;Keramikstr.;82211;"{""0"":""1"",""1"":""2"",""2"":""4"",""3"":""20""}";47.9983, 11.1681
+895;895;895;WC barrierefreie Baderampe, Herrsching;Toilette im Ã¶ffentlichen Raum mit Euroschloss.;48.0013;11.1683;Madeleine-Ruoff-Str.;82211;"{""0"":""1"",""1"":""4"",""2"":""11""}";48.0013, 11.1683
+896;896;896;WC am Bootshaus, Herrsching;Ã–ffentliche Toilette an einer GaststÃ¤tte, mit Euroschloss;47.9943;11.1697;Summerstr.;82211;"{""0"":""2"",""1"":""4"",""2"":""11""}";47.9943, 11.1697
+897;897;897;WC Salingarten, Rosenheim;Toilette im Ã¶ffentlichen Raum mit Euroschloss, 24h zugÃ¤nglich.;47.8546;12.1254;MÃ¼nchener Str.;83022;"{""0"":""4"",""1"":""20""}";47.8546, 12.1254
+898;898;898;WC H4 Hotel MÃ¼nchen Messe;HalbÃ¶ffentliche Toilette in einem Hotel.;48.1371;11.6893;Konrad-Zuse-Platz;81829;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1371, 11.6893
+899;899;899;WC Werksviertel Werk 3;Toilette im Ã¶ffentlichen Raum mit Euroschloss, 24h zugÃ¤nglich.;48.1252;11.6057;Atelierstr. ;81671;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1252, 11.6057
+900;900;900;WC Hilton MÃ¼nchen City;HalbÃ¶ffentliche Toilette in einem Hotel. ;48.1304;11.5922;Rosenheimer Str.;81667;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1304, 11.5922
+901;901;901;WC Allianz Arena Ost Ebene 2;HalbÃ¶ffentliche Toilette an einem Veranstaltungsort.;48.2188;11.6246;Werner-Heisenberg-Allee;80939;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.2188, 11.6246
+902;902;902;WC Burger King Neuaubing;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1409;11.4133;Bodenseestr.;81249;"{""0"":""4"",""1"":""17""}";48.1409, 11.4133
+903;903;903;WC Cotidiano am Nordbad;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1594;11.5626;SchleiÃŸheimer Str.;80797;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1594, 11.5626
+904;904;904;WC Coubertinplatz;Toilette im Ã¶ffentlichen Raum mit Euroschloss, 6-23h zugÃ¤nglich.;48.1735;11.5514;Coubertinplatz;80909;"{""0"":""4"",""1"":""11""}";48.1735, 11.5514
+905;905;905;WC CafÃ© Exponat Deutsches Museum;HalbÃ¶ffentliche Toilette bei einer GaststÃ¤tte.;48.13;11.5828;Museumsinsel ;80538;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.13, 11.5828
+906;906;906;WC Forum Schwanthaler HÃ¶he;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Kaufhaus.;48.1365;11.5481;TheresienhÃ¶he;80339;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1365, 11.5481
+907;907;907;WC Hans im GlÃ¼ck Giesing;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1203;11.6027;St.-Martin-Str.;81669;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1203, 11.6027
+908;908;908;WC Hirschgarten im Lokal;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1498;11.511;Hirschgartenallee;80639;"{""0"":""4"",""1"":""11""}";48.1498, 11.511
+909;909;909;WC Hugendubel am Marienplatz;HalbÃ¶ffentliche Toilette in einem Kaufhaus.;48.1368;11.5754;Marienplatz;80331;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1368, 11.5754
+910;910;910;WC Kentucky Fried Chicken Euro-Industriepark;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1929;11.5862;Maria-Probst-Str.;80939;"{""0"":""4"",""1"":""20""}";48.1929, 11.5862
+911;911;911;WC Kochspielhaus;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1333;11.5758;Rumfordstr.;80469;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1333, 11.5758
+912;912;912;WC Kiosk Germeringer See Damen;Toilette bei einem Kiosk. ;48.135;11.3424;Burgweg;82110;"{""0"":""2"",""1"":""6"",""2"":""7"",""3"":""11""}";48.135, 11.3424
+913;913;913;WC Kiosk Germeringer See Herren;Toilette bei einem Kiosk. ;48.135;11.3424;Burgweg;82110;"{""0"":""2"",""1"":""6"",""2"":""7"",""3"":""11""}";48.135, 11.3424
+914;914;914;WC Ottantanove;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1389;11.5519;Bayerstr.;80335;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1389, 11.5519
+915;915;915;WC Sportverein Untermenzing;HalbÃ¶ffentliche Toilette in einer Sportanlage.;48.1759;11.4657;Prof.-Eichmann-Str.;80999;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.1759, 11.4657
+916;916;916;WC San Francisco Coffee Company, Laim;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1436;11.5025;Landsberger Str.;80687;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1436, 11.5025
+917;917;917;WC Papazof;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1228;11.5567;Zenettistr.;80337;"{""0"":""1"",""1"":""2"",""2"":""4"",""3"":""11""}";48.1228, 11.5567
+918;918;918;WC Suhag;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.118;11.5946;St.-Martin-Str. ;81541;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11""}";48.118, 11.5946
+919;919;919;WC Staatliches Museum Ã„gyptischer Kunst;HalbÃ¶ffentliche Toilette im Museum.;48.1469;11.5682;Gabelsbergerstr.;80333;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1469, 11.5682
+920;920;920;WC Michaeligarten Ostpark;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1154;11.6382;Feichtstr.;81735;"{""0"":""4"",""1"":""7"",""2"":""20""}";48.1154, 11.6382
+921;921;921;WC Eissportzentrum;HalbÃ¶ffentliche Toilette in einer SportstÃ¤tte.;48.1116;11.6319;Staudingerstr. ;81735;"{""0"":""1"",""1"":""4"",""2"":""11""}";48.1116, 11.6319
+922;922;922;WC fÃ¼r Alle U-Bahnhof Harras;Ã–ffentliche 'Toilette fÃ¼r Alle' mit Pflegeliege, Lifter und Euroschloss.;48.1168;11.538;Haltestelle Harras;81379;"{""0"":""2"",""1"":""4"",""2"":""10"",""3"":""11"",""4"":""12""}";48.1168, 11.538
+923;923;923;WC Skatepark Fasaneriesee Damen;Ã–ffentliche Toilette bei einem Skatepark, mit Euroschloss.;48.2064;11.5279;Feldmochinger Str.;80995;"{""0"":""6"",""1"":""20""}";48.2064, 11.5279
+924;924;924;WC Skatepark Fasaneriesee Herren;Ã–ffentliche Toilette bei einem Skatepark, mit Euroschloss.;48.2064;11.5279;Feldmochinger Str.;80995;"{""0"":""6"",""1"":""20""}";48.2064, 11.5279
+925;925;925;WC fÃ¼r Alle am WeiÃŸenseepark;Ã–ffentliche 'Toilette fÃ¼r Alle' mit Pflegeliege, Lifter und Euroschloss.;48.1081;11.5872;WeiÃŸenseepark;81539;"{""0"":""4"",""1"":""10"",""2"":""11"",""3"":""18""}";48.1081, 11.5872
+926;926;926;WC Rentenversicherung Bayern SÃ¼d;HalbÃ¶ffentliche Toilette mit Pflegeliege.;48.1027;11.6478;Thomas-Dehler-Str.;81737;"{""0"":""4"",""1"":""11""}";48.1027, 11.6478
+927;927;927;WC TSV Neubiberg-Ottobrunn;HalbÃ¶ffentliche Toilette in einer SportstÃ¤tte.;48.081;11.6494;Zwergerstr.;85579;"{""0"":""4"",""1"":""20""}";48.081, 11.6494
+928;928;928;WC AltmÃ¼nchner Gesellenhaus Damen;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1379;11.5637;Adolf-Kolping-Str.;80336;"{""0"":""2"",""1"":""6"",""2"":""17""}";48.1379, 11.5637
+929;929;929;WC Corneliuskirche, Neubiberg;Toilette in KirchengebÃ¤ude.;48.0777;11.6602;Wendelsteinstr.;85579;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.0777, 11.6602
+930;930;930;WC Aussegnungshalle, Neubiberg;HalbÃ¶ffentliche Friedhofstoilette mit Euroschloss.;48.0761;11.65;Auf der Heid;85579;"{""0"":""4"",""1"":""11""}";48.0761, 11.65
+931;931;931;WC Pfarrheim RosenkranzkÃ¶nigin, Neubiberg;Toilette im Pfarrheim.;48.0752;11.6669;Kaiserstr.;85579;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.0752, 11.6669
+932;932;932;WC HofbrÃ¤uhaus Saal 2. OG;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1375;11.5799;Platzl;80331;"{""0"":""4"",""1"":""11"",""2"":""13""}";48.1375, 11.5799
+933;933;933;WC Ratschiller's;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0892;11.4801;Engadiner Str.;81475;"{""0"":""4"",""1"":""7"",""2"":""17""}";48.0892, 11.4801
+934;934;934;WC Andreaskirche FÃ¼rstenried;Toilette im Kirchenbau.;48.0922;11.484000000000002;Walliser Str.;80475;"{""0"":""4"",""1"":""17"",""2"":""20""}";48.0922, 11.484000000000002
+935;935;935;WC Botanikum;HalbÃ¶ffentliche Toilette an einem Veranstaltungsort.;48.1891;11.5185;Feldmochinger Str.;80993;"{""0"":""4"",""1"":""17""}";48.1891, 11.5185
+936;936;936;WC Sudetendeutsches Haus;HalbÃ¶ffentliche Toilette an einem Veranstaltungsort.;48.1306;11.589;Hochstr.;81669;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.1306, 11.589
+937;937;937;WC IG Feuerwache;HalbÃ¶ffentliche Toilette in einer JugendfreizeitstÃ¤tte.;48.1304;11.5402;Ganghofer Str.;80339;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1304, 11.5402
+938;938;938;WC Galerie Bezirk Oberbayern;HalbÃ¶ffentliche Toilette in einem VerwaltungsgebÃ¤ude.;48.1433;11.5862;Prinzregentenstr.;80538;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1433, 11.5862
+939;939;939;WC Christuskirche Perlach;Bedingt Ã¶ffentliche Toilette in einem Gemeindehaus.;48.0993;11.6414;Schumacherring;81737;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.0993, 11.6414
+940;940;940;WC Philippuskirche Giesing;;48.1049;11.5836;Chiemgaustr.;81549;"{""0"":""1"",""1"":""2"",""2"":""4"",""3"":""7"",""4"":""20""}";48.1049, 11.5836
+941;941;941;WC St. Albert Freimann;Bedingt Ã¶ffentliche Toilette in einemPfarrheim.;48.1947;11.6186;Situlistr.;80939;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1947, 11.6186
+942;942;942;WC Mohr-Villa, NebengebÃ¤ude;HalbÃ¶ffentliche Toilette im Stadtteilzentrum.;48.1937;11.6184;Situlistr.;80939;"{""0"":""4"",""1"":""11""}";48.1937, 11.6184
+943;943;943;WC Mohr-Villa;HalbÃ¶ffentliche Toilette im Stadtteilzentrum.;48.1937;11.6184;Situlistr.;80939;"{""0"":""4"",""1"":""17""}";48.1937, 11.6184
+944;944;944;WC PLATFORM MÃ¼nchen;Bedingt Ã¶ffentliche Toilette an einem Veranstaltungsort.;48.095;11.5158;Kistlerhofstr. ;81397;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.095, 11.5158
+945;945;945;WC Hagebaumarkt mit Gartencenter, HofmannstraÃŸe;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Kaufhaus.;48.1015;11.5288;Hofmannstr.;91379;"{""0"":""4"",""1"":""11""}";48.1015, 11.5288
+946;946;946;WC PelkovenschlÃ¶ssl, Moosacher Kultur- und BÃ¼rgerhaus;HalbÃ¶ffentliche Toilette im BÃ¼rgerhaus.;48.1808;11.5169;Moosacher St.-Martins-Platz;80992;"{""0"":""4"",""1"":""12"",""2"":""20""}";48.1808, 11.5169
+947;947;947;WC AumÃ¼llers Brotfabrik;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0953;11.524000000000001;Kistlerhofstr.;81379;"{""0"":""4"",""1"":""11""}";48.0953, 11.524000000000001
+948;948;948;WC SPAGAT KulturbÃ¼hne;Bedingt Ã¶ffentliche Toilette an einem Veranstaltungsort.;48.1866;11.5927;Bauhausplatz;80807;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1866, 11.5927
+949;949;949;WC Evangelische Stadtakademie;Bedingt Ã¶ffentliche Toilette in einer kirchlichen Einrichtung.;48.1351;11.5666;Herzog-Wilhelm-Str. ;80331;"{""0"":""2"",""1"":""4"",""2"":""17""}";48.1351, 11.5666
+950;950;950;WC Luegsteinsee;Toilette im Ã¶ffentlichen Raum.;47.6424;12.1722;Seestr.;83080;"{""0"":""4"",""1"":""17""}";47.6424, 12.1722
+951;951;951;WC Olchinger See;Toilette im Ã¶ffentlichen Raum.;48.2068;11.3568;Ulmenweg;82140;"{""0"":""4"",""1"":""11""}";48.2068, 11.3568
+952;952;952;WC Ambacher Erholungsgebiet;Toilette im Ã¶ffentlichen Raum.;47.8564;11.3366;Am Schwaiblbach;82335;"{""0"":""4"",""1"":""11""}";47.8564, 11.3366
+953;953;953;WC Gans am Wasser;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.12600000000001;11.530999999999999;Siegenburger Str.;81373;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.12600000000001, 11.530999999999999
+954;954;954;WC Gans Woanders;HalbÃ¶ffentliche Toilette mit Euroschloss in einer GaststÃ¤tte.;48.1183;11.5747;Pilgersheimer Str.;81543;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1183, 11.5747
+955;955;955;WC BÃ¼rgersaal Oberhaching;HalbÃ¶ffentliche Toilette im BÃ¼rgerhaus.;48.0256;11.5951;Kybergstr.;82041;"{""0"":""2"",""1"":""4"",""2"":""17""}";48.0256, 11.5951
+956;956;956;WC Friedhof Oberhaching Damen;Ã–ffentliche Friedhofstoilette ohne Euroschloss.;48.0272;11.597000000000001;Pfarrweg;82041;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.0272, 11.597000000000001
+957;957;957;WC Friedhof Oberhaching Herren;Ã–ffentliche Friedhofstoilette ohne Euroschloss.;48.0272;11.597000000000001;Pfarrweg;82041;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.0272, 11.597000000000001
+958;958;958;WC BTV TennisBase, Oberhaching;HalbÃ¶ffentliche Toilette in einer Sportanlage.;48.0357;11.5895;Im Loh;82041;"{""0"":""4"",""1"":""11""}";48.0357, 11.5895
+959;959;959;WC BÃ¼rgerhaus Glockenbachwerkstatt;HalbÃ¶ffentliche Toilette im BÃ¼rgerhaus.;48.1335;11.5739;Blumenstr.;80331;"{""0"":""1"",""1"":""2"",""2"":""4"",""3"":""17""}";48.1335, 11.5739
+960;960;960;WC Bayerische Volkssternwarte MÃ¼nchen;HalbÃ¶ffentliche Toilette an einem Veranstaltungsort.;48.1219;11.6068;Rosenheimer Str.;81671;"{""0"":""2"",""1"":""4"",""2"":""12"",""3"":""17""}";48.1219, 11.6068
+961;961;961;WC Zum StarnbrÃ¤u, Bad TÃ¶lz;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;0.0;0.0;Markstr.;83646;"{""0"":""1"",""1"":""4"",""2"":""20""}";0.0, 0.0
+962;962;962;WC Stadtmuseum HauptgebÃ¤ude;Ã–ffentliche Toilette mit Euro-SchlieÃŸung in einem Museum.;48.1351;11.5726;St.-Jakobs-Platz;80331;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.1351, 11.5726
+963;963;963;WC Schauburg;HalbÃ¶ffentliche Toilette in einem Theater.;48.1574;11.5753;Franz-Joseph-Str.;80801;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.1574, 11.5753
+964;964;964;WC St. Anna Damen;Bedingt Ã¶ffentliche Toilette in einem Pfarrheim.;48.1403;11.5873;St.-Anna-Platz;80538;"{""0"":""6"",""1"":""12"",""2"":""20""}";48.1403, 11.5873
+965;965;965;WC St. Anna Herren;Bedingt Ã¶ffentliche Toilette in einem Pfarrheim.;48.1403;11.5873;St.-Anna-Platz;80538;"{""0"":""6"",""1"":""11"",""2"":""12""}";48.1403, 11.5873
+966;966;966;WC St. Anton;Bedingt Ã¶ffentliche Toilette in einem Pfarrheim.;48.1242;11.5631;Kapuzinerstr.;80469;"{""0"":""2"",""1"":""4"",""2"":""13"",""3"":""20""}";48.1242, 11.5631
+967;967;967;WC St. Ludwig ;Bedingt Ã¶ffentliche Toilette in einem Pfarrheim.;48.1493;11.5811;Ludwigstr.;80538;"{""0"":""1"",""1"":""4"",""2"":""17""}";48.1493, 11.5811
+968;968;968;WC St. Sebastian ;Bedingt Ã¶ffentliche Toilette in einem Pfarrheim.;48.1676;11.5663;Karl-Theodor-Str.;80796;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.1676, 11.5663
+969;969;969;WC St. Ruppert;Bedingt Ã¶ffentliche Toilette in einem Pfarrheim.;48.136;11.5333;Gollierstr.;80339;"{""0"":""4"",""1"":""11""}";48.136, 11.5333
+970;970;970;WC St. Theresia;Bedingt Ã¶ffentliche Toilette in einem Pfarrheim.;48.1592;11.538;Dom-Pedro-Str.;80637;"{""0"":""4"",""1"":""20""}";48.1592, 11.538
+971;971;971;WC ChristkÃ¶nig;Bedingt Ã¶ffentliche Toilette in einem Pfarrheim.;48.1567;11.5117;Notburgastr.;80639;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.1567, 11.5117
+972;972;972;WC St. Clemens;Bedingt Ã¶ffentliche Toilette in einem Pfarrheim.;48.148;11.5288;Renatastr.;80634;"{""0"":""4"",""1"":""11""}";48.148, 11.5288
+973;973;973;WC Herz Jesu;Bedingt Ã¶ffentliche Toilette in einem Pfarrheim.;48.1561;11.5288;Lachnerstr.;80639;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1561, 11.5288
+974;974;974;WC Rathausgalerie Kunsthalle;Toilette bei einem Veranstaltungsort.;48.1377;11.5753;Marienplatz;80331;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1377, 11.5753
+975;975;975;WC Haus der Kunst SÃ¼dwestflÃ¼gel Herren;Ã–ffentliche Toilette im Museum.;48.1438;11.5858;Prinzregentenstr.;80538;"{""0"":""2"",""1"":""6"",""2"":""20""}";48.1438, 11.5858
+976;976;976;WC Haus der Kunst SÃ¼dwestflÃ¼gel Damen;Ã–ffentliche Toilette im Museum.;48.1438;11.5858;Prinzregentenstr.;80538;"{""0"":""2"",""1"":""6"",""2"":""17""}";48.1438, 11.5858
+977;977;977;WC CafÃ©zauber;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1397;11.6101;Zaubzerstr.;81677;"{""0"":""4"",""1"":""11""}";48.1397, 11.6101
+978;978;978;WC Kinderkunsthaus;HalbÃ¶ffentliche Toilette an einem Veranstaltungsort.;48.1603;11.5772;rÃ¶merstr.;80801;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1603, 11.5772
+979;979;979;WC Wirtshaus am Hart Damen;HalbÃ¶ffentliche Toilette in einer TheatergaststÃ¤tte.;48.1964;11.5765;Sudetendeutsche Str.;80937;"{""0"":""6"",""1"":""17""}";48.1964, 11.5765
+980;980;980;WC Gasteig Carl-Orff- & kleiner Konzertsaal;Ã–ffentliche Toilette in einem Kulturzentrum.;48.1315;11.5908;Rosenheimer Str.;81667;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.1315, 11.5908
+981;981;981;WC VersÃ¶hnungskirche;Bedingt Ã¶ffentliche Toilette in einem Gemeindehaus.;48.2027;11.5685;Hugo-Wolf-Str.;80937;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.2027, 11.5685
+982;982;982;WC KlosterbrÃ¤u StÃ¼berl, SchÃ¤ftlarn;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.9779;11.4662;Kloster SchÃ¤ftlarn;82067;"{""0"":""2"",""1"":""4"",""2"":""11""}";47.9779, 11.4662
+983;983;983;WC Roiderer Gasthof zum Wildpark, StraÃŸlach;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.0033;11.514000000000001;TÃ¶lzer Str.;82064;"{""0"":""2"",""1"":""6"",""2"":""7"",""3"":""17""}";48.0033, 11.514000000000001
+984;984;984;WC Postwirt Sauerlach;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.9714;11.6534;Tegernseer Landstr.;82054;"{""0"":""4"",""1"":""20""}";47.9714, 11.6534
+985;985;985;WC Hotel Brunnthal;HalbÃ¶ffentliche Toilette in einem Hotel.;48.0074;11.6866;MÃ¼nchner Str.;85649;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.0074, 11.6866
+986;986;986;WC EDEKA Hertscheck Neubiberg;HalbÃ¶ffentlich zugÃ¤ngliche Toilette im Kaufhaus.;48.0755;11.661;Bahnhofsplatz;85579;"{""0"":""4"",""1"":""7"",""2"":""20""}";48.0755, 11.661
+987;987;987;WC Schlosspassage 14b, GrÃ¼nwald;Ã–ffentliche Toilette in einer Einkaufspassage.;48.0411;11.5236;Schlossstr.;82031;"{""0"":""4"",""1"":""7"",""2"":""13"",""3"":""20""}";48.0411, 11.5236
+988;988;988;WC Chinesischer Turm Damen;HalbÃ¶ffentliche Toilette in einem Biergarten mit EuroschlieÃŸung.;48.1524;11.5923;Englischer Garten;80538;"{""0"":""6"",""1"":""11""}";48.1524, 11.5923
+989;989;989;WC Rattlesnake Saloon;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1991;11.5112;SchneeglÃ¶ckchenstr.;80995;"{""0"":""4"",""1"":""17""}";48.1991, 11.5112
+990;990;990;WC BeerenCafÃ© Hofreiter Feldmoching;HalbÃ¶ffentliche Toilette an einem Erntefeld.;48.2202;11.5318;Feldmochinger Str.;80995;"{""0"":""4"",""1"":""20""}";48.2202, 11.5318
+991;991;991;WC MAN Truck Forum;HalbÃ¶ffentliche Toilette in einem Kaufhaus.;48.2172;11.4802;Dachauer Str.;80995;"{""0"":""4"",""1"":""11""}";48.2172, 11.4802
+992;992;992;WC Alpines Museum;Ã–ffentliche Toilette im Museum.;48.1352;11.589;Praterinsel;80538;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1352, 11.589
+993;993;993;WC IHLE CafÃ© im Edeka WelfenstraÃŸe;HalbÃ¶ffentliche Toilette im CafÃ© im Kaufhaus.;48.122;11.5891;Welfenstr.;81541;"{""0"":""4"",""1"":""11""}";48.122, 11.5891
+994;994;994;WC Schuhhaus Hartlmaier;HalbÃ¶ffentliche Toilette in einem Kaufhaus.;48.1365;11.5751;Rindermarkt ;80331;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1365, 11.5751
+995;995;995;WC Metro MÃ¼nchen-Pasing;HalbÃ¶ffentliche Toilette in einem Kaufhaus.;48.1395;11.4334;Am Gleisdreick;81243;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1395, 11.4334
+996;996;996;WC V Markt BalanstraÃŸe;HalbÃ¶ffentliche Toilette in einem Kaufhaus.;48.1214;11.5974;Balanstr.;81541;"{""0"":""4"",""1"":""11""}";48.1214, 11.5974
+997;997;997;WC DAV Kletterzentrum MÃ¼nchen SÃ¼d;HalbÃ¶ffentliche Toilette in einer Sportanlage.;48.1067;11.5458;Thalkirchner Str.;81371;"{""0"":""4"",""1"":""11""}";48.1067, 11.5458
+998;998;998;WC Olympia-Eissportzentrum;HalbÃ¶ffentliche Toilette in einer Sportanlage.;48.1756;11.5565;Spiridon-Louis-Ring;80809;"{""0"":""4"",""1"":""11""}";48.1756, 11.5565
+999;999;999;WC Container Olympia Einkaufszentrum;Ã–ffentliche Containertoilette mit Dusche im Einkaufszentrum mit Euroschloss.;48.1822;11.5297;Hanauer Str.;80993;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1822, 11.5297
+1000;1000;1000;WC Murnauer Moos;Ã–ffentliche Toilette an einem Parkplatz.;47.6656;11.1905;Ramsachstr.;82418;"{""0"":""4"",""1"":""7"",""2"":""11""}";47.6656, 11.1905
+1001;1001;1001;WC Epiphaniaskirche Allach;Bedingt Ã¶ffentliche Toilette in einem Gemeindehaus.;48.1919;11.4621;St.-Johann-Str.;80999;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.1919, 11.4621
+1002;1002;1002;WC Apostelkirche Solln;Bedingt Ã¶ffentliche Toilette in einem Gemeindehaus.;48.0743;11.5205;Konrad-Witz-Str.;81479;"{""0"":""4"",""1"":""20""}";48.0743, 11.5205
+1003;1003;1003;WC LMU HauptgebÃ¤ude;HalbÃ¶ffentliche Toilette im HochschulgebÃ¤ude mit Euroschloss.;48.1504;11.5798;Geschwister-Scholl-Platz;80539;"{""0"":""1"",""1"":""2"",""2"":""4"",""3"":""11""}";48.1504, 11.5798
+1004;1004;1004;WC Haus der Vereine, UnterschleiÃŸheim;Toilette im Vereinsheim.;48.2777;11.5811;Birkenstr.;85716;"{""0"":""4"",""1"":""11""}";48.2777, 11.5811
+1005;1005;1005;WC Amerikahaus;HalbÃ¶ffentliche Toilette in einem kulturellen GebÃ¤ude.;48.1443;11.5679;Karolinenplatz;80333;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1443, 11.5679
+1006;1006;1006;WC Wohnheim KWA Georg-Brauchle-Ring;HalbÃ¶ffentliche Toilette in einem Wohnheim.;48.1099;11.6363;Staudingerstr.;81735;"{""0"":""2"",""1"":""4"",""2"":""20""}";48.1099, 11.6363
+1007;1007;1007;WC BÃ¼rger-Garten Passage, Bad TÃ¶lz;Ã–ffentliche Toilette mit Euroschloss.;47.7609;11.5611;Marktstr.;83646;"{""0"":""4"",""1"":""11"",""2"":""18""}";47.7609, 11.5611
+1008;1008;1008;WC BÃ¼rger-Garten, Bad TÃ¶lz;Ã–ffentliche Toilette mit Euroschloss.;47.7603;11.5613;Am Schlossplatz;83646;"{""0"":""6"",""1"":""11"",""2"":""18""}";47.7603, 11.5613
+1009;1009;1009;WC REWE ZÃ¼richer StraÃŸe;Ã–ffentliche Toilette im Kaufhaus.;48.0954;11.4956;ZÃ¼richer Str.;81476;"{""0"":""4"",""1"":""20""}";48.0954, 11.4956
+1010;1010;1010;WC fÃ¼r alle im Schullandheim Wartaweil, Herrsching;HalbÃ¶ffentliche Toilette mit Pflegeliege, Lifter und Dusche im Ferienheim.;47.9733;11.1516;Wartaweil;82211;"{""0"":""2"",""1"":""4"",""2"":""8"",""3"":""10"",""4"":""11""}";47.9733, 11.1516
+1011;1011;1011;WC Chi Thu, FraunhoferstraÃŸe;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1282;11.575999999999999;Fraunhoferstr.;80469;"{""0"":""4"",""1"":""20""}";48.1282, 11.575999999999999
+1012;1012;1012;WC Bahnhof Klais;Ã–ffentliche Bahnhofstoilette ohne Euroschloss.;47.4834;11.2354;Bahnhofstr.;82493;"{""0"":""4"",""1"":""20""}";47.4834, 11.2354
+1013;1013;1013;WC Bahnhof Mittenwald;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;47.4403;11.2648;Bahnhofplatz;82481;"{""0"":""4"",""1"":""7"",""2"":""11""}";47.4403, 11.2648
+1014;1014;1014;WC OBI Neuaubing;Ã–ffentliche Toilette im Kaufhaus.;48.1416;11.4312;Am Gleisdreieck;81243;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1416, 11.4312
+1015;1015;1015;WC Tourist Info, Bad TÃ¶lz;Toilette im Ã¶ffentlichen GebÃ¤ude.;47.7592;11.5522;Max-HÃ¶fler-Platz;83646;"{""0"":""4"",""1"":""7"",""2"":""11""}";47.7592, 11.5522
+1016;1016;1016;WC ZOB Isarkai, Bad TÃ¶lz;Ã–ffentliche Toilette ohne Euroschloss.;0.0;0.0;Lengrieser Str.;83646;"{""0"":""4"",""1"":""20""}";0.0, 0.0
+1017;1017;1017;WC Kloster Wessobrunn;Ã–ffentliche Toilette in einer Klosteranlage.;47.8765;11.0246;Klosterhof;82405;"{""0"":""4"",""1"":""17""}";47.8765, 11.0246
+1018;1018;1018;WC fÃ¼r alle,  Bayerisches Staatsministerium fÃ¼r Familie, Arbeit und Soziales;HalbÃ¶ffentliche Toilette mit Pflegeliege und Strickleiter in einer BehÃ¶rde .;48.1562;11.5589;Winzererstr.;80797;"{""0"":""4"",""1"":""8"",""2"":""10"",""3"":""11""}";48.1562, 11.5589
+1019;1019;1019;WC GALERIA Karstadt MÃ¼nchner Freiheit;Ã–ffentliche Toilette im Kaufhaus.;48.1612;11.5866;Leopoldstr.;80802;"{""0"":""4"",""1"":""12"",""2"":""20""}";48.1612, 11.5866
+1020;1020;1020;WC Kustermann;Ã–ffentliche Toilette im Kaufhaus mit Euroschloss.;48.1361;11.5749;Viktualienmarkt;80331;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1361, 11.5749
+1021;1021;1021;WC Das Lihotzky;HalbÃ¶ffentliche Toilette an einem Veranstaltungsort.;48.184;11.597999999999999;Fritz-Winter-Str.;80807;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.184, 11.597999999999999
+1022;1022;1022;WC Enter the Dragon;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.14100000000001;11.567;Lenbachplatz;80333;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11""}";48.14100000000001, 11.567
+1023;1023;1023;WC GALERIA (Kaufhof) Am Stachus;Ã–ffentliche Toilette im Kaufhaus.;48.1388;11.5645;Karlsplatz;80335;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1388, 11.5645
+1024;1024;1024;WC McDonald's SitulistraÃŸe;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1885;11.6142;Situlistr.;80939;"{""0"":""4"",""1"":""17""}";48.1885, 11.6142
+1025;1025;1025;WC CafÃ© Love, Bad TÃ¶lz;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.7599;11.5562;Amortplatz;83646;"{""0"":""2"",""1"":""4"",""2"":""17""}";47.7599, 11.5562
+1026;1026;1026;WC TÃ¶lzer BinderbrÃ¤u;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.7594;11.5491;Ludwigstr. ;83646;"{""0"":""2"",""1"":""4"",""2"":""11""}";47.7594, 11.5491
+1027;1027;1027;WC Hotel KolberbrÃ¤u, Bad TÃ¶lz;HalbÃ¶ffentliche Toilette in einem Hotel.;47.761;11.5589;Marktstr.;83646;"{""0"":""6"",""1"":""17""}";47.761, 11.5589
+1028;1028;1028;WC Vereinsheim Germering, Damen;HalbÃ¶ffentliche Toilette in einer VereinsgaststÃ¤tte.;48.1333;11.3741;Max-Reger-Str.;82110;"{""0"":""2"",""1"":""6"",""2"":""7"",""3"":""17""}";48.1333, 11.3741
+1029;1029;1029;WC Zur Post, Kiefersfelden;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;47.6095;12.1895;Bahnhofstr.;83088;"{""0"":""4"",""1"":""7"",""2"":""11""}";47.6095, 12.1895
+1030;1030;1030;WC Bahnhof Ingolstadt Nord;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.7723;11.4317;Am Nordbahnhof;85049;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.7723, 11.4317
+1031;1031;1031;WC Hauptbahnhof Ingolstadt;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.7733;11.4331;NÃ¼rnberger Str.;85049;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.7733, 11.4331
+1032;1032;1032;WC Bahnhof Bernried;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;47.8613;11.2838;Bahnhofstr.;82347;"{""0"":""4"",""1"":""7"",""2"":""11""}";47.8613, 11.2838
+1033;1033;1033;WC Bahnhof Buchenau;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;0.0;0.0;Kurt-Huber-Ring;82265;"{""0"":""4"",""1"":""11""}";0.0, 0.0
+1034;1034;1034;WC Bahnhof Eichenau;Ã–ffentliche Bahnhofstoilette ohne Euroschloss.;48.18;11.3254;OstpreuÃŸenweg;82223;"{""0"":""4"",""1"":""7"",""2"":""20""}";48.18, 11.3254
+1035;1035;1035;WC Bahnhof Erding;Ã–ffentliche Bahnhofstoilette mit Aufrichthilfe und Euroschloss.;48.3039;11.9125;Am Bahnhof;85435;"{""0"":""4"",""1"":""7"",""2"":""20""}";48.3039, 11.9125
+1036;1036;1036;WC Bahnhof Farchant;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;47.5297;11.1143;Bahnhofstr.;82490;"{""0"":""4"",""1"":""7"",""2"":""11""}";47.5297, 11.1143
+1037;1037;1037;WC Bahnhof FÃ¼rstenfeldbruck;Ã–ffentliche Bahnhofstoilette.;48.172;11.262;Bahnhofstr.;82256;"{""0"":""4"",""1"":""7"",""2"":""20""}";48.172, 11.262
+1038;1038;1038;WC Bahnhof Germering-Unterpfaffenhofen;Ã–ffentliche Bahnhofstoilette mit EuroschlieÃŸung.;48.129;11.3644;Bahnhofplatz;82110;"{""0"":""2"",""1"":""4"",""2"":""7""}";48.129, 11.3644
+1039;1039;1039;WC Bahnhof Huglfing;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;47.7739;11.1459;Weilheimer Str. ;82386;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11""}";47.7739, 11.1459
+1040;1040;1040;WC Bahnhof Moosburg;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.4698;11.9307;Bahnhofstr.;85368;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.4698, 11.9307
+1041;1041;1041;WC Bahnhof Schliersee;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;47.7351;11.8606;Werner-Bochmann-Str.;83727;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""20""}";47.7351, 11.8606
+1042;1042;1042;WC Friedhof Pasing;Ã–ffentliche Friedhofstoilette ohne Euroschloss.;48.1369;11.4575;Lampertstr.;81421;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1369, 11.4575
+1043;1043;1043;WC U-Bahnhof Partnachplatz;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1161;11.5269;Albert-RoÃŸhaupter-Str.;81369;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.1161, 11.5269
+1044;1044;1044;WC fÃ¼r Alle im Hirschgarten;Ã–ffentliche 'Toilette fÃ¼r Alle' und jeden mit Pflegeliege, Lifter und Euroschloss.;48.148;11.5162;Hirschgarten Grillbereich;80639;"{""0"":""4"",""1"":""10"",""2"":""11"",""3"":""18""}";48.148, 11.5162
+1045;1045;1045;WC Hirschgarten West;Toilette im Ã¶ffentlichen Raum ohne Euroschloss.;48.1478;11.5083;ggÃ¼. De-La-Paz-Str.;80639;"{""0"":""4"",""1"":""17""}";48.1478, 11.5083
+1046;1046;1046;WC REWE FalkenstraÃŸe;Ã–ffentliche Toilette im Kaufhaus.;48.12300000000001;11.5799;Falkenstr.;81541;"{""0"":""4"",""1"":""11""}";48.12300000000001, 11.5799
+1047;1047;1047;WC HochX Theater;HalbÃ¶ffentliche Toilette an einem Veranstaltungsort.;48.1223;11.5776;Entenbachstr.;81541;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1223, 11.5776
+1048;1048;1048;WC Bahnhof MÃ¼hldorf;Ã–ffentliche Bahnhofstoilette mit Eruoschloss.;48.24800000000001;12.5203;Bahnhofplatz;84453;"{""0"":""4"",""1"":""7"",""2"":""11""}";48.24800000000001, 12.5203
+1049;1049;1049;WC S-Bahnhof Vaterstetten;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.1044;11.7651;Bahnhofstr.;85591;"{""0"":""4"",""1"":""11""}";48.1044, 11.7651
+1050;1050;1050;WC Bahnhof Petershausen;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;48.413000000000004;11.47;Bahnhofstr.;85238;"{""0"":""4"",""1"":""7""}";48.413000000000004, 11.47
+1051;1051;1051;WC Bahnhof Possenhofen;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;47.9619;11.3068;SchloÃŸberg;82343;"{""0"":""4"",""1"":""7"",""2"":""11""}";47.9619, 11.3068
+1052;1052;1052;WC Einstein Kultur;HalbÃ¶ffentliche Toilette an einem Veranstaltungsort.;48.1354;11.6008;Einsteinstr.;81675;"{""0"":""4"",""1"":""12"",""2"":""20""}";48.1354, 11.6008
+1053;1053;1053;WC Stadtteilkultur 2411;HalbÃ¶ffentliche Toilette an einem Veranstaltungsort.;48.2135;11.5573;Blodigstr.;80933;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.2135, 11.5573
+1054;1054;1054;WC Werksviertel TonHalle;HalbÃ¶ffentliche Toilette an einem Veranstaltungsort.;48.1237;11.6068;Atelierstr.;81671;"{""0"":""6"",""1"":""11""}";48.1237, 11.6068
+1055;1055;1055;WC Werksviertel Technikum;HalbÃ¶ffentliche Toilette an einem Veranstaltungsort.;48.1234;11.6066;Speicherstr.;81671;"{""0"":""4"",""1"":""11""}";48.1234, 11.6066
+1056;1056;1056;WC Werksviertel Werk7 theater;HalbÃ¶ffentliche Toilette an einem Veranstaltungsort.;48.1238;11.606;Speicherstr.;81671;"{""0"":""4"",""1"":""11""}";48.1238, 11.606
+1057;1057;1057;WC Kulturzentrum LUISE;HalbÃ¶ffentliche Toilette an einem Veranstaltungsort.;48.12300000000001;11.5532;Ruppertstr.;80337;"{""0"":""4"",""1"":""11""}";48.12300000000001, 11.5532
+1058;1058;1058;WC Das Laimer;HalbÃ¶ffentliche Toilette in einem Jugendzentrum mit EuroschlieÃŸung und Dusche.;48.1365;11.4958;Von-der-Pfordten-Str.;80686;"{""0"":""1"",""1"":""4"",""2"":""8"",""3"":""11"",""4"":""12""}";48.1365, 11.4958
+1059;1059;1059;WC Metropoltheater;HalbÃ¶ffentliche Toilette an einem Veranstaltungsort.;48.1923;11.6191;FloriansmÃ¼hlstr.;80939;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""17""}";48.1923, 11.6191
+1060;1060;1060;WC Bayerische StaatsBibliothek EG;HalbÃ¶ffentliche Toilette in einer Bibliothek.;48.1473;11.5806;Ludwigstr.;80539;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11"",""4"":""12""}";48.1473, 11.5806
+1061;1061;1061;WC Deutsches Museum;HalbÃ¶ffentliche Toilette im Museum.;48.13;11.5829;Museumsinsel;80538;"{""0"":""2"",""1"":""4"",""2"":""7"",""3"":""11""}";48.13, 11.5829
+1062;1062;1062;WC Feierwerk Orangehouse;HalbÃ¶ffentliche Toilette an einem Veranstaltungsort.;48.1285;11.5346;Hansastr.;81373;"{""0"":""2"",""1"":""4"",""2"":""11""}";48.1285, 11.5346
+1063;1063;1063;WC Nationaltheater Bayerische Staatsoper;Altstadt - Lehel;48.1396;11.5795;Max-Joseph-Platz;80539;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1396, 11.5795
+1064;1064;1064;WC Stadtteilkulturzentrum Guardini90;HalbÃ¶ffentliche Toilette an einem Veranstaltungsort.;48.1185;11.4907;Guardinistr.;81375;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1185, 11.4907
+1065;1065;1065;WC Khanittha im Werksviertel;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1232;11.6082;Speicherstr.;81671;"{""0"":""4"",""1"":""11""}";48.1232, 11.6082
+1066;1066;1066;WC La Tasca Flamenca ;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.1251;11.6062;Atelierstr.;81671;"{""0"":""4"",""1"":""11""}";48.1251, 11.6062
+1067;1067;1067;WC MUCCA;HalbÃ¶ffentliche Toilette an einem Veranstaltungsort.;48.1594;11.5501;Schwere-Reiter-Str.;80797;"{""0"":""4"",""1"":""11""}";48.1594, 11.5501
+1068;1068;1068;WC MÃ¼nchner Kammerspiele Schauspielhaus;HalbÃ¶ffentliches WC in einem Veranstaltungsort.;48.1388;11.5812;Maximilianstr.;80539;"{""0"":""4"",""1"":""17""}";48.1388, 11.5812
+1069;1069;1069;WC MÃ¼nchner Kammerspiele Therese-Giehse-Halle UG;HalbÃ¶ffentliches WC in einem Veranstaltungsort.;48.13800000000001;11.5813;Falckenbergstr.;80539;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.13800000000001, 11.5813
+1070;1070;1070;WC MÃ¼nchner Kammerspiele Therese-Giehse-Halle 2.OG;HalbÃ¶ffentliches WC in einem Veranstaltungsort.;48.13800000000001;11.5813;Falckenbergstr.;80539;"{""0"":""4"",""1"":""12"",""2"":""20""}";48.13800000000001, 11.5813
+1071;1071;1071;WC MÃ¼nchner Kammerspiele Werkraum, 2.OG;HalbÃ¶ffentliches WC in einem Veranstaltungsort.;48.1378;11.5813;Hildegardstr.;80539;"{""0"":""2"",""1"":""4"",""2"":""11"",""3"":""13""}";48.1378, 11.5813
+1072;1072;1072;WC Tafernwirtschaft zu Erdweg;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.3325;11.302999999999999;Hauptstr.;85253;"{""0"":""4"",""1"":""7"",""2"":""11"",""3"":""12""}";48.3325, 11.302999999999999
+1073;1073;1073;WC Bahnhof BruckmÃ¼hl;Ã–ffentliche Bahnhofstoilette mit Euroschloss.;47.881;11.9156;Bahnhofstr.;83052;"{""0"":""4"",""1"":""7"",""2"":""11""}";47.881, 11.9156
+1074;1074;1074;WC FrÃ¼hlingsanlagen;Toilette im Ã¶ffentlichen Raum mit Euroschloss.;48.1238;11.5729;Schlottauer Str.;81541;"{""0"":""4"",""1"":""11""}";48.1238, 11.5729
+1075;1075;1075;WC SÃ¼dpark Sendlinger Wald;2 Toiletten im Ã¶ffentlichen Raum mit Euroschloss.;48.104;11.5131;Inninger Str. ;81371;"{""0"":""4"",""1"":""11""}";48.104, 11.5131
+1076;1076;1076;WC StadtcafÃ© Garching und Vinothek;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;48.2503;11.6504;BÃ¼rgerplatz;85748;"{""0"":""4"",""1"":""7"",""2"":""12""}";48.2503, 11.6504
+1077;1077;1077;WC Hotel Courtyard Munich Garching;HalbÃ¶ffentliche Toilette in einem Hotel.;48.2649;11.6714;Walther-von-Dyck-Str.;85748;"{""0"":""4"",""1"":""11""}";48.2649, 11.6714
+1078;1078;1078;WC TUM Institute for Advanced Study, Garching;HalbÃ¶ffentliche Toilette in einem HochschulgebÃ¤ude mit Dusche.;48.2675;11.671;Lichtenbergstr.;85748;"{""0"":""4"",""1"":""8"",""2"":""11"",""3"":""12"",""4"":""13""}";48.2675, 11.671
+1079;1079;1079;WC Glyptothek;Ã–ffentliche Toilette im Museum.;48.1465;11.5662;KÃ¶nigsplatz;80333;"{""0"":""1"",""1"":""2"",""2"":""4"",""3"":""11""}";48.1465, 11.5662
+1080;1080;1080;WC Kronthaler Weiher, Erding;Toilette im Ã¶ffentlichen Raum am See ohne Euroschloss.;48.3186;11.9093;An der Melkstatt;85435;"{""0"":""4"",""1"":""11""}";48.3186, 11.9093
+1081;1081;1081;WC Karlsfelder See;Toilette im Ã¶ffentlichen Raum am See mit Euroschloss.;48.2364;11.4717;Hochstr.;85757;"{""0"":""1"",""1"":""4"",""2"":""20""}";48.2364, 11.4717
+1082;1082;1082;WC Markt Indersdorf Am Kreisel;Toilette im Ã¶ffentlichen Raum mit Euroschloss.;48.3577;11.3812;Ludwig-Thoma-Str.;85229;"{""0"":""4"",""1"":""11""}";48.3577, 11.3812
+1083;1083;1083;WC Poschinger Weiher alias UnterfÃ¶hringer See;Toilette im Ã¶ffentlichen Raum am See mit Euroschloss.;48.2022;11.6427;Am Poschinger Weiher;85774;"{""0"":""4"",""1"":""20"",""2"":""23""}";48.2022, 11.6427
+1084;1084;1084;WC FC Bayern Welt;HalbÃ¶ffentliche Toilette in einem Kaufhaus.;48.1383;11.5749;Weinstr.;80333;"{""0"":""4"",""1"":""11"",""2"":""12""}";48.1383, 11.5749
+1085;1085;1085;WC Boulderwelt MÃ¼nchen SÃ¼d,  Brunnthal;HalbÃ¶ffentliche Toilette in einer SportstÃ¤tte.;48.0403;11.6639;Eugen-SÃ¤nger-Ring;85649;"{""0"":""4"",""1"":""7"",""2"":""12"",""3"":""20""}";48.0403, 11.6639
+1086;1086;1086;WC Volkstheater mit Pflegeliege;HalbÃ¶ffentliches WC an einem Veranstaltungsort.;0.0;0.0;Tumblingerstr.;80337;"{""0"":""4"",""1"":""11""}";0.0, 0.0
+1087;1087;1087;WC Schmock im Volkstheater;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte.;0.0;0.0;Tumblingerstr.;80337;"{""0"":""4"",""1"":""11""}";0.0, 0.0
+1088;1088;1088;WC Musikhochschule, Reaktorhalle und Carl-Orff-Auditorium;HalbÃ¶ffentliche Toilette im HochschulgebÃ¤ude mit Veranstaltungsort.;0.0;0.0;Luisenstr.;80333;"{""0"":""4"",""1"":""11"",""2"":""12""}";0.0, 0.0
+1089;1089;1089;WC Musikhochschule ArcisstraÃŸe;HalbÃ¶ffentliche Toilette im HochschulgebÃ¤ude mit Veranstaltungsort.;0.0;0.0;Arcisstr.;80333;"{""0"":""2"",""1"":""4""}";0.0, 0.0
+1090;1090;1090;WC Paulaner am Nockherberg - Salvatorkeller;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte;0.0;0.0;Hochstr.;81541;"{""0"":""2"",""1"":""4"",""2"":""11"",""3"":""12""}";0.0, 0.0
+1091;1091;1091;WC Paulaner am Nockherberg - Saal;HalbÃ¶ffentliche Toilette in einer GaststÃ¤tte mit groÃŸem Veranstaltungssaal.;0.0;0.0;Hochstr.;81541;"{""0"":""4"",""1"":""11"",""2"":""12""}";0.0, 0.0
