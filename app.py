@@ -4,12 +4,8 @@ from inference import LHMModel
 
 app = Flask(__name__)
 
-model = None
+model = LHMModel()
 
-@app.before_first_request
-def load_model():
-    global model
-    model = LHMModel()
 
 @app.route('/')
 def show_center():
@@ -22,12 +18,11 @@ def get_address():
     model = LHMModel()
     data = request.get_json()
     model.geo_from_address(data["address"])
-    model.nearby_toilets(data["distance"])
-    return model.map_nearby_toilets()
+    return model.nearby_toilets(data["distance"])
+
 
 # @app.route('/mapped')
 # def mapped_toilets():
-#     global model
 #     mapped = model.map_nearby_toilets()
 #     return mapped
 
