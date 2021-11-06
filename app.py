@@ -1,6 +1,7 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, Response
 import folium
 from inference import LHMModel
+import json
 
 app = Flask(__name__)
 
@@ -12,13 +13,25 @@ def show_center():
     center = model.show_center()
     return center
 
-@app.route('/address', methods=['POST', "GET"])
+@app.route('/address', methods=["GET"])
 def get_address():
     global model
     model = LHMModel()
-    data = request.get_json()
-    model.geo_from_address(data["address"])
-    return model.nearby_toilets(data["distance"])
+    if request.args.get("address") == None:
+        input_address = "Freddie-Mercury-Str. 5"
+    else:
+        input_address =  request.args.get("address")
+
+    if request.args.get("distance") == None:
+        input_distance = 10000
+    else:
+        input_distance =  request.args.get("distance")
+    model.geo_from_address(input_address)
+    toilets = model.nearby_toilets(input_distance)
+    res = Response(toilets, mimetype='text/json')
+    res.headers.add('Access-Control-Allow-Origin', '*')
+    return res
+
 
 
 # @app.route('/mapped')
