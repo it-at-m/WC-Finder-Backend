@@ -1,7 +1,4 @@
-from typing import Optional
-import json
 import folium
-from folium.plugins import MarkerCluster
 import pandas as pd
 from geopy.geocoders import GoogleV3
 from pyproj import Geod
@@ -13,10 +10,9 @@ class LHMModel:
         self.df = pd.read_json('toilets.json')
         self.current = None
         self.nearby_df = None
-        self.nearby_json = None
 
     def show_center(self):
-        boulder_coords = [48.8584, 2.2945]
+        boulder_coords = [48.1351, 11.5820]
         my_map = folium.Map(location=boulder_coords, zoom_start=13)
 
         return my_map._repr_html_()
