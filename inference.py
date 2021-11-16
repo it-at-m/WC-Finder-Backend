@@ -3,33 +3,32 @@ import pandas as pd
 from geopy.geocoders import GoogleV3
 from pyproj import Geod
 from shapely.geometry import Point, LineString
+from flask_restful import Resource, Api
 
-class LHMModel:
+class LHMModel(Resource):
 
     def __init__(self):
-        self.df = pd.read_json('toilets.json')
-        self.current = None
-        self.nearby_df = None
+        self.df = pd.read_json('toilets_v4.json')
+        # self.current = None
+        # self.nearby_df = None
 
-    def show_center(self):
-        boulder_coords = [48.1351, 11.5820]
-        my_map = folium.Map(location=boulder_coords, zoom_start=13)
+    def show_all(self):
+        all_toilets = self.df[['title', 'short_description', 'position', "photo", "eurokey", "ramp_steepness", "door_width"]]
+        all_toilets = all_toilets.to_json(orient="records")
+        return all_toilets
 
-        return my_map._repr_html_()
-
-    def geo_from_address(self, street_hn, city="Munich", country="Germany"):
-        locator = GoogleV3(api_key="AIzaSyBAu96ruSZwSGt8t8muUYlvGLmiHmSSeJQ")
-        location = locator.geocode(street_hn + ", " + city + ", " + country)
-        self.current = (location.latitude, location.longitude)
-
-
-    def nearby_toilets(self, distance):
-        geod = Geod(ellps="WGS84")
-        self.nearby_df = self.df[self.df['geometry'].map(lambda x: geod.geometry_length(LineString([Point(x), self.current]))) < distance]
-        self.nearby_df = self.nearby_df.rename(columns={"geometry":"position"})
-        self.nearby_df = self.nearby_df[['title', 'short_description', 'position']]
-        result = self.nearby_df.to_json(orient="records")
-        return result
+    # def geo_from_address(self, street_hn, city="Munich", country="Germany"):
+    #     locator = GoogleV3(api_key="AIzaSyBAu96ruSZwSGt8t8muUYlvGLmiHmSSeJQ")
+    #     location = locator.geocode(street_hn + ", " + city + ", " + country)
+    #     self.current = (location.latitude, location.longitude)
+    #
+    # def nearby_toilets(self, distance):
+    #     geod = Geod(ellps="WGS84")
+    #     self.nearby_df = self.df[self.df['geometry'].map(lambda x: geod.geometry_length(LineString([Point(x), self.current]))) < distance]
+    #     self.nearby_df = self.nearby_df.rename(columns={"geometry":"position"})
+    #     self.nearby_df = self.nearby_df[['title', 'short_description', 'position']]
+    #     result = self.nearby_df.to_json(orient="records")
+    #     return result
 
     # def map_nearby_toilets(self):
     #     my_map = folium.Map(location=self.current, zoom_start=15)
