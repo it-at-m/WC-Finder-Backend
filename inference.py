@@ -40,5 +40,5 @@ class LHMModel(Resource):
     #
     #     return my_map._repr_html_()
 
-    def filter_further(self):
-        pass
+    # def filter_further(self):
+    #     pass

@@ -1,4 +1,4 @@
-from flask import Flask, request, Response
+from flask import Flask, request, Response, send_file
 from flask_restful import Resource, Api
 from inference import LHMModel
 from flask_cors import CORS
@@ -18,6 +18,12 @@ def show_all():
     all_toilets = model.show_all()
     return all_toilets
 
+
+@app.route('/<path:image_name>')
+def get_image(image_name):
+    filename = image_name
+    print(filename)
+    return send_file(filename)
 
 # @app.route('/address', methods=["GET", "POST"])
 # def get_address():
