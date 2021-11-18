@@ -9,13 +9,23 @@ class LHMModel(Resource):
 
     def __init__(self):
         self.df = pd.read_json('toilets_v4.json')
+        self.df = self.df[['title', 'short_description', 'position', "photo", "eurokey", "ramp_steepness", "door_width"]]
         # self.current = None
-        # self.nearby_df = None
+        self.nearby_df = None
 
     def show_all(self):
-        all_toilets = self.df[['title', 'short_description', 'position', "photo", "eurokey", "ramp_steepness", "door_width"]]
-        all_toilets = all_toilets.to_json(orient="records")
+        all_toilets = self.df.to_json(orient="records")
         return all_toilets
+
+    def filter_ramp(self, incline):
+        self.nearby_df = self.df[self.df["ramp_steepness"] <= incline]
+
+    def filter_door(self, width):
+        self.nearby_df = self.nearby_df[self.nearby_df["door_width"] >= width]
+
+    def filter_key(self, value):
+        if value == 0:
+            self.nearby_df = self.nearby_df[self.nearby_df["eurokey"] == value]
 
     # def geo_from_address(self, street_hn, city="Munich", country="Germany"):
     #     locator = GoogleV3(api_key="AIzaSyBAu96ruSZwSGt8t8muUYlvGLmiHmSSeJQ")

@@ -1,3 +1,7 @@
+# for deployment
+# gcloud builds submit --tag gcr.io/lhm-14-dps/toilets
+# gcloud run deploy --image gcr.io/lhm-14-dps/toilets --platform managed
+
 from flask import Flask, request, Response, send_file
 from flask_restful import Resource, Api
 from inference import LHMModel
@@ -18,12 +22,23 @@ def show_all():
     all_toilets = model.show_all()
     return all_toilets
 
+@app.route('/get_image/<path:image_path>')
+def get_image(image_path):
+    return send_file(image_path)
 
-@app.route('/<path:image_name>')
-def get_image(image_name):
-    filename = image_name
-    print(filename)
-    return send_file(filename)
+@app.route('/get_layout/<path:image_path>')
+def get_layout(image_path):
+    return send_file(image_path)
+
+@app.route('/filter/', methods=["GET", "POST"])
+def filtering():
+    data = request.get_json()
+    model.filter_ramp(data["ramp"]) # keep it first filter for now
+    model.filter_door(data["door"])
+    model.filter_key(data["eurokey"])
+    filtered_toilets = model.nearby_df.to_json(orient="records")
+    return filtered_toilets
+
 
 # @app.route('/address', methods=["GET", "POST"])
 # def get_address():
