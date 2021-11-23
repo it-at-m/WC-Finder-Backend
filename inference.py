@@ -8,8 +8,7 @@ from flask_restful import Resource, Api
 class LHMModel(Resource):
 
     def __init__(self):
-        self.df = pd.read_json('toilets_v4.json')
-        self.df = self.df[['title', 'short_description', 'position', "photo", "eurokey", "ramp_steepness", "door_width"]]
+        self.df = pd.read_json('./preprocessing/toilets_v5.json')
         # self.current = None
         self.nearby_df = None
 
@@ -24,7 +23,9 @@ class LHMModel(Resource):
         self.nearby_df = self.nearby_df[self.nearby_df["door_width"] >= width]
 
     def filter_key(self, value):
-        if value == 0:
+        if value == 2:
+            pass
+        else:
             self.nearby_df = self.nearby_df[self.nearby_df["eurokey"] == value]
 
     # def geo_from_address(self, street_hn, city="Munich", country="Germany"):
