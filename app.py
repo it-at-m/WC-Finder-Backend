@@ -28,7 +28,7 @@ def get_image(image_path):
 
 @app.route('/get_layout/<path:plan_path>')
 def get_layout(plan_path):
-    return send_file(image_path)
+    return send_file(plan_path)
 
 @app.route('/filter/', methods=["GET", "POST"])
 def filtering():
