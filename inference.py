@@ -8,7 +8,7 @@ from flask_restful import Resource, Api
 class LHMModel(Resource):
 
     def __init__(self):
-        self.df = pd.read_json('./preprocessing/toilets_v6.json')
+        self.df = pd.read_json('./preprocessing/toilets_v7.json')
         # self.current = None
         self.nearby_df = None
 
