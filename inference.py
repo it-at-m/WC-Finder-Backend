@@ -4,7 +4,7 @@ import pandas as pd
 class LHMModel:
 
     def __init__(self):
-        self.df = pd.read_json('./preprocessing/toilets_v8.json')
+        self.df = pd.read_json('./preprocessing/toilets_v9.json')
         self.nearby_df = None
 
     def show_all(self):
@@ -22,3 +22,6 @@ class LHMModel:
             pass
         else:
             self.nearby_df = self.nearby_df[self.nearby_df["eurokey"] == value]
+
+    def filter_grip(self, grips):
+        self.nearby_df = self.nearby_df[self]
