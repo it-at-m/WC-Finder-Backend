@@ -4,7 +4,9 @@ import pandas as pd
 class LHMModel:
 
     def __init__(self):
-        self.df = pd.read_json('./preprocessing/toilets_v9.json')
+        self.df = pd.read_json('./preprocessing/toilets_v13.json')
+        self.df["modified"] = pd.to_datetime(self.df["modified"])
+        self.df['modified'] = self.df['modified'].dt.strftime('%d-%m-%Y')
         self.nearby_df = None
 
     def show_all(self):
