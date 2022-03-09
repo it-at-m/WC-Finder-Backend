@@ -1,12 +1,13 @@
-FROM python:3.9-slim
+FROM python:3.9
 
-ENV PYTHONUNBUFFERED True
-ENV APP_HOME /app
-WORKDIR $APP_HOME
-COPY . ./
+WORKDIR /app
 
 COPY requirements.txt requirements.txt
 
 RUN pip install --no-cache-dir -r requirements.txt
 
-CMD exec gunicorn --bind :$PORT --workers 1 --threads 8 --timeout 0 app:app
+ADD . /app
+
+EXPOSE 5000
+
+ENTRYPOINT [ "python", "app.py" ]
