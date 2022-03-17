@@ -7,6 +7,7 @@ from db_connection import get_connection, execute_sql
 
 # contollers
 from controllers.user_controller import *
+from controllers.review_controller import *
 from controllers.auth_controller import authorize
 
 
@@ -89,6 +90,22 @@ def login():
         password=request_json.get("password", None),
     )
     response = login_controller(payload=payload, db_conn=pg)
+    return response
+
+@app.route('/review', methods=['POST'])
+def review():
+    print("review api")
+    request_json = request.json
+    payload = dict(
+        toiletID=request_json.get("id", None),
+        Experience=request_json.get("experience", None),
+        CleanToilet=request_json.get("clean", None),
+        LocateToilet=request_json.get("findToilet", None),
+        Photo=request_json.get("photosUseful", None),
+        Accuracy=request_json.get("infoAccurate", None),
+        MoreInfo=request_json.get("moreExperience", None),
+    )
+    response = review_controller(payload=payload, db_conn=pg)
     return response
 
 
