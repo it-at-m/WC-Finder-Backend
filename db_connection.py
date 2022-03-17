@@ -11,7 +11,7 @@ def get_connection():
             ps_cursor = ps_connection.connect()
             return ps_cursor
     except Exception as error:
-        print("Error while connecting to PostgreSQL aggrigate db", error)
+        print("Error while connecting to PostgreSQL aggregate db", error)
         return None
 
 
