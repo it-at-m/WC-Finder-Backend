@@ -1,7 +1,5 @@
 on:
-  push:
-    branches: [ master ]
-  pull:
+  [push, pull]:
     branches: [ master ]
 
 name: Backend CI/CD
