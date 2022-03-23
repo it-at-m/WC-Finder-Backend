@@ -10,4 +10,4 @@ ADD . /app
 
 EXPOSE 5000
 
-ENTRYPOINT [ "python", "app.py" ]
+ENTRYPOINT [ "gunicorn", "--bind", "0.0.0.0:5000", "wsgi:app" ]
