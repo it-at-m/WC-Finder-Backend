@@ -97,7 +97,7 @@ def review():
     print("review api")
     request_json = request.json
     payload = dict(
-        toiletID=request_json.get("id", None),
+        toiletName=request_json.get("name", None),
         Experience=request_json.get("experience", None),
         CleanToilet=request_json.get("clean", None),
         LocateToilet=request_json.get("findToilet", None),
