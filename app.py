@@ -96,6 +96,10 @@ def login():
 def review():
     print("review api")
     request_json = request.json
+    accuracyDetails = {request_json.get("layouts", None),
+                       request_json.get("filter", None),
+                       request_json.get("direction", None),
+                       request_json.get("euro", None)}
     payload = dict(
         toiletName=request_json.get("name", None),
         Experience=request_json.get("experience", None),
@@ -104,6 +108,7 @@ def review():
         Photo=request_json.get("photosUseful", None),
         Accuracy=request_json.get("infoAccurate", None),
         MoreInfo=request_json.get("moreExperience", None),
+        accuracydetail = accuracyDetails
     )
     response = review_controller(payload=payload, db_conn=pg)
     return response

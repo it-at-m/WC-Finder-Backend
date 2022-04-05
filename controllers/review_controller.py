@@ -4,8 +4,8 @@ def review_controller(payload, db_conn):
     print('Inside Review')
 
     query = """
-        INSERT INTO review (toiletName, Experience, CleanToilet, LocateToilet, Photo, Accuracy, MoreInfo)
-        VALUES ('{toiletName}', '{Experience}', '{CleanToilet}', '{LocateToilet}', '{Photo}', '{Accuracy}', '{MoreInfo}')
+        INSERT INTO review (toiletName, Experience, CleanToilet, LocateToilet, Photo, Accuracy, MoreInfo, accuracydetails)
+        VALUES ('{toiletName}', '{Experience}', '{CleanToilet}', '{LocateToilet}', '{Photo}', '{Accuracy}', '{MoreInfo}', '{accuracydetail}')
         RETURNING id;
     """.format(
         toiletName = payload['toiletName'],
@@ -15,6 +15,7 @@ def review_controller(payload, db_conn):
         Photo = payload['Photo'],
         Accuracy = payload['Accuracy'],
         MoreInfo = payload['MoreInfo'],
+        accuracydetail=payload['accuracydetail']
     )
     data = execute_sql(sql=query, fetchone=True)
     return {
