@@ -110,7 +110,7 @@ def review():
         MoreInfo=request_json.get("moreExperience", None),
         accuracydetail = accuracyDetails
     )
-    # response = review_controller(payload=payload, db_conn=pg)
+    response = review_controller(payload=payload, db_conn=pg)
     return response
 
 
