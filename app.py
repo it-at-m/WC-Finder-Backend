@@ -96,10 +96,10 @@ def login():
 def review():
     print("review api")
     request_json = request.json
-    accuracyDetails = [request_json.get("layouts", 0),
-                       request_json.get("filter", 0),
-                       request_json.get("direction", 0),
-                       request_json.get("euro", 0)]
+    accuracyDetails = [request_json.get("layouts", True),
+                       request_json.get("filter", True),
+                       request_json.get("direction", True),
+                       request_json.get("euro", True)]
     payload = dict(
         toiletName=request_json.get("name", None),
         Experience=request_json.get("experience", None),
