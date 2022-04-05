@@ -5,7 +5,7 @@ def review_controller(payload, db_conn):
 
     query = """
         INSERT INTO review (toiletName, Experience, CleanToilet, LocateToilet, Photo, Accuracy, MoreInfo, accuracydetails)
-        VALUES ('{toiletName}', '{Experience}', '{CleanToilet}', '{LocateToilet}', '{Photo}', '{Accuracy}', '{MoreInfo}', ARRAY {accuracydetail})
+        VALUES ('{toiletName}', '{Experience}', '{CleanToilet}', '{LocateToilet}', '{Photo}', '{Accuracy}', '{MoreInfo}', '{accuracydetail}')
         RETURNING id;
     """.format(
         toiletName = payload['toiletName'],
