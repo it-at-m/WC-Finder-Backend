@@ -2,6 +2,7 @@ from flask import Flask, request, Response, send_file, abort
 from inference import LHMModel
 from flask_cors import CORS, cross_origin
 import os
+import io
 from dotenv import load_dotenv
 from db_connection import get_connection, execute_sql
 
@@ -56,7 +57,7 @@ def get_layout(plan_path):
     return send_file(plan_path)
 
 
-@app.route('/filter/', methods=["GET", "POST"])
+@app.route('/filter', methods=["GET", "POST"])
 @cross_origin(supports_credentials=True)
 # @authorize
 def filtering():
@@ -113,6 +114,31 @@ def review():
     response = review_controller(payload=payload, db_conn=pg)
     return response
 
+@app.route('/loadphoto', methods=["POST"])
+def post_image():
+    image = request.files["photo"]
+    tname = request.headers.get("name")
+    tname = "_".join(tname.split(" "))
+    ext = image.filename.split(".")[-1]
+    path = os.path.join("..", "new_images", tname + "." + ext)
+    if os.path.isfile(path):
+        path = ".".join(path.split(".")[:-1]) + "_1"
+        path = check_path(path + "." + ext)
+        image.save(path)
+    else:
+        image.save(path)
+    return {"Success": path}, 200
+
+def check_path(path):
+
+    if os.path.isfile(path):
+        ext = path.split(".")[-1]
+        path = ".".join(path.split(".")[:-1])
+        temp = "_".join(path.split("_")[:-1])
+        num = path.split("_")[-1]
+        return check_path(temp + "_" + str(int(num) + 1) + "." + ext)
+    else:
+        return path
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0')
