@@ -120,7 +120,7 @@ def post_image():
     tname = request.headers.get("name")
     tname = "_".join(tname.split(" "))
     ext = image.filename.split(".")[-1]
-    path = os.path.join("..", "new_images", tname + "." + ext)
+    path = os.path.join("new_images", tname + "." + ext)
     if os.path.isfile(path):
         path = ".".join(path.split(".")[:-1]) + "_1"
         path = check_path(path + "." + ext)
