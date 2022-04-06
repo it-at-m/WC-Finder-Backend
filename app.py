@@ -57,7 +57,7 @@ def get_layout(plan_path):
     return send_file(plan_path)
 
 
-@app.route('/filter', methods=["GET", "POST"])
+@app.route('/filter/', methods=["GET", "POST"])
 @cross_origin(supports_credentials=True)
 # @authorize
 def filtering():
