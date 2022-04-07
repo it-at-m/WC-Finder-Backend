@@ -29,8 +29,8 @@ model = None
 
 @app.before_first_request
 def load_model():
-    if request.remote_addr not in ["lhm-14-dps.ew.r.appspot.com"]:
-        abort(403)  # Forbidden
+    # if request.remote_addr not in ['127.0.0.1', '0.0.0.0', 'localhost', '192.168.254.3', '34.107.117.179']:
+    #     abort(403)  # Forbidden
     global model
     model = LHMModel()
 
@@ -132,10 +132,11 @@ def post_image():
 def check_path(path):
 
     if os.path.isfile(path):
-        path, ext = os.path.splitext(path)
+        ext = path.split(".")[-1]
+        path = ".".join(path.split(".")[:-1])
         temp = "_".join(path.split("_")[:-1])
         num = path.split("_")[-1]
-        return check_path(temp + "_" + str(int(num) + 1) + ext)
+        return check_path(temp + "_" + str(int(num) + 1) + "." + ext)
     else:
         return path
 
