@@ -29,8 +29,8 @@ model = None
 
 @app.before_first_request
 def load_model():
-    # if request.remote_addr not in ['127.0.0.1', '0.0.0.0', 'localhost', '192.168.254.3', '34.107.117.179']:
-    #     abort(403)  # Forbidden
+    if request.remote_addr not in ['127.0.0.1', '0.0.0.0', 'localhost', '192.168.254.3', '34.107.117.179', "https://lhm-14-dps.ew.r.appspot.com/"]:
+        abort(403)  # Forbidden
     global model
     model = LHMModel()
 
@@ -119,11 +119,11 @@ def post_image():
     image = request.files["photo"]
     tname = request.headers.get("name")
     tname = "_".join(tname.split(" "))
-    ext = image.filename.split(".")[-1]
-    path = os.path.join("new_images", tname + "." + ext)
+    ext = os.path.splitext(image.filename)[1]
+    path = os.path.join("new_images", tname + ext)
     if os.path.isfile(path):
-        path = ".".join(path.split(".")[:-1]) + "_1"
-        path = check_path(path + "." + ext)
+        path = os.path.splitext(path)[0] + "_1"
+        path = check_path(path + ext)
         image.save(path)
     else:
         image.save(path)
@@ -132,11 +132,10 @@ def post_image():
 def check_path(path):
 
     if os.path.isfile(path):
-        ext = path.split(".")[-1]
-        path = ".".join(path.split(".")[:-1])
+        path, ext = os.path.splitext(path)
         temp = "_".join(path.split("_")[:-1])
         num = path.split("_")[-1]
-        return check_path(temp + "_" + str(int(num) + 1) + "." + ext)
+        return check_path(temp + "_" + str(int(num) + 1) + ext)
     else:
         return path
 
