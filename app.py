@@ -29,8 +29,9 @@ model = None
 
 @app.before_first_request
 def load_model():
+    print(request.remote_addr)
     if request.remote_addr not in ['127.0.0.1', '0.0.0.0', 'localhost', '192.168.254.3', '34.107.65.61', "inclus.de",
-                                   "lhm-14-dps.ew.r.appspot.com", "172.25.0.1", "172.26.0.1", "172.27.0.1"]:
+                                   "lhm-14-dps.ew.r.appspot.com", "172.26.0.1"]:
         abort(403)  # Forbidden
     global model
     model = LHMModel()
