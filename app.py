@@ -132,7 +132,7 @@ def post_image():
 def check_path(path):
 
     if os.path.isfile(path):
-        ext = path.split(".")[-1]
+        path, ext = os.path.splitext(path)
         path = ".".join(path.split(".")[:-1])
         temp = "_".join(path.split("_")[:-1])
         num = path.split("_")[-1]
