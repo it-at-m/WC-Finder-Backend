@@ -29,10 +29,10 @@ model = None
 
 @app.before_first_request
 def load_model():
-    if request.remote_addr not in ['127.0.0.1', '0.0.0.0', 'localhost', '192.168.254.3', '34.107.65.61', "inclus.de",
-                                   "lhm-14-dps.ew.r.appspot.com"]:
-        print(request.remote_addr)
-        abort(403)  # Forbidden
+    # if request.remote_addr not in ['127.0.0.1', '0.0.0.0', 'localhost', '192.168.254.3', '34.107.65.61', "inclus.de",
+    #                                "lhm-14-dps.ew.r.appspot.com"]:
+    #     print(request.remote_addr)
+    #     abort(403)  # Forbidden
     global model
     model = LHMModel()
 
@@ -41,7 +41,7 @@ def load_model():
 @cross_origin(supports_credentials=True)
 # @authorize
 def show_all():
-    all_toilets = model.show_all()
+    all_toilets = model.show_all(request.remote_addr)
     return all_toilets
 
 
