@@ -9,8 +9,7 @@ class LHMModel:
         self.df['modified'] = self.df['modified'].dt.strftime('%d-%m-%Y')
         self.nearby_df = None
 
-    def show_all(self, inp):
-        self.df["address"] = inp
+    def show_all(self):
         all_toilets = self.df.to_json(orient="records")
         return all_toilets
 
