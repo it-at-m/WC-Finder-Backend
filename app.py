@@ -40,8 +40,8 @@ def load_model():
 @cross_origin(supports_credentials=True)
 # @authorize
 def show_all():
-    all_toilets = model.show_all()
-    print(request.remote_addr)
+    inp = request.remote_addr
+    all_toilets = model.show_all(inp)
     return all_toilets
 
 
@@ -49,7 +49,6 @@ def show_all():
 @cross_origin(supports_credentials=True)
 # @authorize
 def get_image(image_path):
-    print(request.remote_addr)
     return send_file(image_path)
 
 
@@ -57,7 +56,6 @@ def get_image(image_path):
 @cross_origin(supports_credentials=True)
 # @authorize
 def get_layout(plan_path):
-    print(request.remote_addr)
     return send_file(plan_path)
 
 
@@ -70,7 +68,6 @@ def filtering():
     model.filter_door(data["DoorWidth"])
     model.filter_key(data["EuroKey"])
     filtered_toilets = model.nearby_df.to_json(orient="records")
-    print(request.remote_addr)
     return filtered_toilets
 
 @app.route('/register', methods=['POST'])
