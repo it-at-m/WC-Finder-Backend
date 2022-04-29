@@ -32,7 +32,6 @@ def load_model():
     # if request.remote_addr not in ['127.0.0.1', '0.0.0.0', 'localhost', '192.168.254.3', '34.107.65.61', "inclus.de",
     #                                "lhm-14-dps.ew.r.appspot.com"]:
     #     abort(403)  # Forbidden
-    print(request.remote_addr)
     global model
     model = LHMModel()
 
@@ -42,6 +41,7 @@ def load_model():
 # @authorize
 def show_all():
     all_toilets = model.show_all()
+    print(request.remote_addr)
     return all_toilets
 
 
@@ -49,6 +49,7 @@ def show_all():
 @cross_origin(supports_credentials=True)
 # @authorize
 def get_image(image_path):
+    print(request.remote_addr)
     return send_file(image_path)
 
 
@@ -56,6 +57,7 @@ def get_image(image_path):
 @cross_origin(supports_credentials=True)
 # @authorize
 def get_layout(plan_path):
+    print(request.remote_addr)
     return send_file(plan_path)
 
 
@@ -68,6 +70,7 @@ def filtering():
     model.filter_door(data["DoorWidth"])
     model.filter_key(data["EuroKey"])
     filtered_toilets = model.nearby_df.to_json(orient="records")
+    print(request.remote_addr)
     return filtered_toilets
 
 @app.route('/register', methods=['POST'])
