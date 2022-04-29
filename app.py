@@ -41,7 +41,7 @@ def load_model():
 @cross_origin(supports_credentials=True)
 # @authorize
 def show_all():
-    all_toilets = model.show_all(request.remote_addr)
+    all_toilets = model.show_all()
     return all_toilets
 
 
