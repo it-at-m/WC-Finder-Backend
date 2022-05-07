@@ -29,14 +29,9 @@ model = None
 
 @app.before_first_request
 def load_model():
-    if request.headers.getlist("X-Forwarded-For"):
-        ip = request.headers.getlist("X-Forwarded-For")[0]
-        print(ip)
-    else:
-        ip = request.remote_addr
-        print(ip)
     # if request.remote_addr not in ['127.0.0.1', '0.0.0.0', 'localhost', '192.168.254.3', '34.107.65.61', "inclus.de",
     #                                "lhm-14-dps.ew.r.appspot.com"]:
+    #     print(request.remote_addr)
     #     abort(403)  # Forbidden
     global model
     model = LHMModel()
