@@ -29,6 +29,13 @@ model = None
 
 @app.before_first_request
 def load_model():
+    print("before", request.remote_addr)
+    if request.headers.getlist("X-Forwarded-For"):
+        ip = request.headers.getlist("X-Forwarded-For")
+        print("if", ip)
+    else:
+        ip = request.remote_addr
+        print("else", ip)
     # if request.remote_addr not in ['127.0.0.1', '0.0.0.0', 'localhost', '192.168.254.3', '34.107.65.61', "inclus.de",
     #                                "lhm-14-dps.ew.r.appspot.com"]:
     #     print(request.remote_addr)
