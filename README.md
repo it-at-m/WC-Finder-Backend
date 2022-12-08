@@ -1,4 +1,4 @@
-# batch14--LHM--backend
+# WC Finder (Backend)
 
 backend:
  1. The model class
